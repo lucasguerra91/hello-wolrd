@@ -17,7 +17,7 @@ while True:
         break
 
     try:
-        answer = int(first_number) / int(second_number)
+        answer = float(first_number) / float(second_number)
     except ZeroDivisionError:
         print("You can't divide by Zero!")
     else:
