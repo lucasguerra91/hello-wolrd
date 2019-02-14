@@ -1,4 +1,4 @@
-print 'Capitulo 12 \nClases y objetos'
+print('Capitulo 12 \nClases y objetos')
 
 # ------------------ CLASES ------------------
 
@@ -14,8 +14,8 @@ class Rectangulo:
 
 # Instancia como parametro
 def imprimePunto(p):
-    print 'Los valores del punto',id(p),'son:'
-    print '(' + str(p.x) + ',' + str(p.y) + ')'
+    print('Los valores del punto',id(p),'son:')
+    print('(' + str(p.x) + ',' + str(p.y) + ')')
 # Distancia entre dos puntos
 def distanciaPuntos(a,b):
     d = a.x * b.x + a.y * b.y
@@ -46,39 +46,38 @@ blanco = Punto()
 blanco.x = 4.0
 blanco.y = 3.0
 
-print 'Valores X e Y para blanco\n',blanco.x, blanco.y
-print '('+ str(blanco.x) + ',' + str(blanco.y)+ ')' # Otra forma de imprimir
+print('Valores X e Y para blanco\n',blanco.x, blanco.y)
+print('('+ str(blanco.x) + ',' + str(blanco.y)+ ')') # Otra forma de imprimir)
 
 distanciaAlCuadrado = blanco.x * blanco.x + blanco.y * blanco.y
-print 'La distancia al cuadrado es de : ',distanciaAlCuadrado
-
+print('La distancia al cuadrado es de : ', distanciaAlCuadrado)
 
 negro = Punto()
 negro.x = 5
 negro.y = 7
 imprimePunto(negro)
 
-print 'La distancia entre los puntos blanco y negro es :',distanciaPuntos(blanco,negro),'\n'
+print('La distancia entre los puntos blanco y negro es :',distanciaPuntos(blanco,negro),'\n')
 
 # Mismidad
 # Que dos objetos tengan los mismos valores no los hace iguales
-print 'Creamos dos puntos P1 y P2 y le asignamos los mismos valores.\n'
+print('Creamos dos puntos P1 y P2 y le asignamos los mismos valores.\n')
 p1 = Punto()
 p2 = Punto()
 p1.x = 2
 p1.y = 3
 p2.x = 2
 p2.y = 3
-print 'Comprobamos si son iguales y nos encontramos con que :'
+print('Comprobamos si son iguales y nos encontramos con que :')
 if p1 == p2:
-    print 'Son iguales '
+    print('Son iguales ')
 else:
-    print 'No son iguales'
+    print('No son iguales')
 
-print 'Ahora lo hacemos mediante la funcion mismoPunto :'
-print mismoPunto(blanco, negro),'\n\n'
+print('Ahora lo hacemos mediante la funcion mismoPunto :')
+print(mismoPunto(blanco, negro),'\n\n')
 
-print 'Rectangulos'
+print('Rectangulos')
 # Instanciamos el objeto
 caja = Rectangulo()
 caja.anchura = 100.0
@@ -91,7 +90,7 @@ caja.esquina.y = 0.0
 # Instancias como valores de retorno
 centro = encuentraCentro(caja)
 imprimePunto(centro)
-print '\n'
+print('\n')
 
 # Los objetos son mudables
 rec = Rectangulo()
@@ -100,18 +99,18 @@ rec.altura = 200.0
 rec.esquina = Punto
 rec.esquina.x = 0.0
 rec.esquina.y = 0.0
-print 'Primer estado del rectangulo rec '
-print 'Anchura del rectangulo :' ,rec.anchura
-print 'Altura del rectangulo :' ,rec.altura,'\n'
+print('Primer estado del rectangulo rec ')
+print('Anchura del rectangulo :' ,rec.anchura)
+print('Altura del rectangulo :' ,rec.altura,'\n')
 agrandaRect(rec,50,100)
-print 'Estado del triangulo despues de agrandarlo '
-print 'Anchura del rectangulo :' ,rec.anchura
-print 'Altura del rectangulo :' ,rec.altura, '\n'
+print('Estado del triangulo despues de agrandarlo ')
+print('Anchura del rectangulo :' ,rec.anchura)
+print('Altura del rectangulo :' ,rec.altura, '\n')
 
-print 'Primer posicion del rectangulo rec '
-print 'Punto x de la esquina del rectangulo :' ,rec.esquina.x
-print 'Punto y de la esquina del rectangulo :' ,rec.esquina.y,'\n'
+print('Primer posicion del rectangulo rec ')
+print('Punto x de la esquina del rectangulo :' ,rec.esquina.x)
+print('Punto y de la esquina del rectangulo :' ,rec.esquina.y,'\n')
 mueveRect(rec,10,5)
-print 'Posicion del triangulo despues de moverlo'
-print 'Punto x de la esquina del rectangulo :' ,rec.esquina.x
-print 'Punto y de la esquina del rectangulo :' ,rec.esquina.y,'\n'
+print('Posicion del triangulo despues de moverlo')
+print('Punto x de la esquina del rectangulo :' ,rec.esquina.x)
+print('Punto y de la esquina del rectangulo :' ,rec.esquina.y,'\n')
