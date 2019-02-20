@@ -8,7 +8,7 @@ def es_par(x):
 
 def es_primo(x):
     """ Verifica si es primo """
-
+    
 
 
 x = int(input('Ingrese un numero'))
