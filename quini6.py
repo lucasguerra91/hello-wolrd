@@ -1,14 +1,16 @@
 import random
+import os
 
 
 def carton():
-    jugada = random.sample(range(0, 46), 6)
+    jugada = sorted(random.sample(range(1, 46), 6))
     return jugada
 
 
 cantidad = int(input('Cuantas jugadas desea calcular? \n'))
 
 for x in range(0, cantidad):
-    print('Apuesta nro ', x + 1, ':', carton(),'\n')
+    print('Apuesta nro ', x + 1, ':', carton(), '\n')
 
 print('Buena suerte!')
+os.system('pause')	
