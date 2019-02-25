@@ -10,29 +10,48 @@
 import os
 
 
+def clear():
+    """ cls de windows """
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+
+def pausar():
+    """ pausa de windows"""
+    os.system('pause')
+
+
 def es_potencia_de_dos(numero):
+    """ Verifica si es potencia de dos, en primera instancia descartamos el 1 , que seria 2 a la 0
+     luego vemos si podemos componer el numero que tenemos como potencia de dos y de paso devolvemos
+     que potencia de dos es , en caso de serlo
+    """
+    if numero == 1:
+        return True, 0
+
+    r = 1
     for i in range(1, numero):
-        r = numero % 2
-        if r == 0:
-            return True
+        r *= 2
+        if r == numero:
+            return True, i
         else:
             continue
+
     return False
 
 
 def leer_numero():
-    return input('Ingrese el numero que desea verificar (* para salir) ')
+    return input('\nIngrese el numero que desea verificar (* para salir) ')
 
 
 x = leer_numero()
 while x != '*':
-    z = int(x)
-    if es_potencia_de_dos(z):
-        print('Es potencia de dos')
+    potencia, cual = es_potencia_de_dos(int(x))
+    if potencia:
+        print('Es potencia, 2 a la ', cual)
     else:
         print('No es potencia de dos')
     x = leer_numero()
 
+clear()
+print('Hasta luego..')
 os.system('pause')
-
-
