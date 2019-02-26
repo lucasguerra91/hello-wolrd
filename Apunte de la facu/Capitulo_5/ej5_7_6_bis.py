@@ -33,10 +33,12 @@ def es_potencia_de_dos(numero):
         r *= 2
         if r == numero:
             return True, i
+        # elif r > numero:
+         #   return False, -1
         else:
             continue
+    return False, -1
 
-    return False
 
 
 def leer_numero():
