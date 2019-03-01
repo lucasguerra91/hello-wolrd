@@ -29,6 +29,7 @@ for i in range(3):
     duracion = 5
     if user_pass == password:
         print('Bienvenido.. \n')
+        break
     else:
         if 3-(i+1) > 0:
             print('Contraseña incorrecta, le quedan ', 3-(i+1), 'intentos.. \nEspere..')
