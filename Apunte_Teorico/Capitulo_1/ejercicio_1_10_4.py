@@ -2,6 +2,7 @@ from builtins import print
 import math
 from fractions import Fraction
 
+
 def perimetro_rectangulo(b, h):
     return 2 * (b + h)
 
@@ -26,7 +27,6 @@ def volumen_esfera(rad):
     return float((4 * math.pi * math.pow(rad, 3)) / 3)
 
 
-"""
 print('Calculo del perímetro de un rectángulo')
 b = int(input('Ingrese el valor de la base : '))
 h = int(input('Ingrese el valor de la altura : '))
@@ -40,15 +40,13 @@ y1 = int(input('Ingrese el valor de Y1 : '))
 y2 = int(input('Ingrese el valor de Y2 : '))
 print('El área del rectángulo es :', area_rectangulo_coordenadas(x1, x2, y1, y2), '.')
 
-print('Calculo del perimetro y area de un circulo')
+print('Calculo del perímetro y area de un circulo')
 radio = int(input('Ingrese el valor del radio de un circulo'))
-print('El perimetro del circulo es : ', perimetro_circulo_radio(radio))
+print('El perímetro del circulo es : ', perimetro_circulo_radio(radio))
 print('El area del circulo es : ', area_circulo(radio))
 print('El volumen de la esfera es : ', volumen_esfera(radio))
 
-"""
-
-print('Calculo de la hipotenusa de un triangulo rectangulo')
+print('Calculo de la hipotenusa de un triangulo rectángulo')
 a = input('Ingrese el valor del cateto adyacente')
 b = input('Ingrese el valor del cateto opuesto')
 
