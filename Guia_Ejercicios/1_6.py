@@ -1,6 +1,6 @@
 """
     Pedir al usuario una palabra , imprimirla 1000 veces en una misma linea con
-    espacios, investigar sobre el parámetro end de la función print
+    espacios, inves u   tigar sobre el parámetro end de la función print
 
     end = indica con que termina una orden print
     sep = nos permite agregar un separador
