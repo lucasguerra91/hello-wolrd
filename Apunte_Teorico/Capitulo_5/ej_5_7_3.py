@@ -1,6 +1,8 @@
 import os
 import time
 
+PASSWORD = '123456'
+
 
 def cls():
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -21,13 +23,11 @@ def verifica_pass(pwd, user_pwd):
 
 # -- Ciclo de ejecución --
 
-password = '123456'
-
 
 for i in range(3):
     user_pass = ingreso_pass()
     duracion = 5
-    if user_pass == password:
+    if user_pass == PASSWORD:
         print('Bienvenido.. \n')
         break
     else:
@@ -39,9 +39,9 @@ for i in range(3):
             print('Ya no le quedan intentos, vuelva mas tarde..')
 
 
-if verifica_pass(password, user_pass):
+if verifica_pass(PASSWORD, user_pass):
     print('\nLa contraseña coincide')
 else:
     print('\nNinguna de las contraseñas ingresadas coinciden')
 
-os.system('pause')
+# os.system('pause')
