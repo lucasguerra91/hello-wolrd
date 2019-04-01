@@ -4,3 +4,8 @@
 def imprime_matriz(n):
     return None
 
+
+matriz = [1], [0]
+
+for i in range(len(matriz)):
+    print(matriz[i][i])

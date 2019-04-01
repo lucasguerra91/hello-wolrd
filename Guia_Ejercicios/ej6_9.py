@@ -12,7 +12,7 @@ def limpiar_pantalla():
 def pedir_numero(mensaje, minimo, maximo):
     entrada = input(mensaje)
     paciencia = 1
-    while not entrada.isdigit():
+    while not entrada.lstrip('-').isdigit():
         limpiar_pantalla()
         if paciencia <= 3:
             print('El valor ingresado no corresponde, intentémoslo otra vez ..')
@@ -32,3 +32,7 @@ def pedir_numero(mensaje, minimo, maximo):
 
 edad = pedir_numero('Hola, cuantos años tenes [0 - 150]? ', 0, 150)
 print('DEBUG >>> EDAD = {}'.format(edad))
+
+numero = pedir_numero('Hola, pasame un entero entre -5 y 55 ', -5, 55)
+print('DEBUG >>> numero = {}'.format(numero))
+
