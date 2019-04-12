@@ -8,4 +8,5 @@ def imprime_matriz(n):
 matriz = [1], [0]
 
 for i in range(len(matriz)):
-    print(matriz[i][i])
+    for j in range(len(matriz)):
+        print(matriz[i][j])
