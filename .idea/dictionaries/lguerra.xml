@@ -7,14 +7,23 @@
       <w>cnta</w>
       <w>cntc</w>
       <w>codigo</w>
+      <w>diag</w>
       <w>digitos</w>
       <w>duracion</w>
+      <w>ejecucion</w>
+      <w>instruccion</w>
+      <w>logico</w>
+      <w>minima</w>
+      <w>minimo</w>
       <w>mult</w>
       <w>numeros</w>
+      <w>parametros</w>
+      <w>perdia</w>
       <w>perimetro</w>
       <w>rectangulo</w>
       <w>reflejoojelfer</w>
       <w>seleccion</w>
+      <w>separacion</w>
       <w>ultimos</w>
     </words>
   </dictionary>
