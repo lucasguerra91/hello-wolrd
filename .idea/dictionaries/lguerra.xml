@@ -7,6 +7,7 @@
       <w>cnta</w>
       <w>cntc</w>
       <w>codigo</w>
+<<<<<<< HEAD
       <w>colx</w>
       <w>debbug</w>
       <w>digitos</w>
@@ -22,6 +23,20 @@
       <w>mult</w>
       <w>numeros</w>
       <w>parametros</w>
+=======
+      <w>diag</w>
+      <w>digitos</w>
+      <w>duracion</w>
+      <w>ejecucion</w>
+      <w>instruccion</w>
+      <w>logico</w>
+      <w>minima</w>
+      <w>minimo</w>
+      <w>mult</w>
+      <w>numeros</w>
+      <w>parametros</w>
+      <w>perdia</w>
+>>>>>>> a5c9647ef991a3c5c866c47010a72af9760d1022
       <w>perimetro</w>
       <w>rectangulo</w>
       <w>reflejoojelfer</w>

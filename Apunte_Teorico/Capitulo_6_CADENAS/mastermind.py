@@ -30,7 +30,7 @@ def ingreso_codigo():
 
 
 def verifica_ingreso(ingreso, codigo):
-    """ Verifica los aciertos y las coincidencias """
+    """ Verifica los aciertos y las coincidencias devolviendo ambos  """
     cntc = 0
     cnta = 0
     for x in range(CANT_DIGITOS):
