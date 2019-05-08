@@ -1,0 +1,15 @@
+Automatic invariant detection in imperative programs
+Abstract interpretation tools can compute simple invariants of given imperative computer programs. 
+The kind of properties that can be found depend on the abstract domains used. 
+Typical example properties are single integer variable ranges like 0<=x<1024, relations between several variables like 0<=i-j<2*n-1, and modulus information like y%4==0. 
+Academic research prototypes also consider simple properties of pointer structures.[10]
+
+More sophisticated invariants generally have to be provided manually. 
+In particular, when verifying an imperative program using the Hoare calculus,[11] a loop invariant has to be provided manually for each loop in the program, which is one of the reasons this is generally impractical for most programs.
+
+In the context of the above MU puzzle example, there is currently no general automated tool that can detect that a derivation, "MI →...→ MU", is impossible only from rules 1-4. 
+However, once the abstraction from the string to the number of its "I"s has been made by hand, leading e.g. to the following C program, 
+an abstract interpretation tool will be able to detect that ICount%3 can't be 0 and hence the "while"-loop will never terminate.*
+
+
+hola
