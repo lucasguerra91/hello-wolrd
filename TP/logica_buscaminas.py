@@ -4,8 +4,8 @@ import re
 import os
 
 # Maximo 26
-DIMENSION = 4
-MINAS = 8
+DIMENSION = 8
+MINAS = 10
 
 
 def limpiar_pantalla():
@@ -28,7 +28,12 @@ def crear_tablero():
 def mostrar_tablero(tablero):
     """ Muestra el tablero al jugador"""
     cabecera = ' '
-    separacion = (8 * len(tablero) * '-')
+    # En la consola de PyCharm y en la GitBash se grafica bien, en la cmd de Guindous no
+    if os.name == 'nt':
+        separacion = (15 * len(tablero) * '-')
+    else:
+        separacion = (8 * len(tablero) * '-')
+
     for i in range(len(tablero)):
         cabecera += '\t' + str(i+1) + '\t'
     print(cabecera + '\n' + separacion)
@@ -68,8 +73,11 @@ def cargar_minas():
 
 
 def verificar_ingreso(ingreso, mensaje_ins):
-    """ Verifica la entrada del usuario y devuelve el casillero y el estado
-    de la bandera"""
+    """ Recibe el ingreso del usuario y el mensaje de instrucciones de juego.
+        Verifica el formato de ingreso:
+        - Si es correcto: devuelve el par fila-columna de la casilla como tupla, la bandera (True/False) y
+        un mensaje vacio.
+        - Si no es correcto , devuelve None None Mensaje (indicando que la casilla se ingreso mal)"""
 
     bandera = False
     casilla = ()
@@ -80,27 +88,36 @@ def verificar_ingreso(ingreso, mensaje_ins):
     if ingreso == 'salir':
         return 'Salir'
 
-    patron_ingreso = r'([a-{}])([1-{}]+)(%?)'.format(ascii_lowercase[DIMENSION - 1], DIMENSION)
+    patron_ingreso = r'([a-{}])([0-9]+)(%?$)'.format(ascii_lowercase[DIMENSION - 1])
+
     # search devuelve un grupo con los parametros si cumplen con la expresion regular
     entrada_valida = re.search(patron_ingreso, ingreso)
 
     if entrada_valida:
         fila = int(ascii_lowercase.index(entrada_valida.group(1)))
         columna = int(entrada_valida.group(2))-1
+        # DEBUG - la regEx rompe si tomo dos digitos -
+        # print(type(columna))
+        # print(columna)
         bandera = bool(entrada_valida.group(3))
-        mensaje = ''
+
+        if columna < DIMENSION:
+            casilla = (fila, columna)
+            mensaje = ''
+        else:
+            limpiar_pantalla()
+            return None, None, mensaje
     # FIX - Luego de ingresar asdf dos veces marcaba que ya estaba ingresada
     else:
         limpiar_pantalla()
         return None, None, mensaje
 
-    casilla = (fila, columna)
-    # print('DEBUGG - FILA Y COLUMNA {} {}'.format(fila, columna))
-
     return casilla, bandera, mensaje
 
 
 def contar_adyacentes(casilla, tablero):
+    """ Recibe como parámetros: una tupla con los indices de la casilla y el tablero logico.
+        Devuelve la cantidad de minas adyacentes a la casilla que recibió."""
     contador = 0
     fila, columna = casilla
     for i in range(max((fila - 1), 0), min((fila + 2), DIMENSION)):
@@ -111,9 +128,8 @@ def contar_adyacentes(casilla, tablero):
 
 
 def verificar_restantes(tablero):
-    """ Recibe el tablero logico actual, devuelve True si ya no hay casillas por revelar o False si todavia hay"""
+    """ Recibe el tablero logico actual, devuelve True si ya no hay casillas por revelar o False si todavia hay """
     contador_libres = 0
-
     for i in range(DIMENSION):
         for j in range(DIMENSION):
             if tablero[i][j] != '*' and tablero[i][j] != '.':
@@ -122,5 +138,4 @@ def verificar_restantes(tablero):
     # print(DIMENSION ** 2 - MINAS)
     if contador_libres == (DIMENSION ** 2 - MINAS):
         return True
-
     return False

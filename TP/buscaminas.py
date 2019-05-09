@@ -9,8 +9,8 @@ def jugar():
     tablero_logico, minas = l.cargar_minas()
     descubiertas = []
     banderas = []
-    mensaje_instruccion = "Ingrese fila y columna para indicar la casilla que desea desbloquear (ej: b1) \n" \
-              "Para agregar una bandera agregue el simbolo '%' al final(ej: b1%) \n \n"
+    mensaje_instruccion = "Ingrese fila y columna para indicar la casilla que desea desbloquear. Ej: b1 \n" \
+              "Para agregar una bandera agregue el simbolo '%' al final. Ej: b1% (Un solo %) \n \n"
     turnos = 0
     # print('DEBBUG - TABLERO LOGICO \n')
     # mostrar_tablero(tablero_logico)
@@ -58,6 +58,8 @@ def jugar():
                 else:
                     mensaje = 'No se puede poner la bandera en una casilla descubierta..'
 
+            elif casilla in banderas:
+                mensaje = 'No se puede descubrir una casilla con bandera..'
             else:
                 adyacentes = l.contar_adyacentes(casilla, tablero_logico)
                 descubiertas.append(casilla)

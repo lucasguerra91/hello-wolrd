@@ -2,4 +2,5 @@
 .idea/dictionaries/lucas.xml
 .idea/misc.xml
 .idea/some-python.iml
+.idea/*
 venvs/*
