@@ -1,2512 +1,1144 @@
-El:	{'25': 1, 'padre': 1, '6': 1, '20': 1, 'volcán': 1, 'mago': 1, 'VAR': 1, 'estudio': 1, '"uncanny': 1, 'pasado': 1, 'propósito': 1, 'Principito': 1, '"complejo': 1, '30': 1, 'Papa': 1, 'objetivo': 1, 'componente': 1, '"pseudoliparis': 1, 'zorro': 1, 'caracol': 1, 'síndrome': 1, 'punto': 1, 'miedo': 2}
-25:	{'de': 2, 'años': 1, 'kilos': 2}
-de:	{'abril': 5, '1974': 1, 'los': 36, 'Salazar.': 1, 'las': 10, 'la': 72, 'una': 4, 'Homero,': 1, '1184': 1, '#Troya': 1, 'mito': 1, 'Lord': 2, 'Ada': 1, '#DaVinci,': 1, 'Charles': 1, '1889.': 1, '1828,': 1, '#Goya,': 1, 'sus': 3, '#JuegodeTronos': 1, '#Instagram': 1, '#instagram': 1, '1961,': 1, '#Oswald?': 1, '1626': 1, '@JoaquinCaparros': 1, 'más': 1, '#JuegoDeTronos!': 1, 'Atenas': 1, '1896,': 1, 'que': 4, 'mi': 1, '1994.': 1, 'Seattle': 1, 'heroína': 1, 'sangre.': 1, 'Kurt': 1, '#Nirvana': 1, 'canciones': 1, 'nacimiento': 2, 'Cristóbal': 1, 'esas': 1, '#muertesabsurdas': 1, 'béisbol': 1, 'su': 10, 'Jobs.': 1, 'marzo': 4, '1889,': 1, 'Francia.': 1, '#VanGogh': 1, 'ayer,': 1, 'este': 1, 'quien': 1, 'todos': 1, 'honor': 1, 'ese': 1, 'María': 1, 'Franco.': 1, '#MaríaCasares,': 1, 'Sofía,': 1, 'España.': 2, 'millón': 1, 'personas': 3, 'un': 4, 'Alejandro': 1, 'Grecia': 1, 'reinado': 1, 'evitar': 1, 'sangre': 2, 'Ragda,': 1, 'Irak': 1, '#guerra': 1, 'conflicto”.': 1, 'primera': 1, '1685,': 1, '2003': 1, '16': 1, 'hombres': 1, 'Instagram': 3, 'septiembre': 1, '1964.': 1, 'marzo,': 1, 'Albert': 1, '#Arquímedes,': 1, 'trastorno': 1, 'ansiedad,': 1, 'algo': 1, 'volver': 1, 'hecho': 1, 'mujeres': 1, 'ellas,': 2, 'reivindicar': 1, 'cada': 2, 'marzo!': 1, '1933,': 1, 'uno': 1, '1869,': 1, 'Rusia,': 1, 'trastornos': 1, 'meses': 1, '100': 1, '400': 1, 'Galicia': 2, 'Japón.': 1, 'Chugoku,': 1, 'comadre': 1, 'Instagram,': 1, 'trivial.': 1, '#trivial,': 1, 'Hollywood': 1, '59': 1, 'otros': 2, '#RosalíadeCastro': 1, '#RosalíadeCastro,': 1, 'ser': 2, 'vuestra': 1, 'agosto,': 1, 'febrero': 9, 'octubre.': 1, 'gatos': 1, '2009': 1, 'tiroides': 1, 'riñón.': 1, 'Socks,': 1, '2009.': 1, 'Hans': 1, 'nuevo': 1, 'provocar': 1, 'Catania.': 1, '@SERhistoria.': 1, '1564,': 1, 'esta': 1, '1946,': 1, 'creación': 1, 'Selznick,': 1, '"Lo': 1, '10': 1, 'quince': 1, 'penaltis': 1, 'identidad': 1, 'Darwin,': 1, 'revolución': 1, '1809,': 1, 'ellas.': 1, '#IsaacAsimov': 1, 'aventuras': 1, 'mujer': 1, 'Etiopía,': 2, 'Haile': 1, '1945,': 1, 'ver': 1, 'apareamiento.': 1, '2019,': 1, '3,5': 2, '25': 1, 'científicos': 1, 'vida': 1, 'pacientes': 1, 'ellos': 1, 'Luis': 1, 'Hortaleza",': 1, 'fútbol': 1, '2008.': 1, 'semana': 1, 'España': 1, 'caza': 1, '75.700': 1, '12.000': 1, 'Cenicienta"': 1, 'algunas': 1, 'lado': 1, '1820': 1, 'enero': 9, '1882,': 2, 'Estados': 2, 'enero,': 2, 'Gandhi,': 1, 'permitir': 1, 'origen': 1, 'vender': 1, 'Trasplantes': 1, 'liderazgo': 1, 'órganos,': 1, 'batir': 1, 'CO2': 1, 'gases': 1, 'todos!': 1, '1756,': 1, 'sueño': 2, 'memoria': 1, 'tener': 1, 'Euclides.': 1, 'ciertos': 1, 'bostezar.': 1, 'Marvin': 1, 'A': 2, 'pulmón.': 2, 'pulmón': 2, 'Salvador': 1, 'pez': 1, '8.200': 1, 'National': 1, 'Cristo': 1, 'altura': 1, 'Świebodzin': 1, 'Francia': 1, '1793.': 1, '1793,': 1, 'lo': 1, 'sangre,': 1, 'Sangre': 1, 'empezar': 1, '@MensHealthMag,': 1, '45': 1, 'Usain': 1, 'Israel': 1, 'todas': 1, '40': 1, 'Pensilvania,': 1, 'rostros': 1, 'soldados': 1, '1706,': 1, '1776': 1, 'objetos': 1, 'cuidar': 1, 'cacería': 1, 'activistas': 1, '2019': 1, 'George,': 1, 'Hawai': 1, 'Twitter.': 1, 'Gran': 1, 'Londres,': 1, '1759.': 1, 'bacteria': 1, 'tampones': 1, 'forma': 1, '251': 1, 'kilómetros': 1, 'águilas': 1, 'tres': 1, 'peso.': 1, 'ácaros': 1, 'John': 1, 'Galileo': 1, '1642': 1, 'origen.': 1}
-abril:	{'de': 5}
-1974:	{'sucedió': 1}
-sucedió:	{'en': 1}
-en:	{'#Portugal': 1, 'esta': 4, 'la': 18, 'un': 5, 'su': 6, 'el': 26, 'Londres,': 1, 'nuestras': 3, 'viajar': 2, 'nuestros': 2, 'órbita': 1, 'cómo': 1, '#estereotipos': 1, 'Kansas.': 1, 'marzo,': 1, 'manos': 1, '1936,': 1, 'Francia,': 1, 'Yemen': 1, 'zonas': 1, 'nuestro': 2, 'Alemania': 1, 'las': 2, 'una': 6, 'nuestra': 1, 'Instagram': 1, 'uno': 1, 'San': 1, 'donde': 2, 'esa': 2, 'riesgo.': 1, 'este': 2, 'Japón.': 1, 'muchos': 1, 'vuestras': 1, 'los': 6, '#Hollywood': 2, 'español.': 1, 'mascotas': 1, 'honor': 2, '#EstadosUnidos;': 1, '#Sicilia,': 1, 'erupción': 1, 'España,': 1, 'Pisa': 1, '2013.': 1, 'Inglaterra.': 1, 'cuatro': 1, 'Inglaterra': 1, '#Champions': 1, '@LaLiga.': 1, 'cualquier': 1, 'que': 1, 'gran': 1, 'Jamaica': 1, 'Pensilvania,': 1, 'buenas': 1, 'Galicia': 2, 'todo': 4, 'oro.': 1, 'algunos': 1, 'trasplantes': 1, 'Salzburgo': 1, 'plena': 1, 'Londres': 1, '72': 1, 'clase': 1, '2018.': 1, '1939,': 1, 'privado.': 1, 'Francia.': 1, 'Youtube!!': 1, '1952,': 1, 'aquel': 1, 'fotografías': 1, 'tu': 1, 'riesgo': 1, 'jueves': 1, 'dormirse.': 1, 'Pisa,': 1}
-#Portugal:	{'la': 1}
-la:	{'Revolución': 2, 'dictadura': 1, 'canción': 1, 'historia.': 7, 'película': 1, 'Ilíada': 1, '#leyenda,': 1, 'Guerra': 2, 'destrucción': 2, 'ciudad.': 1, 'muerte': 12, '#literatura': 1, 'Madre': 1, 'última': 3, '#Champions': 1, 'más': 2, 'nave': 1, 'Unión': 1, 'historia': 2, 'historia,': 8, 'misma': 2, 'Fundación': 1, 'información.': 1, '8ª': 1, 'Era': 1, 'cabeza': 1, 'versión': 1, '#historia': 1, 'vuestra?': 1, 'casa': 1, 'pregunta': 2, 'cuida.': 1, 'talla.': 1, 'escena': 1, 'Legión': 1, 'República': 1, 'esperaba': 1, 'figura': 1, 'tumba.': 1, 'guerra.': 1, 'presentación': 1, 'sonrisa': 1, 'inteligencia': 3, 'humanidad?': 1, 'antigüedad': 1, 'mayoría': 1, 'dedicamos': 1, 'volvimos': 1, 'mujer': 3, '#CostaDaMorte.': 2, 'sombra': 1, 'de': 1, 'injusticia': 1, 'verdadera': 1, 'Tabla': 1, '#TablaPeriódica!': 1, 'primera': 4, 'Sociedad': 1, 'palabra': 1, 'antesala': 1, 'fisioterapia.': 1, 'mutación': 1, 'comarca.': 1, 'suposición': 1, '#ataxia': 1, 'región': 1, 'Academia': 1, '91ª': 1, 'escritora': 1, '#animación': 1, 'ONU,': 1, 'diversidad': 1, 'importancia': 2, '#diversidad': 1, 'península': 1, 'experta': 1, 'eutanasia': 2, 'Casa': 1, 'fecha': 1, 'Paz': 1, 'del': 1, 'década': 1, 'actividad': 1, 'luna.': 1, 'rotación': 1, 'Tierra.': 1, 'revolución': 2, 'UNESCO': 1, 'radio': 1, 'mano': 1, 'naturaleza': 1, 'divinidad.': 1, 'religión': 1, '#diversidadfuncional?': 1, 'semana': 1, 'Asociación': 1, '#InteligenciaArtificial?': 1, 'robótica': 1, 'ciencia': 1, '#ilustración?': 1, 'padecieron': 1, 'esclavitud': 1, 'leyenda': 1, 'primavera': 1, 'marmota': 1, 'hibernación': 1, 'fertilidad': 1, 'virilidad': 1, 'astrología': 1, 'animación': 1, 'vida': 1, '#psicooncología.': 1, 'enfermedad': 1, 'calidad': 1, 'Selección': 1, 'Eurocopa': 1, 'región,': 1, 'piedra': 1, 'No': 1, 'Paz,': 1, 'educación': 1, 'tolerancia,': 1, 'lucha': 1, 'mutilación': 1, 'homosexualidad,': 1, 'venta': 1, 'boca': 1, 'Organización': 1, '#ciencia?': 1, 'Reducción': 1, 'alabanza': 1, 'música.': 1, 'posibilidad': 1, 'censura': 1, 'mayor': 1, 'ciencia,': 1, 'alegría': 1, 'depresión': 1, 'clomipramina.': 1, 'plasticidad': 1, '#cirugía': 2, 'reencarnación': 1, 'pintura': 1, 'estatua': 1, 'colina),': 1, 'zona': 1, 'imagen?': 1, 'guillotina.': 1, 'monarquía': 1, 'animación,': 1, 'luna': 1, 'edad': 1, 'velocidad': 1, 'eyaculación': 1, 'presidencia': 1, 'I': 2, 'pandemia': 1, 'Gripe': 1, 'lente': 1, 'mitología': 1, 'Xunta.': 1, 'indignación': 1, 'Piedra': 1, 'vida.': 1, 'calor': 1, 'Tierra': 1, 'Antártida,': 1, 'otra': 1, 'siesta,': 1, 'mejor': 1, 'digestión.': 1, 'piel': 1, 'excitación': 1, 'astronomía': 1}
-Revolución:	{'de': 1, 'Francesa.': 1}
-los:	{'#Claveles,': 1, 'días': 1, 'nombres': 1, 'mayores': 3, 'artistas': 1, 'personajes': 1, '#JuegosOlímpicos': 1, 'primeros': 2, 'antiguos.': 1, 'grandes': 3, 'actores': 1, 'jugadores': 1, '29': 1, 'padres': 1, 'tiempos': 1, 'meses': 1, 'Helenos.': 1, '27': 1, '11': 1, 'que': 2, 'científicos': 3, 'inventos': 1, 'principales': 2, 'juegos': 1, '63': 1, 'Premios': 2, '#Nobel,': 1, 'trabajos': 1, 'galardonados': 1, 'cuales': 1, 'habitantes': 1, '#stories': 1, 'resultados!': 1, 'Stories': 1, '#zombies?': 1, 'gatos': 2, 'Clinton': 2, 'eventos': 1, '40.': 1, 'Caídos,': 1, 'rodajes.': 1, 'robots': 1, 'pioneros': 1, 'poderes': 1, 'gatos.': 2, 'dueños': 1, 'perros': 1, 'requisitos': 1, 'perros,': 1, 'restos': 1, 'Derechos': 2, 'pobres': 1, 'pacientes,': 1, 'ordenadores': 1, 'tumores': 2, 'creyentes.': 1, 'síntomas': 1, 'animales.': 1, 'últimos': 1, 'árboles': 1, 'jeroglíficos': 1}
-#Claveles,:	{'el': 1}
-el:	{'levantamiento': 1, 'Movimiento': 1, 'Telescopio': 1, 'primer': 6, 'nivel': 1, 'aniversario': 1, 'gran': 1, '"Día': 1, 'pueblo': 1, 'FC': 1, '#Ajax': 1, '#estreno': 1, 'fondo': 1, '5': 1, 'lugar': 1, 'momento': 2, 'garaje': 1, 'monumento': 1, 'motivo': 1, 'vídeo': 1, 'camino': 1, 'exilio': 2, '#DiaMundialdelTeatro,': 1, 'abuelo': 1, '3º': 1, 'derramamiento': 1, 'conflicto': 1, 'testimonio': 3, '#DíaMundialdelAgua,': 1, 'mundo': 1, 'nombre': 3, 'día': 4, '29': 2, 'poder': 1, 'tiempo': 1, 'propio': 1, 'tweet': 1, '#8M': 1, '#CheeseQuiz!': 2, '#Monopoly.': 1, 'Año': 1, 'químico': 1, 'origen': 2, 'resto': 1, 'tiempo,': 1, '#DiaMundialEnfermedadesRaras': 1, 'Día': 2, 'inicio': 2, '182': 1, 'enlace': 2, 'euskera,': 1, '#DíaInternacionalDeLaLenguaMaterna,': 1, '#DiaInternacionalDelGato?': 1, '8': 2, '20': 1, '#DiaInternacionalDelGato': 1, '#DiaInternacionalDelGato,': 1, 'más': 1, 'gato': 1, '#DiaInternacionalAsperger,': 1, 'síndrome': 1, 'Valle': 1, 'astrónomo': 1, '#DiaMundialDeLaRadio,': 1, '13': 1, 'viento': 1, 'Titanic': 1, 'mismo': 1, 'campo': 1, 'VAR': 1, 'miedo': 1, 'comportamiento': 1, '#bullying': 1, 'hashtag': 1, '#diadelamarmota': 1, '#AñoNuevoChino': 1, '#AñoDelCerdo,': 1, 'mundo?': 1, 'caso': 3, 'cáncer,': 1, '#DiaMundialContraElCancer': 1, 'impacto': 1, 'que': 1, 'Campeonato': 1, 'deseo': 1, 'único': 3, 'aborto': 1, 'vendedor': 1, '#DíaMundial': 1, '#CambioClimático,': 1, '19%': 1, '#CalentamientoGlobal': 1, '27': 1, '25': 1, 'récord': 2, '5%': 1, 'control,': 1, 'cerebro': 1, 'mundo:': 2, 'robot': 2, 'planeta.': 2, 'Cristo': 1, 'último': 1, '21': 2, 'fin': 1, 'mundo.': 1, 'protagonista': 1, 'pararrayos.': 1, 'Museo': 2, '15': 1, 'numero': 1, 'pasado': 1, 'uso': 1, 'lado': 1, 'padre': 1, 'consecuente': 1}
-levantamiento:	{'militar': 1}
-militar:	{'que': 1}
-que:	{'terminó': 1, 'se': 7, 'marcó': 1, 'era': 2, 'no': 6, 'es': 2, 'morirá?': 2, 'padece': 1, 'prohibieran': 1, 'plantean': 1, '#SteveJobs': 1, 'pudo': 1, 'un': 1, 'llevó': 1, 'tuvo': 1, 'huir': 1, 'llevar': 1, 'podamos': 1, 'permite': 1, '#GengisKhan': 1, 'más': 1, 'aparcan': 1, 'representa': 1, 'la': 6, 'lucharon': 1, 'vendrán.': 1, 'el': 3, 'también': 1, 'sus': 1, 'todavía': 1, 'lo': 1, 'científicos': 1, 'llevaba': 1, 'existió': 1, 'solo': 1, 'marca': 1, 'existan': 1, 'han': 1, 'practicaron': 1, 'describió': 1, 'obligaron': 1, 'las': 1, 'eran': 1, 'celebráis': 1, 'simulan': 1, 'cumplirlas': 1, 'superó': 1, 'recibía': 1, 'restringía': 1, 'provoca': 1, 'una': 1, 'podrían': 1, 'todo': 1, 'necesitan': 1, 'ofrece': 1, 'los': 1, 'Nellie': 1, 'rompió': 1, 'le': 1, 'sólo': 1, 'algún': 1, 'ha': 2, 'revolucionará': 2, 'había': 1, 'vive': 1, 'tuviera': 1, 'parece.': 1, 'puede': 1, 'rechazó': 1, 'tenía': 1, 'abrió': 1, 'pone': 1, 'comience': 1, 'consiste': 1}
-terminó:	{'con': 1, 'realizando': 1}
-con:	{'la': 5, 'un': 2, '#RayChapman,': 1, 'esta': 2, 'una': 4, 'el': 6, '@OxfamIntermon': 1, 'movilidad': 1, 'motivo': 1, '@quepasanacosta': 2, 'más': 2, '22': 1, 'ella': 1, 'tres': 1, '#DonaldTrump,': 1, 'seguir': 1, 'sus': 2, 'guillotina.': 1, 'observarla': 1, 'habilidades': 1}
-dictadura:	{'de': 1}
-Salazar.:	{'"Grândola,': 1}
-"Grândola,:	{'Vila': 1}
-Vila:	{'Morena"': 1}
-Morena":	{'fue': 1}
-fue:	{'la': 1, 'el': 3, 'hasta': 1, 'impulsado': 1, 'ejecutado': 1, 'guillotinado': 1, 'registrada': 1}
-canción:	{'elegida': 1, 'Redemption': 1}
-elegida:	{'por': 1}
-por:	{'el': 3, 'Wolfgang': 1, 'Brad': 1, 'excelencia': 1, 'letra".': 1, 'tu': 1, 'litro': 1, 'su': 3, 'cientos.': 1, 'ellas,': 1, 'las': 1, 'aportarnos': 1, 'la': 6, 'cierto.': 1, 'primera': 1, 'sus': 1, 'los': 1, 'diferentes': 1, '@ONU_es.': 1, 'temor': 1, 'ser': 1, 'género?': 1, 'tortura': 1, 'comentar!': 1, 'hora,': 1, 'solo': 1, 'tres': 1}
-Movimiento:	{'de': 1}
-las:	{'Fuerzas': 1, '#vacaciones!': 1, 'palabras': 1, 'voces': 1, '#vacunas?': 1, 'mejores': 1, 'noticias': 1, 'plazas': 1, 'que': 2, 'bases': 1, 'puertas': 1, 'pioneras': 1, 'redes': 1, 'mareas': 1, 'Naciones': 1, 'especies",': 1, 'ciencias.': 1, '3': 1, 'rosas': 1, 'últimas': 1, 'grandes': 1, 'Emisiones': 1, 'emisiones': 1, 'barreras': 1, 'ejecuciones': 1, 'muertes': 1, '"joyas': 1, 'mujeres': 1}
-Fuerzas:	{'Armadas': 1}
-Armadas:	{'para': 1}
-para:	{'iniciarla.': 1, 'crear': 2, 'el': 2, 'unas': 1, 'no': 1, 'tener': 1, 'unos': 1, 'otros.': 1, 'cuidar': 1, 'leerlo': 2, 'que': 2, 'retomarlo.': 1, 'muchos,': 1, 'evitarle': 1, 'ilustrar': 1, 'realizar': 1, 'poder': 1, 'iniciar': 1, 'salvar': 1, 'mejorar': 1, 'ofrecer': 1, 'hacer': 1, 'aparearse.': 1}
-iniciarla.:	{'https://t.co/4kAQLQVfij': 1}
-Se:	{'cumplen': 2, 'trata': 1, 'lo': 1, 'saldó': 1, 'elige': 1, 'dice': 1, 'cuenta': 1, 'llamaba': 1, 'intentará': 1, 'llama': 1, 'inauguró': 1}
-cumplen:	{'29': 1, 'años': 1, '130': 1, '123': 1, '25': 1, '43': 1, '166': 1, '4': 1, '140': 1, '150': 1, '182': 1, 'los': 1, '5': 1, '129': 1, '3': 1, '30': 1, '377': 1}
-29:	{'años': 1, 'años.': 1, 'de': 2}
-años:	{'desde': 3, 'de': 9, 'después,': 1, 'del': 7, 'antes?': 1, 'después': 1, 'la': 1, 'en': 2, 'y': 3, 'rodando': 1, 'que': 1}
-desde:	{'que': 3, 'la': 3, 'hace': 1, '1887;': 1}
-se:	{'lanzó': 1, 'estrenó': 2, 'cumplen': 14, 'convirtió': 4, 'clasifica': 1, 'llama': 5, 'puso': 1, 'despreciaban': 1, 'encontró': 1, 'convertiría': 1, 'os': 1, 'cuentan': 1, 'la': 1, 'lleven': 1, 'honra': 1, 'transmiten': 1, 'empezó': 1, 'ha': 2, 'padece,': 1, 'traduce': 1, 'dice:': 1, 'encuentra': 1, 'hizo': 1, 'trata': 1, 'incluye': 1, 'equivocan.': 1, 'celebra': 2, 'llevó".': 1, 'estrena': 1, 'celebró': 1, 'adelantará.': 1, 'realizó.': 1, 'celebrará': 1, 'cerrarán': 1, 'le': 1, 'lograrían': 1, 'descubrieron': 1, 'seguía': 1, 'seguían': 1, 'llevó': 1, 'producirá': 1, 'debió': 1, 'encarga': 1, 'organizan': 1, 'consideran': 1, 'disipe.': 1, 'denomina': 2, 'desplazan': 1}
-lanzó:	{'al': 1}
-al:	{'espacio': 2, 'espacio.': 1, 'verme': 1, 'frente': 1, 'estallido': 1, 'trono': 1, 'estallar': 1, 'olvido.': 1, 'que': 1, 'Nobel': 1, 'finalizar': 1, 'robot?': 1, 'ser': 1, 'entrarle': 1, 'mundo': 1, '21': 1, 'ginecólogo': 1, 'trabajo.': 1, 'cerebro': 1, 'ver,': 1, 'rey': 1}
-espacio:	{'el': 1, '3': 1}
-Telescopio:	{'#Hubble,': 1}
-#Hubble,:	{'el': 1}
-primer:	{'observatorio': 1, 'ser': 2, '#GoogleDoodle,': 1, 'filme': 1, 'eclipse': 1, 'héroe': 1, 'museo': 1}
-observatorio:	{'espacial': 1}
-espacial:	{'de': 1, 'Vostok': 1}
-historia.:	{'Orbitando': 1, '¿Cuánto': 1, '#curiosidades': 1, 'Google': 1, 'Seguimos': 1, 'Firmaba': 1}
-Orbitando:	{'a': 1}
-a:	{'543kms': 1, 'partes': 1, 'su': 4, 'Real': 1, 'Johan': 1, 'Yuri': 1, 'un': 3, 'los': 8, 'la': 10, '@lavecinarubia': 1, 'esos': 1, 'causa': 2, '250.000': 1, 'tratar': 1, 'cabo': 2, 'día?': 1, 'través': 2, 'ver,': 1, 'que': 1, 'todos!': 1, 'vuestra': 1, '#Mafalda': 1, 'personas': 1, 'qué': 1, '#Stalin,': 1, 'recordar': 1, 'lo': 1, 'día.': 1, 'completarlo?': 1, 'cambiar': 1, 'cabo?': 1, 'parar': 1, 'España.': 1, 'tratar.': 1, 'estos': 1, 'nuestro': 1, 'vosotros?': 1, 'sus': 5, 'Socks.': 1, 'escuelas': 1, 'algún': 1, 'limitar': 1, 'Hollywood': 1, '#Killadamente?': 1, 'donar': 1, 'curar': 1, 'afrontar': 1, 'todas': 1, 'todos': 1, 'más': 2, 'favor': 1, '2018,': 1, 'una': 3, 'Luis': 1, 'medida': 1, 'poco': 1, 'añadir': 1, 'nuestras': 1, 'bailar.': 1, 'beber': 1, 'las': 1, 'conseguir': 1}
-543kms:	{'sobre': 1}
-sobre:	{'el': 5, 'esto?': 1, 'él?': 2, 'este': 2, 'esta': 2, 'uno': 1, 'las': 1, 'ella?': 1, '#CalentamientoGlobal': 1, 'la': 4, '#jueveslardero?': 1, 'un': 1, '#InteligenciaArtificial?': 1}
-nivel:	{'del': 1}
-del:	{'mar,': 1, '#universo.': 1, 'nacimiento': 5, 'siglo': 2, 'empirismo': 1, 'inicio': 1, '#grunge,': 1, '#cine,': 1, '#CheeseQuiz': 1, 'gobierno': 1, 'que': 2, 'mordisco': 1, 'cartel,': 1, 'fútbol': 1, 'planeta': 1, 'cromosoma': 1, '#8M': 2, 'trabajo': 1, 'año.': 2, '2018,': 1, '50%.': 1, 'Pucherico': 1, '#Carnaval': 1, '#feminismo.': 2, 'gato': 1, 'calendario': 1, 'único': 1, 'desarrollo': 1, 'espectro': 1, 'aeropuerto': 1, 'podcast': 1, 'Renacimiento.': 1, '#amor!': 1, 'suspense': 1, 'amor': 1, 'último': 1, 'parlamento.': 1, 'reggae.': 1, 'nuevo': 1, 'tratamiento,': 1, 'zorro.': 1, 'destino;': 1, 'mundo': 3, 'feminismo': 1, 'personaje': 1, 'fallecimiento': 1, '20': 1, 'bosque': 1, '#zorro,': 1, 'bosque".': 1, 'mundo.': 1, 'shock': 1, '"Ratón': 1, 'polvo.': 1}
-mar,:	{'permite': 1}
-permite:	{'crear': 1, 'hacer': 1, 'extirpar': 2}
-crear:	{'imágenes': 1, 'una': 2}
-imágenes:	{'y': 1}
-y:	{'descubrir': 1, 'protagonizada': 1, 'odiada': 1, 'realidad': 1, 'aparte': 1, 'protegerla.': 1, 'Cruyff': 1, 'que': 2, 'Juventus.': 1, 'su': 1, 'en': 3, 'participad!': 1, 'podrás': 1, '#MiguelÁngel,': 1, 'se': 3, 'científico.': 1, '1,5': 1, 'abanderado': 1, 'Stephen': 1, 'con': 1, 'déjanos': 1, 'condecorada': 1, 'empezó': 1, 'pasan': 1, '#CambioClimatico,': 1, 'podréis': 1, 'deshacer': 1, 'relegada': 1, 'Naciones': 1, 'haga': 1, 'volver': 1, 'alrededor': 1, 'neurodegenerativa': 1, 'huevo"': 1, 'responded': 1, 'votad!': 1, 'aprovechamos': 1, 'una': 1, 'mirad': 2, 'lingüística.': 1, 'el': 1, 'de': 1, 'acompañaba': 1, 'hospitales.': 1, 'eliminar': 1, 'lava,': 1, 'terremotos': 1, 'un': 1, 'Fotografía)': 1, 'once': 1, 'es': 2, 'jugadores': 1, 'considerado': 1, 'manifestando': 1, 'la': 2, 'gatos': 2, '8': 1, 'pesar': 1, 'del': 2, 'familiares.': 1, 'respeto': 1, 'Angola': 1, '7.000': 1, '5.600': 1, 'anuncian': 1, 'quedarle': 1, 'donaciones': 1, 'aumenta': 1, 'permite': 2, 'le': 1, 'estaba': 1, 'asesinato': 1, 'ya': 1, 'aprende': 1, 'citando': 1, 'escultora': 1, 'charlas': 1, 'aldeas.': 1, 'subvencionadas': 1, 'amantes': 1, 'dibujaba': 1}
-descubrir:	{'#misterios': 1}
-#misterios:	{'del': 1, 'de': 1}
-#universo.:	{'¿Qué': 1}
-¿Qué:	{'#curiosidades': 1, 'hay': 1, 'motivos': 1, 'pasará?': 1, 'opináis': 2, 'creéis': 1, 'más': 4, 'os': 2, 'pasaría': 1, 'solución': 1, 'es': 1, 'título': 1}
-#curiosidades:	{'sabéis': 1, '#ilustración': 6, 'sobre': 4, '#cine': 1, 'https://t.co/k1pF79uev8': 1, '#efemerides': 1, '#Disney': 1, '#Ilustración': 1, '#quemuertemastonta': 4, '#donamédula': 1, '#cultura': 6, '#Efemerides': 1, '#teoria': 1, '#ciencia': 4, '#animales': 1, 'https://t.co/hi5H2zrS5z': 1, 'https://t.co/kVdVFLqDMO': 1, '#fauna': 1, 'https://t.co/zwv6XZkj7A': 1, 'https://t.co/jiNdwykMJy': 1, 'https://t.co/Weowh7zqu2': 1, '#animación': 1, '#salud': 1, '#viñeta': 1, 'https://t.co/WJI12bkAMi': 1, '#geografía': 1, '#14deFebrero': 1}
-sabéis:	{'sobre': 6, 'otra': 1}
-esto?:	{'#astronomia': 1}
-#astronomia:	{'https://t.co/PB4H2DtZeJ': 1}
-En:	{'2004': 1, 'nuestra': 3, 'esta': 2, 'el': 3, 'Catalunya': 1, 'Jun': 1, 'Ecuador': 1, 'Soria': 1, 'Polonia': 1, 'Francia,': 1, '1977': 1, '#Galicia': 1, 'una': 1}
-2004:	{'se': 1}
-estrenó:	{'la': 2}
-película:	{'"Troya",': 1, 'os': 1}
-"Troya",:	{'dirigida': 1}
-dirigida:	{'por': 1}
-Wolfgang:	{'Petersen': 1, 'Amadeus': 2}
-Petersen:	{'y': 1}
-protagonizada:	{'por': 1}
-Brad:	{'Pitt.': 1}
-Pitt.:	{'Se': 1}
-trata:	{'de': 1, 'desde': 1, 'del': 1}
-una:	{'adaptación': 1, '#conciencia': 1, 'de': 7, 'encuesta:': 1, 'taza': 4, 'nueva': 2, '#viñeta': 1, 'chica': 1, 'variante': 1, 'sola': 1, 'serie': 1, 'probabilidad': 1, 'clínica': 1, 'región': 1, 'alteración': 1, '#tradición': 1, '#viñeta,': 1, 'lengua,': 1, 'amenaza': 1, 'foto': 1, 'estrella': 1, 'versión': 1, 'persona': 1, 'vacuna': 1, 'locura': 1, 'te': 1, 'mosca': 1, 'forma': 1, 'fundación,': 1, 'solución': 1, 'mujer”': 1, 'vez,': 1, 'técnica': 2, 'profundidad': 1, 'fotografía.': 1, 'superluna': 1, 'figura': 1, 'hora,': 1, 'complicación': 1, 'mano': 1, 'velocidad': 1, 'desviación': 1, 'cama': 1}
-adaptación:	{'de': 1}
-Ilíada:	{'de': 1}
-Homero,:	{'amada': 1}
-amada:	{'y': 1}
-odiada:	{'a': 1}
-partes:	{'iguales.': 1}
-iguales.:	{'¿La': 1}
-¿La:	{'habéis': 1, 'conocéis?': 1}
-habéis:	{'visto?': 1, 'respondido': 1, 'pedido': 1, 'planteado': 1}
-visto?:	{'https://t.co/cNcOeCAHg7': 1}
-Según:	{'cuenta': 1, 'datos': 3, 'algunas': 1, 'el': 1, 'un': 1}
-cuenta:	{'la': 1, 'con': 2, 'que': 1}
-#leyenda,:	{'tal': 1}
-tal:	{'día': 2}
-día:	{'como': 16, 'a': 2, 'de': 2, 'su': 1, 'nuestras': 1, 'cada': 1, 'del': 1, 'se': 2, '21': 1, 'algo': 1}
-como:	{'hoy': 4, '"Jordi":': 1, 'la': 3, 'hoy,': 12, 'él': 1, 'el': 3, 'gordo': 1, 'dice': 1, 'discrepar': 1, 'su': 1, 'uno': 1, 'Julio': 1, 'no': 1, 'es': 1, 'arma': 1, 'mascotas': 1, 'antena': 1, '‘Luna': 1, '"#YoNoDisparo"': 1, 'caminar': 1, 'pasatiempo,': 1}
-hoy:	{'de': 3, '95': 1, 'a': 1, 'nacía': 1}
-1184:	{'a.C.,': 1}
-a.C.,:	{'terminaría': 1}
-terminaría:	{'la': 1}
-Guerra:	{'de': 1, 'Civil': 1, 'Mundial': 1, 'Mundial.': 1}
-#Troya:	{'con': 1}
-destrucción:	{'de': 1, 'del': 1}
-ciudad.:	{'¿Qué': 1}
-hay:	{'de': 1, 'donantes': 1, 'nubes': 1}
-mito:	{'y': 1, 'de': 1}
-realidad:	{'en': 1}
-esta:	{'#historia?': 1, 'obra?': 1, 'rivalidad?': 1, '#ilustración': 1, 'curiosa': 1, 'campaña,': 1, '#viñeta': 2, 'pequeña': 1, 'alteración,': 1, 'red': 1, 'fecha': 2, 'sección': 1, '#Navidad': 1, '#exhumación?': 1, 'práctica?': 1, 'enfermedad.': 1, 'actividad': 1}
-#historia?:	{'#curiosidades': 1}
-#ilustración:	{'https://t.co/GJZPpWbdoq': 1, '#historia': 2, '#naturaleza': 1, '#felizfinde': 1, '#cultura': 4, '#cruyff': 1, '#curiosidades': 7, '#deporte': 2, '#KurtCobain': 1, '#personajeshistóricos': 1, '#hollywood': 1, '#tecnología': 2, 'respondemos': 1, '#devueltaacasa': 1, '#NonArdeGalicia': 1, '#feminismo': 2, '#girlpower': 1, '#consejos': 1, '#ronaldinho': 1, '#efemerides': 1, '#salud': 1, '#política': 2, 'todos': 1, '#8M': 2, '#politica': 1, '#oscars': 1, 'https://t.co/NoiNKVDmxr': 1, '#nobel': 1, '#18Feb': 1}
-✍:	{'La': 1}
-La:	{'semana': 1, 'próxima': 1, '"ataxia': 2, '"Ataxia': 1, 'persona': 2, 'ailurofobia': 1, 'alegría': 1, 'falta': 1, 'madrugada': 1, 'temperatura': 1, 'tradición': 1}
-semana:	{'pasada': 1, 'os': 1, 'para': 1, 'daremos': 1, 'estrenando': 1, 'se': 1, 'ocurrieron': 1}
-pasada:	{'mencionábamos': 1}
-mencionábamos:	{'el': 1}
-aniversario:	{'de': 3}
-muerte:	{'de': 12, 'no': 1, 'a': 1}
-Lord:	{'Byron,': 2}
-Byron,:	{'el': 1, 'padre': 1}
-gran:	{'personaje': 1, 'día!': 1, 'controversia': 1, 'medida': 1}
-personaje:	{'romántico': 1, 'histórico': 2, 'histórico,': 1, 'Phileas': 1}
-romántico:	{'por': 1}
-excelencia:	{'que': 1}
-marcó:	{'un': 1, 'el': 1}
-un:	{'punto': 1, 'símbolo': 1, 'nombre': 1, 'homenaje': 1, '16': 1, 'balazo': 1, 'suicidio,': 1, 'asesinato.': 1, 'legado': 1, 'domingo': 1, 'mito': 1, 'cuarto': 1, 'mono.': 1, 'tipo': 1, 'miedo': 3, 'genial': 2, 'descubrimiento': 1, 'par': 1, '"mal': 1, 'mismo': 1, 'total': 2, 'aplaudido': 1, 'patrimonio': 1, 'tesoro': 1, 'trastorno': 2, 'hecho': 1, 'estilo': 1, 'sector': 1, 'dilema': 1, 'equipo': 1, 'parásito': 1, 'síndrome': 1, 'precio': 1, 'alumno': 1, 'obsoleto': 1, 'cirujano': 2, 'paro': 1, 'astrólogo': 1, 'estudio': 1, 'ser': 1, 'espíritu': 1, 'martes': 1, 'cadáver.': 1, 'cuento': 1, 'niño.': 1}
-punto:	{'y': 1, 'G': 1}
-aparte:	{'en': 1}
-#literatura:	{'europea.': 1}
-europea.:	{'¿Cuánto': 1}
-¿Cuánto:	{'sabéis': 3, 'sabes': 1}
-él?:	{'¡Os': 1, '#curiosidades': 1}
-¡Os:	{'contamos': 1}
-contamos:	{'más': 1}
-más:	{'#curiosidades!': 1, '#curiosidades': 2, 'reconocidos.': 1, 'reconocida?': 1, 'emblemáticos': 2, 'insistir': 1, '#curiosidades?': 1, 'populares': 2, 'emblemático': 1, 'se': 1, 'alarmantes': 1, 'fértiles': 1, 'de': 7, 'importantes': 3, 'rara?': 1, 'conocéis?': 1, 'datos,': 1, 'disparatados': 1, 'datos!': 1, 'curiosidades': 1, 'galardones': 1, '#HumorAbsurdo': 1, 'universal': 1, 'amenazada.': 1, 'popular,': 1, 'reconocido': 1, 'polémicas': 1, 'os': 1, 'desconocidas': 1, 'dinero': 1, 'sabéis': 1, 'enrevesados': 2, 'alta': 1, 'común': 1, 'devastadora': 1, 'visto': 1, 'fría': 1}
-#curiosidades!:	{'#ilustración': 1}
-#historia:	{'#erescurioso': 1, 'https://t.co/VPKsHI8BUK': 1, 'https://t.co/no1mK3g2oX': 1, 'sigue': 1, '#arte': 2, 'https://t.co/wqrxd5a5hc': 1, '#Hulio': 1}
-#erescurioso:	{'https://t.co/wgJvfHs5cQ': 1, '#torreeiffel': 1, 'https://t.co/muF1mkfMp3': 1, '#perro': 1}
-Hoy:	{'es': 5, 'se': 10, 'cuenta': 1, 'en': 1, 'el': 1, 'cumpliría': 1, 'hace': 1}
-es:	{'el': 8, 'la': 10, 'uno': 1, 'tu': 1, 'imposible': 1, 'un': 7, 'jueves': 1, 'Walt': 1, 'promover': 1, 'lograr': 1, 'sinónimo': 1, 'nuestra': 1, 'despertar': 1, 'potenciar': 1, 'concienciar': 1, 'cosa': 1, 'una': 4, 'más': 1, 'de': 1, 'dormir': 1, 'buena': 1}
-"Día:	{'Internacional': 1}
-Internacional:	{'de': 2}
-Madre:	{'Tierra",': 1}
-Tierra",:	{'instaurado': 1}
-instaurado:	{'para': 1}
-#conciencia:	{'común': 1}
-común:	{'y': 1, 'con': 1, 'de': 1}
-protegerla.:	{'\u200b¡Que': 1}
-​¡Que:	{'todos': 1}
-todos:	{'los': 3, 'tus': 1}
-días:	{'sean': 1, 'después': 1, 'del': 1, 'internacionales.': 1}
-sean:	{'#DiaDeLaTierra': 1}
-#DiaDeLaTierra:	{'!': 1}
-!:	{'#curiosidades': 1}
-#naturaleza:	{'https://t.co/bVV5Wru3SX': 1}
-padre:	{'de': 3, 'del': 1, 'Luis': 1}
-Ada:	{'Lovelace,': 2}
-Lovelace,:	{'primera': 1, 'en': 1}
-primera:	{'informática': 1, 'necesidad.': 1, 'publicación': 1, 'versión': 1, 'vez': 1, 'constitución': 1, 'programadora': 1, 'especie': 1}
-informática:	{'de': 2}
-este:	{'personaje?': 1, 'mes.': 1, 'polémico': 1, 'final?': 1, 'bien': 1, 'mes': 1, 'pequeño': 1, 'hilo': 1, 'estilo,': 1}
-personaje?:	{'¡La': 1}
-¡La:	{'próxima': 1}
-próxima:	{'semana': 2}
-os:	{'contaremos': 1, 'aportarán': 1, 'recuerda?': 1, 'ocurre': 2, 'preguntamos': 1, 'ha': 1, 'parece': 1, 'gustaría': 1, 'gusta': 1}
-contaremos:	{'mas': 1}
-mas:	{'curiosidades!': 1, 'de': 1}
-curiosidades!:	{'#ilustración': 1}
-#felizfinde:	{'#historia': 1, 'https://t.co/vDvSC6m2MU': 1, 'https://t.co/ip6GJxoF6O': 1, 'https://t.co/gITeCCxBT2': 1, '#curiosidades': 1, 'https://t.co/TXon33DuMX': 1}
-¡Empiezan:	{'las': 1}
-#vacaciones!:	{'Analizamos': 1}
-Analizamos:	{'la': 1}
-última:	{'cena': 1, 'temporada': 1, 'de': 1, 'animación': 1, 'ejecución': 1}
-cena:	{'de': 1}
-#DaVinci,:	{'¿conocéis': 1}
-¿conocéis:	{'más': 1, 'alguna': 1}
-obra?:	{'#ilustración': 1}
-#cultura:	{'#felicesvacaciones': 1, 'https://t.co/U4QyikYx73': 1, '#arte': 1, 'https://t.co/izpI35WSkm': 1, '#cine': 2, 'https://t.co/lrtN36Ed8g': 1, 'https://t.co/L0FOhBK8Ue': 1, '#historia': 2, 'https://t.co/bfmae4NyAm': 1, 'https://t.co/x2yFrDueZf': 1, 'https://t.co/e85l3eHYtE': 1, '#actualidad': 1, 'https://t.co/xrO5BS0cS6': 1}
-#felicesvacaciones:	{'https://t.co/f7P2gsxt9y': 1}
-#Cruyff:	{'se': 1}
-convirtió:	{'en': 4}
-símbolo:	{'para': 1}
-pueblo:	{'catalán': 1}
-catalán:	{'en': 1, 'y': 1}
-su:	{'etapa': 2, 'hijo': 1, 'inmortal': 1, 'casa': 1, 'muerte,': 1, 'construcción?': 1, 'padre,': 1, 'ejército,': 1, 'muerte': 1, 'peor': 1, 'informe': 1, '39º': 1, 'primer': 2, 'autor?': 1, 'nacimiento': 2, 'creador,': 1, 'primera': 1, 'infancia': 2, 'día,': 1, 'derecho': 1, 'gran': 1, 'afirmación': 1, 'propia': 1, 'sobrepeso': 1, 'canción': 1, 'sombra,': 1, 'ritual': 1, 'personalidad.': 1, 'historia?': 1, 'riñón': 1, 'garganta.': 1, 'propio': 1, 'vuelta': 1, 'capricho.': 1, 'hermano,': 1, 'nombre;': 1, 'tumba': 1, 'música': 1, 'ex': 1, 'edad,': 1, 'vida.': 1, 'lugar': 1}
-etapa:	{'en': 2}
-FC:	{'Barcelona.': 1}
-Barcelona.:	{'Franco': 1}
-Franco:	{'había': 1}
-había:	{'ordenado': 1, 'llegado': 1, 'tomado': 1}
-ordenado:	{'castellanizar': 1}
-castellanizar:	{'los': 1}
-nombres:	{'y': 1}
-Cruyff:	{'bautizó': 1, 'y': 1}
-bautizó:	{'a': 1}
-hijo:	{'como': 1}
-"Jordi"::	{'"Me': 1}
-"Me:	{'dijeron': 1}
-dijeron:	{'que': 1}
-era:	{'un': 2, 'el': 2, 'una': 1, 'la': 1}
-nombre:	{'catalán': 1, 'de': 2, 'en': 1, 'real': 1}
-no:	{'podía': 2, 'está': 1, 'hacerlo?': 1, 'la': 1, 'sabemos': 1, 'volvería': 1, 'sería': 1, 'tiene': 1, 'volveremos': 1, 'encuentra': 1, 'sea': 1, 'se': 2, 'tenemos': 1, 'ha': 1, 'menos': 1, 'son': 1, 'siempre': 1, 'le': 1, 'lo': 1, 'estaba': 1, 'hay': 1, 'te': 1}
-podía:	{'registrarlo': 1, 'faltar': 1}
-registrarlo:	{'así.': 1}
-así.:	{'Se': 1}
-lo:	{'dije': 1, 'que': 2, 'hicimos': 1, 'largo': 1, 'trata': 1, 'llaman': 1, 'consagraron': 1, 'reclaman': 1, 'hacen.': 1, 'convierte': 1, 'recuperemos.': 1, 'llevaban': 1}
-dije:	{'letra': 1}
-letra:	{'por': 1}
-⚽:	{'22': 1, 'Hoy': 1}
-22:	{'años': 1, '#Oscar': 1}
-después,:	{'el': 1}
-#Ajax:	{'se': 1}
-clasifica:	{'para': 1}
-unas:	{'semifinales': 1, '700': 1}
-semifinales:	{'de': 1}
-#Champions:	{'tras': 1, 'justo': 1}
-tras:	{'eliminar': 1, 'la': 1}
-eliminar:	{'a': 2}
-Real:	{'Madrid': 1}
-Madrid:	{'y': 1}
-Juventus.:	{'Todo': 1}
-Todo:	{'un': 1}
-homenaje:	{'a': 1}
-Johan:	{'Cruyff': 1}
-inmortal:	{'legado.': 1}
-legado.:	{'#futboltotal': 1}
-#futboltotal:	{'#fraseseternas': 1}
-#fraseseternas:	{'#curiosidades': 1}
-#cruyff:	{'https://t.co/VnJmyiYMLk': 1}
-130:	{'años': 1}
-nacimiento:	{'de': 6, 'pero,': 1, 'del': 1, 'y': 1}
-Charles:	{'Chaplin,': 1, 'Darrow': 1, 'Darwin,': 1}
-Chaplin,:	{'uno': 1}
-uno:	{'de': 18}
-mayores:	{'iconos': 1, 'compositores': 1, 'genios': 1}
-iconos:	{'del': 1}
-siglo:	{'XX.': 2}
-XX.:	{'Nacía': 1, '#curiosidades': 1}
-Nacía:	{'en': 1}
-Londres,:	{'un': 1, 'el': 1}
-16:	{'de': 2, 'millones': 1}
-1889.:	{'#curiosidades': 1}
-#cine:	{'#cultura': 1, '#GameOfThrones': 1, 'https://t.co/rgIeGjDKVr': 1}
-#TalDíaComoHoy,:	{'16': 1, '12': 1}
-1828,:	{'moría': 1}
-moría:	{'Francisco': 1, 'Francis': 1}
-Francisco:	{'de': 1}
-#Goya,:	{'uno': 1}
-artistas:	{'españoles': 1}
-españoles:	{'más': 1}
-reconocidos.:	{'Ilustramos': 1}
-Ilustramos:	{'una': 1, '3': 2}
-sus:	{'obras,': 1, '3': 1, 'descendientes': 1, 'acciones.': 1, 'acciones': 1, '48': 1, '20': 1, 'dueños': 1, 'constantes': 1, 'jornadas': 1, 'novelas': 1, 'mascotas': 1, 'propias': 1, 'ciudadanos': 1, 'riñones': 1, 'trabajos': 1, 'iniciales': 1, 'padres': 1, 'pacientes.': 1, 'puertas': 1}
-obras,:	{'¿cuál': 1}
-¿cuál:	{'creéis': 1}
-creéis:	{'que': 4}
-reconocida?:	{'#curiosidades': 1}
-#arte:	{'https://t.co/pmdOi3yGaN': 1, '#erescurioso': 2}
-Esta:	{'madrugada': 2, 'es': 1, 'fecha': 1, 'tarde': 1, 'semana': 1}
-madrugada:	{'se': 1, 'tuvo': 1, 'del': 1}
-temporada:	{'de': 2}
-#JuegodeTronos:	{'y': 1}
-nuestras:	{'stories': 2, '#muertesabsurdas.': 1, 'preguntas': 1, 'mentes.': 1, 'curiosidades': 1}
-stories:	{'de': 4}
-#Instagram:	{'hemos': 1}
-hemos:	{'abierto': 1}
-abierto:	{'una': 1}
-encuesta::	{'¿quién': 1}
-¿quién:	{'creéis': 1}
-morirá?:	{'¡Entrad': 1, '¿Qué': 1}
-¡Entrad:	{'y': 1, 'en': 1}
-participad!:	{'https://t.co/7qCPjnmIWq': 1}
-https://t.co/7qCPjnmIWq:	{'#GameofThrones': 1, 'https://t.co/3FBTucKdUv': 1, 'Consulta': 1, 'https://t.co/c46ktOuU5Q': 1, '#política': 1}
-#GameofThrones:	{'#ElPrincipioDelFin': 1}
-#ElPrincipioDelFin:	{'#curiosidades': 1}
-❓¿Sabes:	{'cómo': 1}
-cómo:	{'se': 1, 'podemos': 1}
-llama:	{'el': 1, 'dijous': 1, 'Uniportal': 2, 'selenofobia': 1, 'así': 1}
-ser:	{'vivo': 1, 'humano': 1, 'así?': 1, 'coronado.': 1, 'donantes': 1, 'protegidas': 1, 'mujer.': 1, 'inteligente': 1}
-vivo:	{'en': 1}
-viajar:	{'al': 2, 'de': 1}
-3:	{'años': 3, 'de': 1, '#curiosidades': 1, 'especies': 1, 'leyes': 1}
-antes?:	{'Responde': 1}
-Responde:	{'en': 1}
-nuestros:	{'stories': 2}
-#instagram:	{'y': 1}
-podrás:	{'ganar': 1}
-ganar:	{'una': 3, 'dinero.': 1}
-taza:	{'personalizada': 1, 'personalizada!': 1, 'personalizada,': 1, 'personalizada?': 1}
-personalizada:	{'https://t.co/7qCPjnmIWq.': 1}
-12:	{'de': 2}
-1961,:	{'la': 1}
-nave:	{'espacial': 1}
-Vostok:	{'se': 1}
-puso:	{'en': 1}
-órbita:	{'desde': 1}
-Unión:	{'Soviética,': 1}
-Soviética,:	{'convirtiendo': 1}
-convirtiendo:	{'a': 1}
-Yuri:	{'Gagarin': 1}
-Gagarin:	{'en': 1}
-humano:	{'en': 1}
-espacio.:	{'#curiosidades': 1}
-#efemerides:	{'#ciencia': 1, 'https://t.co/O46xGi2wZz': 1}
-#ciencia:	{'#CheeseQuiz': 1, '#medicina': 1, '#ilustración': 1, '#viñeta': 1, 'https://t.co/jeI2E5H6Pu': 1, '#erescurioso8': 1, '#sismología': 1, '#erescurioso7': 2, '#tecnología': 1}
-#CheeseQuiz:	{'https://t.co/AelmZy4fcu': 1, 'de': 1, '#ilustración': 1}
-@NataliaPatino58:	{'Guaaaau!!!': 1}
-Guaaaau!!!:	{'Son': 1}
-Son:	{'espectaculares!!': 1, 'la': 1}
-espectaculares!!:	{'enhorabuena': 1}
-enhorabuena:	{'por': 1}
-tu:	{'arte!!': 1, 'comentario!': 1, 'excusa?': 1, 'oído': 1}
-¿Conocéis:	{'la': 1, 'más': 1, 'alguna': 2, 'el': 2, 'los': 1, 'a': 1, 'su': 1}
-historia:	{'de': 2, 'ocurrida': 1}
-#Oswald?:	{'#curiosidades': 1}
-#Disney:	{'#ilustración': 1}
-#LeonardoDaVinci:	{'y': 1}
-#MiguelÁngel,:	{'dos': 1}
-dos:	{'de': 1, 'lugares.': 1, 'semanas': 1, 'últimos': 1, 'hechos': 1}
-personajes:	{'más': 1, 'como': 1}
-emblemáticos:	{'de': 2}
-historia,:	{'nacieron': 1, '¿conocéis': 1, 'con': 1, 'plagiada': 1, 'y': 1, 'murió': 1, 'Anónimo': 1, 'mató': 1}
-nacieron:	{'en': 1}
-misma:	{'región,': 1, 'época': 1}
-región,:	{'coincidieron': 1, 'esta': 1}
-coincidieron:	{'en': 1}
-época:	{'y': 1, 'victoriana,': 1}
-despreciaban:	{'mutuamente.': 1}
-mutuamente.:	{'¿Conocíais': 1}
-¿Conocíais:	{'esta': 1}
-rivalidad?:	{'#versuscuriosos': 1}
-#versuscuriosos:	{'#Renacimiento': 1}
-#Renacimiento:	{'#curiosidades': 1}
-#Ilustración:	{'https://t.co/JiWMnoQEKm': 1, '#StopCaza': 1}
-☠:	{'#TalDíaComoHoy': 1, 'Continuamos': 1, 'Alejandro': 1, 'Existen': 1}
-#TalDíaComoHoy:	{'de': 1}
-1626:	{'moría': 1}
-Francis:	{'Bacon,': 1}
-Bacon,:	{'padre': 1}
-empirismo:	{'filosófico': 1}
-filosófico:	{'y': 1}
-científico.:	{'Su': 1}
-Su:	{'muerte': 1, 'cuerpo': 1, 'ejecución': 1}
-faltar:	{'en': 1}
-#muertesabsurdas.:	{'#curiosidades': 1}
-#quemuertemastonta:	{'#ilustración': 1, 'https://t.co/aDWmvytSBl': 1, '#muertesabsurdas': 2}
-A:	{'raíz': 1, 'las': 1, 'Isaac': 1, 'Coruña': 2, 'Albert': 1}
-raíz:	{'de': 1}
-palabras:	{'de': 1}
-@JoaquinCaparros:	{'informando': 1}
-informando:	{'que': 1}
-padece:	{'#leucemia,': 1}
-#leucemia,:	{'no': 1}
-está:	{'de': 1}
-insistir:	{'en': 1}
-podemos:	{'salvar': 1}
-salvar:	{'vidas.': 1, 'la': 1}
-vidas.:	{'Organismos': 1}
-Organismos:	{'como': 1}
-Fundación:	{'#JosepCarreras': 1}
-#JosepCarreras:	{'os': 1}
-aportarán:	{'toda': 1}
-toda:	{'la': 1, 'su': 1}
-información.:	{'¿Qué': 1}
-motivos:	{'podría': 1}
-podría:	{'haber': 1, 'valer': 1}
-haber:	{'para': 1}
-hacerlo?:	{'#curiosidades': 1}
-#donamédula:	{'https://t.co/gK8giGwa2O': 1}
-¡Una:	{'semana': 1}
-#estreno:	{'de': 1}
-8ª:	{'temporada': 1}
-#JuegoDeTronos!:	{'¿Quién': 1}
-¿Quién:	{'creéis': 1}
-pasará?:	{'#ilustración': 1}
-#GameOfThrones:	{'https://t.co/ZTjKVG1GY7': 1}
-123:	{'años': 1}
-inicio:	{'de': 1, 'del': 2}
-#JuegosOlímpicos:	{'de': 1}
-Atenas:	{'de': 1}
-1896,:	{'los': 1}
-primeros:	{'de': 1, 'años': 1}
-Era:	{'Moderna,': 1}
-Moderna,:	{'1.502': 1}
-1.502:	{'años': 1}
-después:	{'de': 2, 'en': 1}
-prohibieran:	{'los': 1}
-antiguos.:	{'¿Conocéis': 1}
-#curiosidades?:	{'#ilustración': 1}
-#deporte:	{'#felizfinde': 1, '#fútbol': 1}
-Si:	{'mi': 1, 'pudieras': 1, 'pudieseis': 1, 'os': 1, 'quieres': 1}
-mi:	{'sonrisa': 1, 'alma,': 1}
-sonrisa:	{'mostrara': 1, 'del': 1}
-mostrara:	{'el': 1}
-fondo:	{'de': 1}
-alma,:	{'mucha': 1}
-mucha:	{'gente': 1}
-gente:	{'al': 1}
-verme:	{'sonreír': 1}
-sonreír:	{'lloraría': 1}
-lloraría:	{'conmigo': 1}
-conmigo:	{'Kurt': 1}
-Kurt:	{'Cobain': 2, 'Cobain,': 1}
-Cobain:	{'murió': 1}
-murió:	{'el': 1, 'a': 1, 'asfixiado': 1}
-5:	{'de': 2, 'años': 1}
-1994.:	{'Su': 1}
-cuerpo:	{'se': 1, 'a': 1}
-encontró:	{'tres': 1}
-tres:	{'días': 3, 'años.': 1, 'kilómetros.': 1}
-casa:	{'de': 2}
-Seattle:	{'con': 1}
-balazo:	{'en': 1}
-cabeza:	{'y': 1}
-1,5:	{'miligramos': 1}
-miligramos:	{'de': 1}
-heroína:	{'por': 1}
-litro:	{'de': 1}
-sangre.:	{'Aunque': 1}
-Aunque:	{'la': 1, 'es': 1, 'las': 1}
-versión:	{'oficial': 1, 'ante': 1, 'sobre': 1}
-oficial:	{'apunta': 1}
-apunta:	{'a': 1}
-suicidio,:	{'muchas': 1}
-muchas:	{'son': 1}
-son:	{'las': 1, 'más': 1, 'un': 1, 'los': 1, 'el': 1, 'presos': 1, 'prisioneros': 1, 'tan': 1}
-voces:	{'que': 1}
-plantean:	{'un': 1}
-Cobain,:	{'líder': 1}
-líder:	{'de': 1}
-#Nirvana:	{'y': 1}
-abanderado:	{'del': 1}
-#grunge,:	{'estilo': 1}
-estilo:	{'musical': 1, 'único.': 1}
-musical:	{'con': 1}
-legado:	{'de': 1}
-canciones:	{'eternas.': 1}
-eternas.:	{'#curiosidades': 1}
-#Efemerides:	{'#ilustración': 1}
-#KurtCobain:	{'#musica': 1}
-#musica:	{'#cultura': 1}
-❓Uno:	{'de': 1}
-grandes:	{'#misterios': 1, 'genios': 2, 'mujeres': 1, 'madres': 1}
-sigue:	{'siendo': 1}
-siendo:	{'el': 1}
-lugar:	{'de': 2, 'en': 1, 'un': 1, 'a': 1}
-Cristóbal:	{'#Colón.': 1}
-#Colón.:	{'Basándonos': 1}
-Basándonos:	{'en': 1}
-#estereotipos:	{'ilustramos': 1}
-ilustramos:	{'3': 1, 'una': 1, 'alguna': 1, 'la': 2}
-esas:	{'teorías,': 1}
-teorías,:	{'pero': 1}
-pero:	{'existen': 1, 'no': 3, 'su': 1, 'la': 1, 'se': 1, 'todavía': 1, 'eterno': 1, 'terminó': 1, 'que': 1}
-existen:	{'más.': 1, 'varias;': 1}
-más.:	{'¿Cuál': 1}
-¿Cuál:	{'es': 2, 'añadirías?': 1}
-vuestra?:	{'#curiosidades': 1}
-#teoria:	{'#ilustración': 1}
-#personajeshistóricos:	{'#cristobalcolon': 1}
-#cristobalcolon:	{'#art': 1}
-#art:	{'https://t.co/65mS9eWNGG': 1}
-#MarlonBrando,:	{'leyenda': 1}
-leyenda:	{'del': 2}
-#cine,:	{'cumpliría': 1}
-cumpliría:	{'hoy': 1, '74': 1}
-95:	{'años.': 1}
-años.:	{'Ilustramos': 1, '#ilustración': 1, 'Los': 1}
-actores:	{'más': 1}
-alguna:	{'más?': 3, 'acción': 1, '#fobia': 1, 'de': 1, 'situación': 1}
-más?:	{'#ilustración': 2, '#curiosidades': 1}
-#hollywood:	{'#cultura': 1}
-Continuamos:	{'nuestra': 1}
-nuestra:	{'saga': 1, 'nueva': 1, 'tierra': 1, 'sección': 1, '#lucha': 1, 'última': 1, 'lucha!': 1}
-saga:	{'de': 1}
-#muertesabsurdas:	{'con': 1, 'https://t.co/QKrpwykdNk': 1, 'https://t.co/sXFSkiYyPr': 1}
-#RayChapman,:	{'uno': 1}
-jugadores:	{'de': 1, 'recibirán': 1}
-béisbol:	{'más': 1}
-populares:	{'en': 1, 'de': 1}
-momento:	{'de': 2, 'y': 1}
-muerte,:	{'a': 1}
-43:	{'años': 1}
-#SteveJobs:	{'y': 1}
-Stephen:	{'Wozniak': 1}
-Wozniak:	{'fundaron': 1}
-fundaron:	{'#Apple,': 1}
-#Apple,:	{'creada': 1}
-creada:	{'en': 1}
-garaje:	{'de': 1}
-padres:	{'de': 1, 'lo': 1}
-Jobs.:	{'#curiosidades': 1}
-#tecnología:	{'#emprendedores': 1, '#ciencia': 1, '#animación': 1}
-#emprendedores:	{'#exito': 1}
-#exito:	{'#aniversario': 1}
-#aniversario:	{'#genios': 1, '#historia': 1}
-#genios:	{'https://t.co/bHMbr9vvqS': 1}
-Tal:	{'día': 14}
-hoy,:	{'un': 1, '21': 1, '7': 1, '15': 1, 'Alfred': 1, '12': 1, '6': 1, '30': 1, 'el': 3, '17': 1}
-domingo:	{'31': 1, 'se': 1}
-31:	{'de': 1}
-marzo:	{'de': 4}
-1889,:	{'Gustave': 1}
-Gustave:	{'#Eiffel': 1}
-#Eiffel:	{'inauguraba': 1}
-inauguraba:	{'lo': 1}
-convertiría:	{'en': 1}
-monumento:	{'más': 1}
-emblemático:	{'de': 1}
-Francia.:	{'¿Sabríais': 1, 'https://t.co/BJ2KZymHBt': 1}
-¿Sabríais:	{'decir': 1, 'adivinar': 1}
-decir:	{'cuál': 1}
-cuál:	{'fue': 1}
-motivo:	{'de': 1, 'del': 1}
-construcción?:	{'#curiosidades': 1}
-#torreeiffel:	{'https://t.co/kenLdJvAMA': 1}
-166:	{'años': 1}
-#VanGogh:	{'y': 1}
-respondemos:	{'a': 1}
-pregunta:	{'del': 1, 'de': 2}
-ayer,:	{'última': 1}
-mes.:	{'¡El': 1, 'Entre': 1}
-¡El:	{'lunes': 1}
-lunes:	{'sabremos': 1}
-sabremos:	{'quién': 1}
-quién:	{'ha': 1, 'suprimiríais?': 1}
-ha:	{'ganado': 1, 'declarado': 1, 'venido': 1, 'podido': 1, 'parecido?': 1, 'sido': 1, 'avanzado': 1, 'matado': 1, 'desarrollado': 2, 'asociado': 1}
-ganado:	{'una': 1}
-personalizada!:	{'#curiosidades': 1}
-¡NUEVO:	{'VÍDEO!': 3}
-VÍDEO!:	{'¿Qué': 1, '¿Es': 1, '¿Creéis': 1}
-opináis:	{'sobre': 2}
-#vacunas?:	{'En': 1}
-nueva:	{'#animación': 1, 'derrota': 1, 'especie': 1}
-#animación:	{'investigamos': 1, 'https://t.co/K65HE0FuiV': 1, 'completa!': 1, '#erescurioso7': 1}
-investigamos:	{'sobre': 1}
-polémico:	{'tema,': 1}
-tema,:	{'¡mira': 1}
-¡mira:	{'el': 1}
-vídeo:	{'completo': 1}
-completo:	{'y': 1, 'https://t.co/yFEDN8IZTP': 2}
-déjanos:	{'tu': 1}
-comentario!:	{'https://t.co/jdVE4Ke91g': 1}
-https://t.co/jdVE4Ke91g:	{'#curiosidades': 1}
-#medicina:	{'#debate': 1}
-#debate:	{'#ilustracion': 1}
-#ilustracion:	{'#erescurioso9': 1}
-#erescurioso9:	{'#felizfinde': 1}
-Gracias:	{'a': 1, '@RoyaalzEU,': 1}
-@lavecinarubia:	{'conocimos': 1}
-conocimos:	{'esta': 1}
-curiosa:	{'historia': 1}
-ocurrida:	{'en': 1}
-Kansas.:	{'¿Qué': 1}
-pudo:	{'pasar': 1}
-pasar:	{'en': 1}
-camino:	{'para': 1}
-tener:	{'este': 1, 'entre': 1, 'recuerdos': 1}
-final?:	{'¿A': 1}
-¿A:	{'qué': 1, 'cuántas': 1}
-qué:	{'película': 1, 'personaje': 2, 'une': 1}
-recuerda?:	{'#ilustración': 1}
-#devueltaacasa:	{'#curiosidades': 1}
-#animales:	{'#erescurioso': 1}
-#perro:	{'#cabra': 1}
-#cabra:	{'#finalfeliz': 1}
-#finalfeliz:	{'#felizfinde': 1}
-Ya:	{'queman': 1, 'lo': 1, 'que': 1}
-queman:	{'Galicia': 1}
-Galicia:	{'en': 1, 'y': 2, 'el': 1, 'Concepción': 1}
-marzo,:	{'nuestra': 1, 'se': 1}
-tierra:	{'en': 1}
-manos:	{'de': 1}
-quien:	{'no': 1, 'adoptó': 1}
-cuida.:	{'Intentamos': 1}
-Intentamos:	{'aportar': 1}
-aportar:	{'ideas': 1}
-ideas:	{'adecuadas': 1}
-adecuadas:	{'a': 1}
-esos:	{'cerebros,': 1}
-cerebros,:	{'pero': 1}
-sabemos:	{'si': 1}
-si:	{'daremos': 1, 'tuvieseis': 1, 'conoces': 1, 'sabéis': 1, 'lo': 1, 'cumplen': 1}
-daremos:	{'la': 1, 'más': 1}
-talla.:	{'#LumesNuncaMáis': 1}
-#LumesNuncaMáis:	{'#ilustración': 1}
-#NonArdeGalicia:	{'#QueimanGalicia': 1}
-#QueimanGalicia:	{'https://t.co/WLzmKbtHsl': 1}
-Durante:	{'el': 1, 'este': 1}
-exilio:	{'se': 1, 'en': 1}
-escena:	{'francesa,': 1}
-francesa,:	{'considerada': 1}
-considerada:	{'una': 1, 'pionera': 1}
-mejores:	{'actrices': 1}
-actrices:	{'de': 1}
-tiempos:	{'y': 1}
-condecorada:	{'con': 1}
-Legión:	{'de': 1}
-honor:	{'de': 1, 'a': 1, 'al': 1}
-ese:	{'país.': 1, 'día': 1, 'momento.': 1}
-María:	{'Casares': 1}
-Casares:	{'estaba': 1}
-estaba:	{'al': 1, 'condenado': 1, 'calificado': 1}
-frente:	{'del': 1}
-gobierno:	{'de': 1}
-República:	{'en': 1}
-1936,:	{'durante': 1}
-durante:	{'los': 2, '20': 1, 'la': 1, 'el': 1}
-meses:	{'previos': 1, 'que': 1, 'antes': 1}
-previos:	{'al': 1}
-estallido:	{'de': 1}
-Civil:	{'española.': 1}
-española.:	{'Con': 1}
-Con:	{'14': 1, 'suerte,': 1, '36m': 1}
-14:	{'años': 1, 'de': 1, 'años.': 1}
-esperaba:	{'el': 1}
-Francia,:	{'del': 1, 'el': 1}
-volvería:	{'hasta': 1}
-hasta:	{'la': 1, '2011': 1, 'entonces': 1, 'ese': 1}
-Hoy,:	{'en': 2, 'la': 1, '14': 1, '5': 1, '23': 1}
-#DiaMundialdelTeatro,:	{'recordamos': 1}
-recordamos:	{'la': 1}
-figura:	{'de': 1, 'clave': 1, 'importante': 1}
-#MaríaCasares,:	{'musa': 1}
-musa:	{'artística': 1}
-artística:	{'para': 1}
-unos:	{'e': 1}
-e:	{'icono': 1, 'irracional': 2, 'intelectual.': 1, 'inventor': 1}
-icono:	{'político': 1}
-político:	{'para': 1}
-otros.:	{'¿Sabéis': 1, '¿Qué': 1}
-¿Sabéis:	{'más': 1}
-ella?:	{'#mujereshistóricas': 1}
-#mujereshistóricas:	{'#ilustración': 1}
-#feminismo:	{'https://t.co/AWUpKQXK4Z': 1, 'https://t.co/51I0qVp1bi': 1}
-Como:	{'dato,': 1, 'promedio,': 1}
-dato,:	{'Constantino': 1}
-Constantino:	{'I': 1, 'I,': 1}
-I:	{'era': 1, 'regresó': 1, 'de': 1, 'Guerra': 2}
-abuelo:	{'paterno': 1}
-paterno:	{'de': 1}
-Sofía,:	{'reina': 1}
-reina:	{'emérita': 1}
-emérita:	{'de': 1}
-Winston:	{'Churchill': 1}
-Churchill:	{'dejaría': 1}
-dejaría:	{'escrito': 1}
-escrito:	{'que': 1, 'por': 1}
-sería:	{'exagerado': 1, 'el': 1, 'la': 1}
-exagerado:	{'destacar': 1}
-destacar:	{'que': 1}
-cuarto:	{'de': 1}
-millón:	{'de': 1}
-personas:	{'murió': 1, 'con': 1, 'no': 1, 'en': 1}
-causa:	{'del': 1, 'de': 1}
-mordisco:	{'de': 1}
-Tras:	{'la': 1}
-Alejandro:	{'I': 2}
-regresó:	{'al': 1}
-trono:	{'su': 1}
-padre,:	{'Constantino': 1}
-I,:	{'y': 1}
-empezó:	{'dicha': 1, 'a': 1}
-dicha:	{'guerra.': 1}
-guerra.:	{'Se': 1, 'https://t.co/pB8HYbFIjv': 1}
-saldó:	{'con': 1}
-derrota:	{'de': 1}
-ejército,:	{'que': 1}
-llevó:	{'a': 2}
-250.000:	{'griegos': 1}
-griegos:	{'a': 1}
-Grecia:	{'(1893-1920)': 1}
-(1893-1920):	{'fue': 1}
-3º:	{'Rey': 1}
-Rey:	{'de': 2}
-Helenos.:	{'Dedicó': 1}
-Dedicó:	{'sus': 1}
-reinado:	{'a': 1}
-tratar:	{'de': 1}
-evitar:	{'el': 1}
-derramamiento:	{'de': 1}
-sangre:	{'griega': 1, 'para': 1, 'si': 1}
-griega:	{'en': 1}
-conflicto:	{'contra': 1}
-contra:	{'Turquía,': 1, '#ElisabethMagie,': 1, 'esta': 1, 'la': 1}
-Turquía,:	{'pero': 1}
-27:	{'cambió': 1, 'años': 1, 'de': 1}
-cambió:	{'la': 1}
-@OxfamIntermon:	{'Además': 1, 'en': 1}
-Además:	{'del': 1}
-cartel,:	{'ilustramos': 1}
-#viñeta:	{'con': 1, 'resumimos': 2, 'https://t.co/tLltxa0nyI': 1, '#cultura': 1, '#Goyas2019': 1}
-testimonio:	{'de': 3}
-Ragda,:	{'una': 1}
-chica:	{'que': 1}
-tuvo:	{'que': 1, 'lugar': 1}
-huir:	{'de': 1}
-Irak:	{'al': 1}
-estallar:	{'la': 1}
-https://t.co/pB8HYbFIjv:	{'https://t.co/T50LcOOyTW': 1}
-4:	{'años': 1, 'debido': 1}
-#guerra:	{'en': 1}
-Yemen:	{'y': 1}
-pasan:	{'por': 1}
-peor:	{'crisis': 1}
-crisis:	{'humanitaria.': 1}
-humanitaria.:	{'Colaboramos': 1}
-Colaboramos:	{'con': 3}
-campaña,:	{'diseñando': 1}
-diseñando:	{'la': 1}
-presentación:	{'de': 1}
-informe:	{'“Mujeres': 1}
-“Mujeres:	{'en': 1}
-zonas:	{'de': 1}
-conflicto”.:	{'#ilustración': 1}
-#girlpower:	{'#sayenough': 1}
-#sayenough:	{'https://t.co/63LGhL6zvF': 1}
-#DíaMundialdelAgua,:	{'ilustramos': 1}
-acción:	{'cotidiana': 1}
-cotidiana:	{'que': 1}
-llevar:	{'a': 1}
-cabo:	{'para': 1, 'la': 1}
-cuidar:	{'este': 1, 'bosques': 1}
-bien:	{'de': 1, 'la': 1}
-necesidad.:	{'¿Qué': 1}
-ocurre:	{'que': 1, 'alguna': 1}
-podamos:	{'hacer': 1}
-hacer:	{'en': 1, 'música': 1, 'CTRL+Z': 2, 'bien': 1}
-nuestro:	{'día': 1, 'trivial': 1, 'CIS': 1, 'perfil': 1, 'particular': 1, 'proyecto': 1}
-día?:	{'#ilustración': 1}
-#consejos:	{'#curiosidades': 1}
-fútbol:	{'celebra': 1, 'con': 1}
-celebra:	{'su': 1, 'el': 2}
-39º:	{'aniversario.': 1}
-aniversario.:	{'Parabens': 1}
-Parabens:	{'@10Ronaldinho!': 1}
-@10Ronaldinho!:	{'#FelizCumpleR10': 1}
-#FelizCumpleR10:	{'#ilustración': 1}
-#ronaldinho:	{'#fanart': 1}
-#fanart:	{'https://t.co/CLKK9EQot0': 1, '#ilustración': 1}
-21:	{'de': 5}
-1685,:	{'nacía': 1}
-nacía:	{'en': 5, '#JulioVerne,': 1, 'Benjamín': 1}
-Alemania:	{'Johann': 1}
-Johann:	{'Sebastián': 1}
-Sebastián:	{'#Bach,': 1}
-#Bach,:	{'uno': 1}
-compositores:	{'de': 1}
-Google:	{'le': 1}
-le:	{'dedica': 1, 'practicaron': 1, 'eran': 1, 'gustaba': 1, 'vio': 1, 'preguntó': 1, 'inculcaron': 1, 'ofrecieron': 1, 'decía:': 1}
-dedica:	{'su': 1}
-#GoogleDoodle,:	{'que': 1}
-música:	{'como': 1, 'favorita.': 1}
-él:	{'a': 1}
-través:	{'de': 2}
-inteligencia:	{'artificial.': 2, 'artificial': 1}
-artificial.:	{'#ilustración': 1, 'Estaba': 1}
-Cada:	{'vez': 1, '13': 1}
-vez:	{'son': 1, 'más': 1, 'el': 1, 'te': 1}
-alarmantes:	{'las': 1}
-noticias:	{'sobre': 1}
-#CalentamientoGlobal:	{'y': 1, 'es': 1}
-#CambioClimatico,:	{'pero': 1}
-planeta:	{'ya': 1}
-ya:	{'no': 1, 'que,': 1, 'que': 3, 'sumamos': 1}
-tiene:	{'retorno.': 1}
-retorno.:	{'Ilustramos': 1}
-especies:	{'curiosas': 1, 'se': 1}
-curiosas:	{'que': 1}
-volveremos:	{'a': 1}
-ver,:	{'pero': 1, 'tocar': 1}
-cuentan:	{'por': 1}
-cientos.:	{'¿Podrías': 1}
-¿Podrías:	{'decirnos': 1}
-decirnos:	{'alguna': 1}
-#fauna:	{'https://t.co/QGcorBBhJs': 1, 'https://t.co/pPy0gsXVqr': 1}
-¿Sabías:	{'que': 1}
-#GengisKhan:	{'es': 1}
-11:	{'hombres': 1}
-hombres:	{'más': 1, 'en': 1, 'no': 1}
-fértiles:	{'de': 1}
-humanidad?:	{'Un': 1}
-Un:	{'estudio': 1, 'ejemplo': 1, 'tercio': 1, 'caracol': 1}
-estudio:	{'de': 2, 'más': 1}
-2003:	{'detectó': 1}
-detectó:	{'una': 1}
-variante:	{'del': 1}
-cromosoma:	{'Y,': 1}
-Y,:	{'apuntando': 1}
-apuntando:	{'a': 1}
-millones:	{'de': 3}
-mundo:	{'serían': 1, 'que': 1, 'en': 1, 'como': 1, 'donde': 1}
-serían:	{'sus': 1}
-descendientes:	{'genéticos.': 1}
-genéticos.:	{'¡Feliz': 1}
-¡Feliz:	{'#díadelpadre': 1, 'domingo!': 1}
-#díadelpadre:	{'a': 1}
-todos!:	{'#curiosidades': 1, 'https://t.co/jaLE07g8sH': 1}
-❓¿Conocéis:	{'el': 1}
-autor?:	{'Responded': 1}
-Responded:	{'en': 1}
-Instagram:	{'y': 1, 'Stories': 1, 'https://t.co/x8MQ2EPck8': 1, 'no': 1}
-podréis:	{'ganar': 1}
-personalizada,:	{'¡podemos': 1}
-¡podemos:	{'ilustrar': 1}
-ilustrar:	{'a': 1, 'algunas': 1}
-vuestra:	{'mascota!': 1, 'mascota': 1}
-mascota!:	{'https://t.co/7qCPjnmIWq': 1}
-Varios:	{'medios': 1}
-medios:	{'felicitan': 1, 'la': 1}
-felicitan:	{'hoy': 1}
-#Mafalda:	{'por': 1}
-pero,:	{'según': 1, '¿se': 1}
-según:	{'su': 2, 'otros.': 1, 'un': 1}
-creador,:	{'el': 1}
-publicación:	{'sería': 1}
-septiembre:	{'de': 1}
-1964.:	{'#CheeseQuiz': 1}
-140:	{'años': 1}
-Albert:	{'#Einstein,': 1, 'Einstein': 1}
-#Einstein,:	{'uno': 1}
-genios:	{'del': 1, 'también': 1, 'de': 2}
-⚠♿:	{'¿Eres': 1}
-¿Eres:	{'de': 1}
-aparcan:	{'en': 1}
-plazas:	{'reservadas': 1}
-reservadas:	{'a': 2}
-movilidad:	{'reducida?': 1}
-reducida?:	{'¿Cuál': 1}
-excusa?:	{'#AsíNo': 1}
-#AsíNo:	{'#NoLoHagas': 1}
-#NoLoHagas:	{'#respect': 1}
-#respect:	{'#MovilidadReducida': 1}
-#MovilidadReducida:	{'https://t.co/EbfVqhGSqP': 1}
-Existen:	{'diferentes': 1}
-diferentes:	{'versiones': 1, 'medios': 1}
-versiones:	{'sobre': 1}
-#Arquímedes,:	{'uno': 1}
-científicos:	{'más': 4, 'gallegos': 1, 'estadounidenses.': 1}
-importantes:	{'de': 3}
-antigüedad:	{'clásica.': 1}
-clásica.:	{'¿Conocéis': 1}
-Las:	{'fobias': 1, 'grandes': 1, 'heces': 1, 'noches': 1, 'sensaciones': 1, 'tortugas': 1, 'parejas': 1}
-fobias:	{'son': 1}
-tipo:	{'de': 1}
-trastorno:	{'de': 1, 'del': 1, 'psicológico': 1}
-ansiedad,:	{'un': 1}
-miedo:	{'fuerte': 1, 'a': 3, 'persistente': 1, 'irracional': 1}
-fuerte:	{'e': 1}
-irracional:	{'de': 1, 'hacia': 1, 'que': 1}
-algo:	{'que': 1, 'nuevo!': 1}
-representa:	{'poco': 1}
-poco:	{'o': 1, 'empezaremos': 1, 'frecuente': 1}
-o:	{'ningún': 1, '"valle': 1, 'Napoleón': 1, 'cuidadas': 1, 'crítica,': 1, 'el': 1, 'pensar': 1}
-ningún:	{'peligro': 1}
-peligro:	{'real': 1}
-real:	{'y': 1, 'de': 2}
-mayoría:	{'de': 1}
-encuentra:	{'molesto.': 1, 'cada': 1}
-molesto.:	{'¿Sufrís': 1}
-¿Sufrís:	{'alguna?': 1}
-alguna?:	{'¿Conocéis': 1}
-#fobia:	{'más': 1}
-rara?:	{'#ilustración': 1}
-#salud:	{'#curiosidades': 1, 'https://t.co/1f9zd2lwHM': 1}
-sección:	{'CTRL+Z': 1, 'con': 1}
-CTRL+Z:	{'os': 1, 'y': 2}
-preguntamos:	{'a': 1}
-histórico:	{'devolveríais': 1, 'devolverías': 1, 'en': 1}
-devolveríais:	{'a': 1}
-infancia:	{'si': 1, 'para': 1}
-tuvieseis:	{'el': 1}
-poder:	{'de': 1, 'controlar': 1}
-volver:	{'atrás': 2}
-atrás:	{'en': 2}
-tiempo:	{'y': 1}
-deshacer:	{'sus': 1}
-acciones.:	{'Nuestra': 1}
-Nuestra:	{'3ª': 1}
-3ª:	{'entrega': 1}
-entrega:	{'se': 1}
-dedicamos:	{'a': 1}
-#Stalin,:	{'¿le': 1}
-¿le:	{'haríais': 1}
-haríais:	{'#controlzeta?': 1}
-#controlzeta?:	{'#ilustración': 1}
-#política:	{'#felizlunes': 1, '#españa': 1, '#historia': 1}
-#felizlunes:	{'https://t.co/tzTgxRtM2R': 1, 'https://t.co/s7PsRq0cor': 1, '#viñeta': 1}
-@VallejoWilly:	{'Ya': 1}
-hicimos:	{'en': 1}
-día,:	{'de': 1}
-hecho:	{'la': 1, 'histórico': 1, 'preguntas': 1}
-volvimos:	{'a': 1}
-recordar:	{'en': 1}
-propio:	{'8M.': 1, 'bajo': 1, 'récord.': 1}
-8M.:	{'Te': 1}
-Te:	{'dejamos': 1}
-dejamos:	{'el': 1}
-tweet:	{'https://t.co/3gXRDk5hYf': 1}
-https://t.co/3gXRDk5hYf:	{'☺': 1}
-imposible:	{'recopilar': 1}
-recopilar:	{'en': 1}
-sola:	{'#ilustración': 1}
-inventos:	{'de': 1}
-mujeres:	{'a': 1, 'que': 1, 'de': 1, 'bellas': 1}
-largo:	{'de': 1}
-#8M:	{'proponemos': 1, '#DiaDeLaMujer': 2, 'no': 1, 'ilustramos': 1}
-proponemos:	{'estas': 1, 'nuestro': 1}
-estas:	{'creaciones': 1}
-creaciones:	{'tan': 1}
-tan:	{'útiles': 1, 'reciente': 1, 'tabú': 1, 'inteligentes': 1, 'frías': 1}
-útiles:	{'en': 1}
-día.:	{'¿Nos': 1}
-¿Nos:	{'ayudáis': 1}
-ayudáis:	{'a': 1}
-completarlo?:	{'¿A': 1}
-cuántas:	{'más': 1}
-conocéis?:	{'#DiaDeLaMujer': 1, '¿Tiene': 1}
-#DiaDeLaMujer:	{'#mujereshistoricas': 1, 'https://t.co/XxRZoPkLBK': 2, 'https://t.co/iPq7RjblzZ': 1}
-#mujereshistoricas:	{'https://t.co/BOrOA75m7P': 1}
-@quepasanacosta:	{'en': 2}
-genial:	{'reportaje': 2}
-reportaje:	{'sobre': 2}
-mujer:	{'marinera,': 2, 'que': 2}
-marinera,:	{'uno': 2}
-principales:	{'oficios': 2}
-oficios:	{'de': 2}
-#CostaDaMorte.:	{'En': 2}
-resumimos:	{'el': 2}
-ellas,:	{'entra': 2, 'por': 1}
-entra:	{'para': 2}
-leerlo:	{'completo': 2}
-https://t.co/yFEDN8IZTP:	{'#ilustración': 2}
-lucharon:	{'en': 1}
-sombra:	{'siguen': 1}
-siguen:	{'presentes': 1}
-presentes:	{'en': 1}
-#lucha:	{'diaria,': 1}
-diaria,:	{'la': 1}
-reivindicar:	{'cada': 1, 'profesiones': 1}
-cada:	{'día': 3, 'viernes': 1, 'vez': 1, 'dos': 1, 'año.': 2, 'mes.': 1}
-derecho:	{'a': 1}
-cambiar:	{'la': 1}
-Seguimos:	{'trabajando,': 1}
-trabajando,:	{'por': 1}
-vendrán.:	{'Para': 1}
-Para:	{'que': 1, 'donar': 1}
-sea:	{'necesario.': 1}
-necesario.:	{'#8Marzo': 1}
-#8Marzo:	{'#8M2019': 1}
-#8M2019:	{'#DiaDeLaMujer': 1}
-☕:	{'¿Quiéres': 1}
-¿Quiéres:	{'ganar': 1}
-personalizada?:	{'¡Mañana': 1}
-¡Mañana:	{'arranca': 1}
-arranca:	{'el': 1}
-#CheeseQuiz!:	{'Nuestro': 1, 'La': 1}
-Nuestro:	{'trivial': 1}
-trivial:	{'diario': 1, 'tendrá': 1}
-diario:	{'ahora': 1}
-ahora:	{'tendrá': 1, 'cuenta': 1}
-tendrá:	{'premio,': 1, 'premio...¡arranca': 1, 'lugar': 1, 'un': 1}
-premio,:	{'¡debes': 1}
-¡debes:	{'acertar': 1}
-acertar:	{'la': 1}
-viernes:	{'de': 1}
-marzo!:	{'Juega': 1}
-Juega:	{'en': 1}
-Stories:	{'https://t.co/7qCPjnmIWq': 1, 'y': 1}
-Consulta:	{'las': 1}
-bases:	{'https://t.co/niGfkq8yvs': 1}
-https://t.co/niGfkq8yvs:	{'https://t.co/SrzAjfEBNf': 1}
-7:	{'de': 1}
-1933,:	{'Charles': 1}
-Darrow:	{'"creaba"': 1}
-"creaba":	{'el': 1}
-#Monopoly.:	{'A': 1}
-puertas:	{'del': 1, 'el': 1}
-injusticia:	{'contra': 1}
-#ElisabethMagie,:	{'la': 1}
-verdadera:	{'creadora': 1}
-creadora:	{'de': 1}
-juegos:	{'más': 1}
-plagiada:	{'y': 1}
-relegada:	{'al': 1}
-olvido.:	{'#curiosidades': 1}
-Dimitri:	{'Mendeleiev': 2}
-Mendeleiev:	{'se': 1, 'presentaba': 1}
-Naciones:	{'Unidas': 1, 'Unidas.': 1}
-Unidas:	{'ha': 1}
-declarado:	{'2019': 1}
-2019:	{'como': 1, 'tras': 1}
-Año:	{'Internacional': 1}
-Tabla:	{'Periódica.': 1}
-¡Hoy:	{'se': 1}
-150:	{'años': 1}
-#TablaPeriódica!:	{'El': 1}
-6:	{'de': 2, 'temporadas,': 1}
-1869,:	{'el': 1}
-químico:	{'Dimitri': 1, 'esencial': 1}
-presentaba:	{'en': 1}
-San:	{'Petersburgo': 1}
-Petersburgo:	{'la': 1}
-ante:	{'la': 1}
-Sociedad:	{'Química': 1}
-Química:	{'de': 1}
-Rusia,:	{'en': 1}
-donde:	{'ordenaba': 1, 'se': 2, 'Javier': 1}
-ordenaba:	{'los': 1}
-63:	{'elementos': 1}
-elementos:	{'conocidos': 1, 'identificativos': 1}
-conocidos:	{'en': 1}
-esa:	{'época.': 1, 'comarca': 1, 'razón': 1, 'idea.': 1}
-época.:	{'#curiosidades': 1}
-origen:	{'de': 3, 'inglés': 1, 'doméstico.': 1}
-palabra:	{'#bluetooth?': 1}
-#bluetooth?:	{'#curiosidades': 1}
-@RoyaalzEU:	{'@MosqueraVazquez': 1}
-@MosqueraVazquez:	{'Gracias': 1}
-@RoyaalzEU,:	{'si': 1}
-conoces:	{'algún': 1}
-algún:	{'bot': 1, 'personaje': 1, 'día': 1}
-bot:	{'que': 1}
-también:	{'diseñe': 1, 'se': 1, 'podéis': 1}
-diseñe:	{'y': 1}
-haga:	{'el': 1}
-resto:	{'del': 1}
-trabajo:	{'háznoslo': 1}
-háznoslo:	{'saber.': 1}
-saber.:	{'¡Saludos!': 1}
-pudieras:	{'hacer': 1}
-tiempo,:	{'¿a': 1}
-¿a:	{'qué': 1, 'quién': 1}
-devolverías:	{'a': 1}
-acciones:	{'nunca': 1}
-nunca:	{'se': 1}
-lleven:	{'a': 1}
-cabo?:	{'#controlzeta': 1}
-#controlzeta:	{'#ilustración': 2}
-#politica:	{'#hitler': 1, 'https://t.co/HqrT7skrUa': 1}
-#hitler:	{'#felizlunes': 1}
-¡SPOILER!:	{'Durante': 1}
-mes:	{'nuestro': 1, 'que': 1}
-premio...¡arranca:	{'el': 1}
-datos,:	{'mientras': 1}
-mientras:	{'tanto,': 1, 'escuchaba': 1}
-tanto,:	{'podéis': 1}
-podéis:	{'practicar': 1, 'seguirnos': 1}
-practicar:	{'en': 1}
-https://t.co/x8MQ2EPck8:	{'#bienvenidomarzo': 1, 'Facebook:': 1, 'Youtube:': 1}
-#bienvenidomarzo:	{'#felizfinde': 1}
-Premios:	{'Ig': 1, '#Oscar2019,': 1}
-Ig:	{'Nobel?': 1}
-Nobel?:	{'Son': 1}
-antesala:	{'a': 1}
-#Nobel,:	{'en': 1}
-honra:	{'a': 1}
-trabajos:	{'científicos': 1, 'con': 1}
-disparatados:	{'del': 1}
-año.:	{'Os': 1, '#Yonodisparo': 1, 'Dará': 1}
-Os:	{'presentamos': 1}
-presentamos:	{'a': 1}
-galardonados:	{'del': 1}
-2018,:	{'uno': 1, 'España': 1}
-cuales:	{'ha': 1}
-venido:	{'a': 1}
-parar:	{'a': 1}
-España.:	{'¿Sabríais': 1, '¿La': 1}
-adivinar:	{'cuál?': 1}
-cuál?:	{'#curiosidades': 1}
-@JBardazza:	{'La': 1}
-"ataxia:	{'Costa': 2}
-Costa:	{'da': 3}
-da:	{'Morte",': 1, 'Morte"': 2, 'Vinci': 1}
-Morte",:	{'una': 1}
-serie:	{'de': 1}
-trastornos:	{'degenerativos': 1, 'de': 1}
-degenerativos:	{'que': 1}
-transmiten:	{'genéticamente': 1}
-genéticamente:	{'en': 1}
-probabilidad:	{'del': 1}
-Morte":	{'es': 1, 'solo': 1}
-descubrimiento:	{'tan': 1, 'permitió': 1}
-reciente:	{'que': 1}
-todavía:	{'hace': 1, 'no': 1, 'tan': 1}
-hace:	{'un': 1, 'siglos': 1, 'siglos,': 1, '260': 1}
-par:	{'de': 1}
-tratar.:	{'Aunque': 1}
-"mal:	{'sin': 1}
-sin:	{'cura",': 1, 'dormir': 1}
-cura",:	{'ahora': 1}
-clínica:	{'especializada': 1}
-especializada:	{'en': 1}
-comarca:	{'que': 1}
-No:	{'fue': 1, 'Violencia': 1, 'me': 1}
-2011:	{'que': 1}
-gallegos:	{'descubrieron': 1}
-descubrieron:	{'la': 1, 'en': 1}
-mutación:	{'causante,': 1}
-causante,:	{'que': 1}
-llevaba:	{'siglos': 1}
-siglos:	{'transmitiéndose': 1, 'un': 1}
-transmitiéndose:	{'entre': 1}
-entre:	{'los': 2, '1': 1, '4.000': 1}
-habitantes:	{'de': 1}
-comarca.:	{'Hoy': 1}
-100:	{'afectados': 1}
-afectados:	{'reconocidos,': 1}
-reconocidos,:	{'50': 1}
-50:	{'portadores': 1}
-portadores:	{'asintomáticos': 1}
-asintomáticos:	{'y': 1}
-alrededor:	{'de': 2}
-400:	{'en': 1}
-"Ataxia:	{'Costa': 1}
-solo:	{'existe': 1, 'se': 1, 'en': 2, 'son': 1, 'una': 1}
-existe:	{'en': 1}
-pequeña:	{'zona': 1}
-zona:	{'de': 1, 'ideal': 1}
-región:	{'de': 2}
-Japón.:	{'Esto': 1, '#28DeFebrero': 1}
-Esto:	{'genera': 1}
-genera:	{'la': 1}
-suposición:	{'de': 1}
-existió:	{'hace': 1}
-mismo:	{'antepasado': 1, 'recuadro': 1}
-antepasado:	{'común': 1}
-alteración,:	{'pero': 1}
-podido:	{'explicar': 1}
-explicar:	{'qué': 1}
-une:	{'a': 1}
-estos:	{'dos': 1, 'son': 1}
-#DiaMundialEnfermedadesRaras:	{'ilustramos': 1}
-#ataxia:	{'SCA36,': 1}
-SCA36,:	{'una': 1}
-alteración:	{'genética': 1}
-genética:	{'y': 1}
-neurodegenerativa:	{'que': 1}
-padece,:	{'desde': 1}
-siglos,:	{'en': 1}
-pequeño:	{'rincón': 1}
-rincón:	{'de': 1}
-Chugoku,:	{'en': 1}
-#28DeFebrero:	{'#curiosidades': 1}
-☑:	{'En': 4, 'Jueves': 1}
-Catalunya:	{'se': 1}
-dijous:	{'Gras.': 1}
-Gras.:	{'Gras': 1}
-Gras:	{'se': 1}
-traduce:	{'como': 1}
-gordo:	{'@eloygar12809410': 1}
-@eloygar12809410:	{'☑': 1}
-Jun:	{'(Granada)': 1}
-(Granada):	{'es': 1}
-Día:	{'del': 1, 'Escolar': 1}
-Pucherico:	{'@mtma_8': 1}
-@mtma_8:	{'☑': 1}
-Jueves:	{'de': 1}
-comadre:	{'@alpargatadeYuto': 1}
-@alpargatadeYuto:	{'#jueveslardero': 1}
-¡Qué:	{'bien!': 1}
-bien!:	{'¡Gracias': 1}
-¡Gracias:	{'por': 2}
-aportarnos:	{'más': 1}
-datos!:	{'☑': 1}
-Ecuador:	{'lo': 1}
-llaman:	{'Taita': 1}
-Taita:	{'Carnaval': 1}
-Carnaval:	{'@Grettubela': 1}
-@Grettubela:	{'☑': 1}
-Soria:	{'(España)': 1}
-(España):	{'se': 1}
-dice::	{'"Jueves': 1}
-"Jueves:	{'Lardero,': 1}
-Lardero,:	{'pan': 1}
-pan:	{'chorizo': 1}
-chorizo:	{'y': 1}
-huevo":	{'@albertlenin_1': 1}
-@albertlenin_1:	{'¿Qué': 1}
-curiosidades:	{'sabéis': 1, 'de': 1}
-Mañana:	{'es': 1}
-jueves:	{'lardero,': 1, 'tendrá': 1}
-lardero,:	{'una': 1}
-#tradición:	{'que': 1}
-marca:	{'el': 1}
-#Carnaval:	{'en': 1}
-muchos:	{'lugares': 1}
-lugares:	{'de': 1}
-¿Tiene:	{'otro': 1}
-otro:	{'nombre': 1}
-vuestras:	{'ciudades?': 1}
-ciudades?:	{'#curiosidades': 1}
-Ayer:	{'habéis': 1}
-respondido:	{'a': 1}
-CIS:	{'particular': 1}
-particular:	{'en': 1, '#CIS!': 1}
-#stories:	{'de': 1}
-Instagram,:	{'¡y': 1}
-¡y:	{'estos': 1, 'feliz': 1}
-resultados!:	{'Seguidnos': 1}
-Seguidnos:	{'en': 1}
-red:	{'y': 1}
-responded:	{'cada': 1}
-preguntas:	{'de': 1, 'sobre': 1}
-trivial.:	{'¡Próximamente': 1}
-¡Próximamente:	{'habrá': 1}
-habrá:	{'premios!': 1}
-premios!:	{'https://t.co/7qCPjnmIWq': 1}
-perfil:	{'de': 1}
-tenemos:	{'pregunta': 1}
-#trivial,:	{'¡hoy': 1}
-¡hoy:	{'proponemos': 1}
-#CIS!:	{'¿Queréis': 1}
-¿Queréis:	{'participar?': 1}
-participar?:	{'¡Entrad': 1}
-votad!:	{'https://t.co/7qCPjnmIWq': 1}
-#españa:	{'https://t.co/7815H4KQ3D': 1}
-persona:	{'con': 1, 'sienta': 1, 'promedio': 1}
-galardones:	{'de': 1}
-Academia:	{'de': 1}
-Hollywood:	{'es': 1, 'de': 1}
-Walt:	{'Disney,': 1}
-Disney,:	{'premiado': 1}
-premiado:	{'con': 1}
-#Oscar:	{'de': 1}
-total:	{'de': 2, 'del': 1}
-59:	{'nominaciones,': 1}
-nominaciones,:	{'además': 1}
-además:	{'de': 4}
-otros:	{'cuatro': 1, 'perros': 1}
-cuatro:	{'premios': 1, 'supuestos:': 1, 'veces': 1}
-premios:	{'honoríficos.': 1}
-honoríficos.:	{'#curiosidades': 1}
-#Hollywood:	{'la': 1, 'después': 1}
-91ª:	{'edición': 1}
-edición:	{'de': 1}
-#Oscar2019,:	{'donde': 1}
-Javier:	{'Bardem': 1}
-Bardem:	{'pronunció': 1}
-pronunció:	{'un': 1}
-aplaudido:	{'discurso': 1}
-discurso:	{'en': 1}
-español.:	{'¿Qué': 1}
-parecido?:	{'#ilustración': 1}
-#oscars:	{'#cultura': 1}
-#actualidad:	{'https://t.co/ntOndzI4WQ': 1}
-Nos:	{'habéis': 1}
-pedido:	{'más': 1}
-#HumorAbsurdo:	{'y': 1}
-aprovechamos:	{'el': 1, 'para': 1}
-182:	{'aniversario': 1, 'años': 1}
-#RosalíadeCastro:	{'para': 1}
-retomarlo.:	{'¡Feliz': 1}
-domingo!:	{'#RosalíaFtRosalía': 1}
-#RosalíaFtRosalía:	{'#DiadeRosalía': 1}
-#DiadeRosalía:	{'#24F': 1, '#parabénsRosalía': 1}
-#24F:	{'https://t.co/ozozVtbPHF': 1, '#ilustración': 1}
-Este:	{'domingo': 1, 'último': 1, 'fin': 1}
-#RosalíadeCastro,:	{'la': 1}
-escritora:	{'gallega': 1, 'considerada': 1, 'y': 1}
-gallega:	{'más': 1}
-universal:	{'y': 1}
-pioneras:	{'del': 1}
-#feminismo.:	{'Condensamos': 1, '¿Conocéis': 1}
-Condensamos:	{'sus': 1}
-48:	{'años': 1}
-#viñeta,:	{'¡corta': 1}
-¡corta:	{'vida': 1}
-vida:	{'pero': 1, 'de': 2}
-eterno:	{'legado!': 1}
-legado!:	{'#DiadeRosalía': 1}
-#parabénsRosalía:	{'#24F': 1}
-¿Es:	{'posible': 1}
-posible:	{'que': 1}
-existan:	{'los': 1}
-#zombies?:	{'¿Qué': 1}
-pasaría:	{'de': 1}
-así?:	{'¡Pinchad': 1}
-¡Pinchad:	{'en': 2}
-enlace:	{'y': 2}
-mirad:	{'la': 2}
-completa!:	{'Youtube:': 2}
-Youtube::	{'https://t.co/lqK6qtEIzd': 1, 'https://t.co/Jf2Ds1ekP2': 1, 'https://t.co/9sNjmpCeNA': 2}
-https://t.co/lqK6qtEIzd:	{'Facebook:': 1}
-Facebook::	{'https://t.co/6vrTNQHE6M': 1, 'https://t.co/crB2cYb02y': 1, 'https://t.co/TAC9mopr4I': 1}
-https://t.co/6vrTNQHE6M:	{'#curiosidades': 1}
-#erescurioso8:	{'https://t.co/YEtZxbmwGt': 1}
-datos:	{'de': 3}
-ONU,:	{'la': 1}
-diversidad:	{'lingüística': 1}
-lingüística:	{'se': 1}
-amenazada.:	{'Como': 1}
-promedio,:	{'cada': 1}
-semanas:	{'desaparece': 1}
-desaparece:	{'una': 1}
-lengua,:	{'llevándose': 1}
-llevándose:	{'con': 1}
-ella:	{'todo': 1}
-todo:	{'un': 1, 'momento,': 1, 'lo': 1, 'el': 3}
-patrimonio:	{'cultural': 1}
-cultural:	{'e': 1, 'y': 1}
-Rectificado:	{'el': 1}
-euskera,:	{'como': 1}
-dice:	{'@lavecinarubia:': 1, 'que': 1}
-@lavecinarubia::	{'#escribirbienesdeguapas': 1}
-#escribirbienesdeguapas:	{'#rectificaresdemisses': 1}
-#DíaInternacionalDeLaLenguaMaterna,:	{'cuyo': 1}
-cuyo:	{'objetivo': 3, 'descubrimiento': 1}
-objetivo:	{'es': 4}
-promover:	{'la': 1}
-importancia:	{'de': 1, 'del': 1}
-#diversidad:	{'cultural': 1}
-lingüística.:	{'Tan': 1}
-Tan:	{'solo': 1}
-península:	{'ibérica': 1}
-ibérica:	{'existen': 1}
-varias;:	{'un': 1}
-tesoro:	{'para': 1}
-muchos,:	{'una': 1}
-amenaza:	{'según': 1}
-parece:	{'a': 1, 'la': 1}
-vosotros?:	{'#ilustración': 1}
-¿Cómo:	{'celebran': 1}
-celebran:	{'los': 1}
-gatos:	{'el': 1, 'ese': 1, '☺': 1, 'deberán': 1, 'pueden': 1, 'podrían': 1}
-#DiaInternacionalDelGato?:	{'¡Responded': 1}
-¡Responded:	{'en': 1}
-hilo:	{'con': 1}
-foto:	{'de': 1}
-mascota:	{'celebrando': 1}
-celebrando:	{'su': 1}
-Los:	{'tres': 1, 'genios': 1, 'dos': 1, 'hombres': 1, 'caracoles': 1}
-gato:	{'son': 1, 'de': 1}
-8:	{'de': 2, 'años': 1}
-agosto,:	{'el': 1}
-20:	{'de': 2, 'años,': 1, 'años': 1, 'al': 1}
-febrero:	{'y': 1, 'de': 6, 'se': 2}
-octubre.:	{'Este': 1}
-último:	{'fue': 1, 'emperador': 1, 'país': 1}
-impulsado:	{'por': 1}
-experta:	{'en': 1}
-mascotas:	{'Colleen': 1, 'a': 1, 'Marvin': 1}
-Colleen:	{'Paige,': 1}
-Paige,:	{'cuyo': 1}
-lograr:	{'10.000': 1}
-10.000:	{'adopciones': 1}
-adopciones:	{'de': 1}
-2009:	{'le': 1}
-practicaron:	{'la': 2}
-eutanasia:	{'para': 1, 'tal': 1}
-evitarle:	{'mayor': 1}
-mayor:	{'sufrimiento': 1, 'parte': 1}
-sufrimiento:	{'ya': 1}
-que,:	{'a': 1}
-años,:	{'sufría': 1}
-sufría:	{'cáncer': 1}
-cáncer:	{'de': 1}
-tiroides:	{'y': 1}
-riñón.:	{'Han': 1}
-Han:	{'sido': 1}
-sido:	{'las': 1, 'capaz': 1}
-redes:	{'sociales': 1}
-sociales:	{'las': 1}
-han:	{'conformado': 1}
-conformado:	{'esta': 1}
-fecha:	{'como': 1, 'de': 1, 'es': 1, 'por': 1}
-#DiaInternacionalDelGato:	{'en': 1}
-#Socks:	{'acompañó': 1}
-acompañó:	{'a': 1}
-Clinton:	{'durante': 1, 'al': 1}
-estrella:	{'en': 1}
-#EstadosUnidos;:	{'se': 1}
-hizo:	{'dueño': 1}
-dueño:	{'de': 1}
-Casa:	{'Blanca,': 1}
-Blanca,:	{'participaba': 1}
-participaba:	{'en': 1}
-eventos:	{'clave': 1}
-clave:	{'del': 1, 'en': 1}
-calendario:	{'presidencial': 1}
-presidencial:	{'y': 1}
-acompañaba:	{'a': 1}
-dueños:	{'a': 1, 'llevan': 1}
-escuelas:	{'y': 2}
-hospitales.:	{'https://t.co/MCFOr5z7X4': 1}
-#DiaInternacionalDelGato,:	{'el': 1}
-popular,:	{'ya': 1}
-único:	{'animal': 1, 'presidente': 1, 'de': 1, 'país': 1, 'ejemplar': 1}
-animal:	{'con': 1, 'asociado': 1}
-internacionales.:	{'Esta': 1}
-Socks,:	{'el': 1}
-2009.:	{'#ilustración': 1}
-pudieseis:	{'hacer': 1}
-histórico,:	{'¿a': 1}
-suprimiríais?:	{'Inauguramos': 1}
-Inauguramos:	{'esta': 1}
-#DonaldTrump,:	{'nominado': 1}
-nominado:	{'ayer': 1}
-ayer:	{'al': 1}
-Nobel:	{'de': 1}
-Paz:	{'2019,': 1}
-2019,:	{'por': 1, 'comienza': 1}
-cierto.:	{'#controlzeta': 1}
-#nobel:	{'#politica': 1}
-#DiaInternacionalAsperger,:	{'un': 1}
-desarrollo:	{'que': 1}
-incluye:	{'dentro': 1}
-dentro:	{'del': 1}
-espectro:	{'autista': 1}
-autista:	{'(TEA).': 1}
-(TEA).:	{'Esta': 1}
-Hans:	{'Asperger,': 1}
-Asperger,:	{'psiquiatra': 1}
-psiquiatra:	{'austriaco': 1}
-austriaco:	{'que': 1}
-describió:	{'por': 1}
-síndrome:	{'en': 1, 'psicológico': 1, 'del': 1}
-década:	{'de': 1}
-40.:	{'#ilustración': 1}
-#18Feb:	{'https://t.co/ZgbwEStV8V': 1}
-volcán:	{'#Etna,': 1}
-#Etna,:	{'en': 1}
-#Sicilia,:	{'entró': 1}
-entró:	{'de': 1}
-nuevo:	{'en': 1, 'año': 1}
-erupción:	{'esta': 1}
-#Navidad:	{'emitiendo': 1}
-emitiendo:	{'gases': 1}
-gases:	{'y': 1, 'contaminantes': 1}
-lava,:	{'además': 1}
-provocar:	{'temblores': 1}
-temblores:	{'y': 1}
-terremotos:	{'que': 1}
-obligaron:	{'a': 1}
-limitar:	{'la': 1}
-actividad:	{'del': 1, 'ha': 1}
-aeropuerto:	{'de': 1}
-Catania.:	{'¿Cuánto': 1}
-sabes:	{'sobre': 1}
-#geografía:	{'#ciencia': 1}
-#sismología:	{'https://t.co/FB9f1dwP7O': 1}
-tarde:	{'tendrá': 1}
-España,:	{'aprovechamos': 1}
-algunas:	{'#curiosidades': 1, 'mujeres': 1, 'fuentes,': 1}
-Valle:	{'de': 1}
-Caídos,:	{'extraídas': 1}
-extraídas:	{'del': 1}
-podcast:	{'de': 1}
-@SERhistoria.:	{'¿Qué': 1}
-#exhumación?:	{'#ilustración': 1}
-Galileo:	{'cometió': 1, 'desarrolló': 1, 'Galilei,': 2}
-cometió:	{'varios': 1}
-varios:	{'errores,': 1}
-errores,:	{'como': 1}
-discrepar:	{'con': 1}
-astrónomo:	{'alemán': 1}
-alemán:	{'Kepler': 1, 'Ernst': 1}
-Kepler:	{'en': 1}
-afirmación:	{'de': 1}
-mareas:	{'eran': 1}
-eran:	{'causadas': 2, 'impuestas': 1}
-causadas:	{'por': 2}
-luna.:	{'Galileo': 1}
-desarrolló:	{'su': 1}
-propia:	{'teoría': 1}
-teoría:	{'defendiendo': 1, 'diferente,': 1}
-defendiendo:	{'que': 1}
-rotación:	{'de': 1}
-Tierra.:	{'Los': 1}
-15:	{'de': 2}
-1564,:	{'nacía': 1}
-Pisa:	{'Galileo': 1}
-Galilei,:	{'figura': 1, 'padre': 1}
-revolución:	{'científica': 1, 'en': 1, 'norteamericana': 1}
-científica:	{'durante': 1}
-¿Sois:	{'de': 1}
-celebráis:	{'#SanValentín?': 1}
-#SanValentín?:	{'¿Conocéis': 1}
-práctica?:	{'Comentadnos': 1}
-Comentadnos:	{'si': 1}
-otra:	{'teoría': 1, 'de': 1}
-diferente,:	{'¡y': 1}
-feliz:	{'día': 1}
-#amor!:	{'#ilustración': 1}
-#14deFebrero:	{'#sociedad': 1}
-#sociedad:	{'https://t.co/LJa872PRmw': 1}
-13:	{'de': 2}
-#DiaMundialDeLaRadio,:	{'aprobado': 1}
-aprobado:	{'por': 1}
-UNESCO:	{'en': 1}
-2013.:	{'Se': 1}
-elige:	{'esta': 1}
-1946,:	{'día': 1}
-creación:	{'de': 1}
-radio:	{'de': 1}
-mago:	{'del': 1}
-suspense:	{'había': 1}
-llegado:	{'a': 1}
-mano:	{'de': 1, 'y': 1}
-Selznick,:	{'productor': 1}
-productor:	{'de': 1}
-"Lo:	{'que': 1}
-viento:	{'se': 1}
-llevó".:	{'Lo': 1}
-Lo:	{'contrató': 1, 'más': 1}
-contrató:	{'para': 1}
-realizar:	{'una': 1}
-Titanic:	{'y': 1}
-10:	{'películas,': 1}
-películas,:	{'pero': 1}
-realizando:	{'4': 1}
-debido:	{'a': 1}
-constantes:	{'enfrentamientos': 1}
-enfrentamientos:	{'en': 1}
-Alfred:	{'#Hitchcock': 1}
-#Hitchcock:	{'iniciaba': 1}
-iniciaba:	{'su': 1}
-quince:	{'años': 1}
-rodando:	{'en': 1}
-Inglaterra.:	{'Dos': 1}
-Dos:	{'Óscar': 1}
-Óscar:	{'(Mejor': 1}
-(Mejor:	{'Película': 1}
-Película:	{'y': 1}
-Fotografía):	{'y': 1}
-once:	{'nominaciones': 1}
-nominaciones:	{'lo': 1}
-consagraron:	{'como': 1}
-filme:	{'destacado.': 1}
-destacado.:	{'Estaba': 1}
-Estaba:	{'creando': 1, 'convencido': 1}
-creando:	{'un': 1}
-único.:	{'#Curiosidades': 1}
-#Curiosidades:	{'#cine': 1}
-@sapiensaurus:	{'@LaLiga': 1}
-@LaLiga:	{'¡Hola': 1}
-¡Hola:	{'@sapiensaurus!': 1}
-@sapiensaurus!:	{'El': 1}
-VAR:	{'interviene': 1, 'se': 1}
-interviene:	{'en': 1}
-supuestos::	{'-': 1}
--:	{'Revisión': 1, 'Gol': 1, 'Roja': 1, 'Confusión': 1}
-Revisión:	{'de': 1}
-penaltis:	{'dudosos': 1}
-dudosos:	{'-': 1}
-Gol:	{'válido/no': 1}
-válido/no:	{'válido': 1}
-válido:	{'-': 1}
-Roja:	{'directa': 1}
-directa:	{'-': 1}
-Confusión:	{'de': 1}
-identidad:	{'Los': 1}
-últimos:	{'supuestos': 1, '14': 1}
-supuestos:	{'están': 1}
-están:	{'diseñados': 1}
-diseñados:	{'en': 1}
-reconocido:	{'de': 1, 'como': 1}
-Darwin,:	{'“El': 1, 'naturalista': 1}
-“El:	{'origen': 1}
-especies",:	{'atribuía': 1}
-atribuía:	{'a': 1}
-naturaleza:	{'facultades': 1}
-facultades:	{'hasta': 1}
-entonces:	{'reservadas': 1}
-divinidad.:	{'Por': 1}
-Por:	{'esa': 1}
-razón:	{'creó': 1}
-creó:	{'gran': 1}
-controversia:	{'en': 1}
-religión:	{'y': 1}
-sinónimo:	{'de': 1}
-campo:	{'de': 1}
-1809,:	{'nacía': 1}
-Inglaterra:	{'Charles': 1}
-naturalista:	{'ingles': 1}
-ingles:	{'reconocido': 1}
-estrena:	{'en': 1}
-justo:	{'al': 1}
-finalizar:	{'una': 1}
-jornadas:	{'más': 1}
-polémicas:	{'en': 1}
-@LaLiga.:	{'Aficionados': 1}
-Aficionados:	{'lo': 1}
-reclaman:	{'en': 1}
-cualquier:	{'momento': 1}
-recibirán:	{'tarjeta': 1}
-tarjeta:	{'amarilla': 1}
-amarilla:	{'si': 1}
-hacen.:	{'¿Sabemos': 1}
-¿Sabemos:	{'realmente': 1}
-realmente:	{'cuándo': 1}
-cuándo:	{'puede': 1}
-puede:	{'intervenir?': 1, 'liberar': 1, 'causar': 1, 'que': 1, 'disparar': 1, 'dormir': 1}
-intervenir?:	{'#ilustración': 1}
-#fútbol:	{'https://t.co/RNMoDkw1bQ': 1}
+#LesLuthiers:	{'http://t.co/lDw4Pt5pZZ': 1, 'falleció': 1, 'https://t.co/IgH9kXWbVz': 1, 'RT': 1}
+Lo:	{'que': 3, 'cierto': 1}
+que:	{'siento': 2, 'nos': 2, 'amamos': 1, 'la': 1, 'sería': 1, 'regresáramos': 1, 'el': 8, 'estamos': 1, 'me': 4, 'nace': 1, 'al': 1, 'antes': 1, 'después': 2, 'amanece...': 1, 'no,': 1, 'a': 1, 'se': 7, 'temer,': 3, 'no': 2, 'espere': 2, 'eres?': 2, 'un': 2, 'toca': 1, 'usas': 1, 'mata': 1, 'veía': 2, 'sólo': 1, 'he': 2, 'les': 1, 'ademas': 1, 'sea': 1, 'haya': 1, 'tenemos': 1, 'todo': 1, 'roban,': 1, 'comercia': 1, 'en': 2, 'ven': 1}
+siento:	{'se': 2, 'mejor,': 5, 'mejor...': 1, 'a': 3}
+se:	{'resume': 2, 'callaron!': 1, 'preocupe,': 1, 'ha': 3, 'resfrió...': 3, 'acuestan': 1, 'le': 1, 'han': 2, 'rían': 2, 'conocen.': 3, 'pudran': 3, 'encuentran': 3, 'piense': 6, 'levanta': 1, 'sentía': 1, 'quita': 1, 'lo': 2, 'puede': 1, 'aman': 1, 'muere': 2, 'salva,': 2, 'olvide': 1, 'calienta': 1, 'nos': 1, 'presentó': 1}
+resume:	{'en': 2}
+en:	{'una': 2, 'Buenos': 1, 'un': 1, 'cambio,': 1, 'este': 1, 'la': 6, 'Banania': 9, 'estos': 1, 'el': 7, 'los': 1, 'airear': 2, 'Roma,': 1, 'París,': 1, 'cuando': 2, 'un...': 1, 'inglés...': 1, 'casa,': 1, 'busca': 1, 'Kioto.': 1, 'Kuwen.': 1, 'Bolivia': 1}
+una:	{'sola': 5, 'gran': 1, 'hermosa': 1, 'palabra...': 1, 'mujer...': 1, 'orden!.': 3, 'hora': 1, 'infamia': 1, 'mujer': 1, 'caridad': 1, 'muchacha...': 1, 'personalidad': 1, 'filosofía.': 1}
+sola:	{'palabra:': 1, 'opinión.': 4}
+palabra::	{'mil': 1}
+mil:	{'gracias…': 1, 'gracias”': 1, 'gracias.': 1, 'gracias!': 1}
+gracias…:	{'dos': 1}
+dos:	{'mil': 2, 'grandes': 1, 'muchachas.': 1}
+gracias”:	{'#DanielRabinovich': 1}
+#DanielRabinovich:	{'http://t.co/8K1rBCAvaO': 1, 'http://t.co/h540HqOfyA': 1}
+http://t.co/8K1rBCAvaO:	{'lesluthiersq': 1}
+lesluthiersq:	{'Vuelvo': 1}
+Vuelvo:	{'a': 1}
+a:	{'ti': 2, 'mi,': 1, 'trabajar': 4, 'mi': 5, 'Éster': 1, 'la': 4, 'esperar': 3, 'los': 7, 'una': 2, 'las': 2, '@sumitoestevez': 1, 'cuestas,': 1, '#Venezuela': 1, 'nuestros': 1, 'su': 1, 'cuesta,': 1, 'un': 1, '"sui"': 1, 'cambiar': 1, 'estudiar...': 1, 'cada': 1, 'ver': 1, 'Les': 1, 'Ortega': 1, 'tontas': 1, 'locas': 1, 'una?-Bueno': 1, 'ser': 1, 'usted': 1, 'tener': 1}
+ti:	{'tras': 1, 'desde': 1}
+tras:	{'larga': 1}
+larga:	{'espera...': 1}
+espera...:	{'PEEERAS,': 1}
+PEEERAS,:	{'JUGOSA': 1}
+JUGOSA:	{'LA': 1}
+LA:	{'PEEERA...': 1}
+PEEERA...:	{'Ven': 1}
+Ven:	{'a': 1}
+mi,:	{'de': 1}
+de:	{'mi': 1, '#LesLuthiers': 1, 'acuerdo': 4, 'Atención': 1, 'los': 8, 'mal': 2, 'entre': 1, 'gobierno': 1, 'otras': 1, 'Asistencia': 1, 'lado...': 1, 'que': 1, 'energía...': 2, 'energía!': 2, 'derecha!': 3, 'ella...': 3, 'protegerla': 3, 'Les': 2, 'ser?': 2, 'estar?': 2, 'Esther?': 2, 'Asturias': 1, 'algunos': 1, 'ciertos': 1, 'la': 10, 'vez': 2, 'las': 3, 'Warren': 2, 'verdad!': 1, 'Esther': 1, 'ser': 1, 'qué': 2, 'Daniel': 2, 'reposo...': 1, 'Amor': 1, 'alegría': 1, 'gozo:': 1, 'Corazón)': 1, 'mujer': 1, 'cultura,': 1, 'cultura': 1, 'gente.': 2, 'Becket”': 1, 'menos;': 1, 'menos,': 1, 'inspiración,': 1, 'Uf-Al-Sudar.': 1, 'una': 1}
+mi:	{'mano': 1, 'capacidad.': 4, 'paciencia,': 1, 'mujer,': 1, 'seudónimo.': 1, 'jefe': 1}
+mano:	{'tómate...': 1}
+tómate...:	{'TOMAAATE,': 1}
+TOMAAATE,:	{'TOMAAATE..."': 1}
+TOMAAATE...":	{'#DanielRabinovich': 1}
+Perdónala:	{'@LesLuthiersQ': 1}
+@LesLuthiersQ:	{'http://t.co/cG0NFcJsFt': 1, 'https://t.co/m4fO7NOLqE': 1, '#LesLuthiersQ': 1}
+¡Las:	{'risas': 1}
+risas:	{'se': 1}
+callaron!:	{'Daniel': 1}
+Daniel:	{'Abraham': 1, 'Rabinovich,': 1, 'Rabinovic,': 1, 'Rabinovich': 2}
+Abraham:	{'Rabinovich': 1}
+Rabinovich:	{'Aratuz,': 1, 'http://t.co/oBWP72oR31': 1, 'sobre': 1, '-': 1}
+Aratuz,:	{'integrante': 1}
+integrante:	{'de': 1, 'del': 1}
+falleció:	{'en': 1}
+Buenos:	{'Aires.': 1, 'Aires...': 1, 'días,': 1}
+Aires.:	{'http://t.co/AT0bdu3aCX': 1}
+Estoestodotodoestoesestoquéesestoestoestosoesesotoesesoesesesoessotototodososoesteeseteesdestotoosedestetótodotetétotototo:	{'AH!': 1}
+AH!:	{'Esto': 1}
+Esto:	{'es': 1}
+es:	{'todo': 3, 'hermosa!': 1, 'hermosa,': 1, 'tristemente': 1, 'un': 7, 'alcohol.': 1, 'canto': 3, 'ser': 1, 'nada': 2, 'el': 3, 'que': 1, 'alguien': 1, 'la': 2, 'hermosa': 2, 'muy': 2, 'arrepentirse': 2, 'verídico,': 1, 'pasar': 1, 'toda': 1, '"etéreo"': 1, 'mi': 1, 'una¿O': 1, 'largo:': 1}
+Nada:	{'como': 1}
+como:	{'almorzar': 1, 'la': 1, 'imanes': 1, 'pocas,': 1, 'muchos': 1, 'todos:': 1, 'el': 1, 'hacer': 1, 'todos': 1, 'un': 1}
+almorzar:	{'en': 1}
+un:	{'prestigirioso': 1, 'completo': 2, 'conocido': 3, 'problema': 1, 'brote': 2, 'corte': 2, 'gobierno': 3, 'desgraciado...': 2, 'día': 2, 'amigo': 2, 'cassette': 2, 'tango': 1, 'murmullo:': 1, 'Suizo...': 1, 'suicida': 1, 'hombre': 1, 'monólogo': 1, 'whyskey': 3, 'pueblo': 1, 'sí': 1, 'no;': 1, 'hijo': 1, 'sueño': 1, 'viaje': 1, 'arma.': 1, 'buen': 1, 'amante.': 1}
+prestigirioso:	{'restorán...': 1}
+THIS:	{'IS': 1, 'is': 1}
+IS:	{'THE': 1}
+THE:	{'PENCIL!': 1}
+PENCIL!:	{'This': 1}
+This:	{'is': 1}
+is:	{'the': 2}
+the:	{'pencil': 2}
+pencil:	{'of': 2}
+of:	{'Esther': 2}
+Esther:	{'Píscore!...': 1, 'Píscore...': 1, 'Píscore!': 1}
+Píscore!...:	{'#DanielRabinovich': 1}
+-:	{'La': 4, 'El': 9, 'y': 3, '¡qué': 1, 'Canción': 1, '#LesLuthiersQ': 4, 'Radio': 4, 'http://t.co/TBk1Qlc7st': 1, 'http://t.co/nojIThiUH7': 1, 'Cumbia': 2, 'Bossa': 1, 'Serenata': 2, 'http://t.co/n0Gopnw1W5': 1, 'http://t.co/qf06B38leB': 1, 'Lutherapia': 5, 'Dilema': 1, 'Adelaida': 1, 'http://t.co/hbXE3tmtE1': 1, 'http://t.co/ssRx3uIMpR': 1, 'Kahty,': 1, '...Fornicando': 1, '(...y': 1, 'ya': 1, 'Cantata': 2}
+La:	{'llama…': 2, 'gallina…': 2, 'oscuridad': 2, 'chusma': 3, 'palabra': 1, 'vida': 2, 'musa': 1, 'Tanda': 2, 'Paz...': 1, 'confianza': 1, 'balada': 1, 'hora': 1}
+llama…:	{'altiva.': 2}
+altiva.:	{'-': 2}
+El:	{'cóndor': 2, 'puma…': 2, 'amor': 2, 'alcohol': 2, 'que': 1, 'truco': 2, 'valor': 5, 'ave': 2, 'Sendero': 1, 'Merengue': 1, 'cruzado,': 1, 'de': 1, 'negro': 2, 'sendero': 1, 'imán': 2, 'camino': 1}
+cóndor:	{'…': 2}
+…:	{'“alelante”.': 2}
+“alelante”.:	{'-': 2}
+puma…:	{'altanero.': 2}
+altanero.:	{'-': 2, '-La': 1}
+gallina…:	{'¡al–horno!.': 2}
+¡al–horno!.:	{'#DanielRabinovich': 1, '¿Y': 1}
+Cuando:	{'empecé': 4, 'éramos': 1}
+empecé:	{'a': 4}
+trabajar:	{'aquí': 4}
+aquí:	{'me': 4}
+me:	{'dijeron': 4, 'pagarían': 4, 'alcanza': 4, 'siento': 9, 'ayudará': 3, 'importa!': 1, 'obedezca!': 1, 'quieres,': 2, 'pasó': 2, 'dicen': 1, 'dijo': 1}
+dijeron:	{'q': 1, 'que': 3}
+q:	{'me': 1, 'ser': 3, 'se': 3, 'tocan': 1}
+pagarían:	{'de': 4}
+acuerdo:	{'a': 4}
+capacidad.:	{'¡Con': 4}
+¡Con:	{'esa': 4}
+esa:	{'miseria': 4}
+miseria:	{'no': 4}
+no:	{'me': 6, 'se': 9, 'había': 1, 'ser': 1, 'saben': 2, 'tiene': 5, 'vale': 1, 'es': 3, 'pueden': 3, 'sé': 3, 'piensan': 1, 'sólo': 1, 'te': 2, 'lo': 1, 'corras!)': 1, 'ganamos': 1}
+alcanza:	{'para': 4}
+para:	{'nada!': 4, 'el': 4, 'la': 9, 'q': 3, 'sentarte': 1, '#Venezuela': 1, 'convertirse': 1, 'asistir': 1}
+nada!:	{'#LesLuthiers': 1, '#LesLuthiersQ': 3}
+Pero:	{'hombre': 1, 'La': 1}
+hombre:	{'no': 1, 'de': 1, 'y': 1}
+preocupe,:	{'¡la': 1}
+¡la:	{'vida': 1}
+vida:	{'es': 4, 'merece': 1, 'a': 1, 'junto': 1, 'por': 1, '#LesLuthiersQ': 1}
+hermosa!:	{'la': 1}
+la:	{'vida': 6, 'muerte,': 1, 'candonga': 1, 'que': 1, 'vanguardia,': 1, '#Patria': 1, 'muerte': 1, 'etapa': 1, 'maduril.': 1, 'mujer': 2, 'botella.': 1, 'masa': 2, 'gobierna': 1, 'paz,': 3, 'fraternidad,': 3, 'concordia': 3, 'unidad': 5, 'escala': 3, 'denuncia,': 3, 'carta.': 1, 'silla...': 1, 'melancolía,': 2, 'memoria': 4, 'yuxtaposición?': 1, 'musa': 2, 'limpieza,': 1, 'gamuza...': 1, 'escaramuza.': 1, '"musarela"': 1, 'bici...': 1, 'colonia!': 1, 'harpía': 1, 'ciudad': 2, 'mitad.': 1, 'reina': 1, 'fecundación': 1, 'jaqueca.': 1, 'sabiduría': 1, 'fuerza': 1, 'destreza': 1, 'planificación': 2, 'nostalgia': 1}
+merece:	{'ser': 2}
+ser:	{'vivida,': 1, 'morida?': 2, 'buenos...': 1, 'por': 1, 'vivida.': 1, 'perseguido?': 3, 'chistosos': 1, 'mejor': 2, 'ya': 2, 'en': 2, 'yacer': 2, 'un': 1, 'felices': 1, 'Terpsícores': 1, 'consideradas': 1}
+vivida,:	{'en': 1}
+cambio,:	{'la': 1}
+muerte,:	{'¿merece': 1}
+¿merece:	{'ser': 2}
+morida?:	{'#DanielRabinovich': 1}
+Ud.:	{'se': 1}
+ha:	{'comunicado': 1, 'momi...': 1, 'estado': 4, 'lienado': 2}
+comunicado:	{'con': 1}
+con:	{'el': 1, 'una': 1, 'su': 6, 'la': 3, 'mi': 2, 'tanta': 1, 'tanto': 1, 'hablar...': 1, 'Warren,': 2, 'las': 1, 'Q': 1}
+el:	{'Centro': 1, 'Estado.': 3, 'vino': 1, 'alcohol.': 2, 'amor.': 2, 'pecho,': 1, 'mismo': 1, 'que': 3, 'amor,': 3, 'nuestro': 3, 'mejor': 1, 'ser': 4, 'hecho': 4, 'lecho': 2, 'pez': 2, 'merengue?': 1, 'balde!...': 1, 'avión!': 1, 'esternocleidomastoideo!': 1, 'alma': 1, 'corazón': 1, 'paso': 1, 'cajón!.': 2, 'perfume!': 1, 'desodorante!': 1, 'champú!': 1, 'cambio': 1, 'calentamiento': 1, 'mundo': 1, 'arcángel': 1, 'poeta…': 1, 'tema': 1, 'jeque': 1, 'asiento.': 1}
+Centro:	{'Estatal': 2}
+Estatal:	{'de': 2}
+Atención:	{'al': 1}
+al:	{'Suicida...': 1, 'menos': 1, 'Suicida,': 1, 'hombre,': 1, 'crecer...': 1, 'premio': 1, 'Erasmo': 1, 'horno.El': 1, 'Oriente': 1, 'hombre': 1}
+Suicida...:	{'en': 1}
+este:	{'momento': 1, 'es': 1}
+momento:	{'todos': 1, 'del': 1}
+todos:	{'nuestros': 1, 'entiendan': 1, 'a': 1, 'muy': 1, 'los': 1}
+nuestros:	{'operadores': 1, 'seguidores...': 1}
+operadores:	{'están': 1}
+están:	{'ocupados': 1}
+ocupados:	{'#LesLuthiers': 1}
+¿Quién:	{'recuerda': 1, 'reparte?': 1, 'quiere': 1, 'más': 1}
+recuerda:	{'la': 1}
+candonga:	{'de': 1}
+los:	{'colectiveros?': 1, 'problemas': 1, 'labios': 1, 'baños,': 1, 'más': 3, 'cerdos': 3, 'explotados,': 3, 'oprimidos,': 3, 'marginados,': 3, 'que': 3, 'políticos!': 1, 'guantes,': 1, 'celos': 1, 'escarabajos,': 1, 'quesos...': 1, 'imanes': 1}
+colectiveros?:	{'#DanielRabinovich': 1}
+[AHORA]:	{'Murió': 1}
+Murió:	{'Daniel': 1}
+Rabinovich,:	{'actor': 1}
+actor:	{'y': 1}
+y:	{'humorista,': 1, 'tus': 1, 'yo': 1, 'gloriosa,': 1, 'una': 5, 'no': 5, 'diplomáticos': 1, 'dejáramos': 1, 'la': 2, 'se': 1, 'menos': 2, 'feo,': 1, 'tres': 2, 'para': 3, 'orden': 3, '¡pásenlo': 1, 'a': 2, 'él': 1, 'arrepentirse,': 1, 'luego': 3, 'si': 1, 'este': 1, 'ratas': 1, 'de': 1, 'techamos': 1, 'Rabinovich': 1, 'le': 1, 'embaraza': 1, 'por': 1}
+humorista,:	{'integrante': 1}
+del:	{'grupo': 1, 'día...': 1, '7mo': 1, 'mundo': 1, 'mundo;': 2, 'tiempo': 1, 'collar,': 1, 'recipiente.': 2, 'indio': 1, 'Saloon': 1, 'séptimo': 1}
+grupo:	{'humorístico': 1}
+humorístico:	{'Les': 1}
+Les:	{'Luthiers.': 1, 'Luthiers!': 3, 'Luthiers': 1}
+Luthiers.:	{'#HastaSiempre': 1}
+#HastaSiempre:	{'http://t.co/FKAwOQPnYK': 1}
+@cartasdepalas:	{'@MarceloFigueras': 1}
+@MarceloFigueras:	{'lo': 1}
+lo:	{'recordamos': 1, 'debilita,': 1, 'menos': 2, 'hicieron': 1, 'epistemologaba': 2, 'mismo': 1, 'asalta': 2, 'que': 3, 'he': 1, 'conozco': 1, 'visto': 1, 'aqueja': 1, 'difícil': 1}
+recordamos:	{'así,': 1}
+así,:	{'con': 1}
+gran:	{'sonrisa,': 1}
+sonrisa,:	{'como': 1}
+nos:	{'regalaba': 1, 'atraen': 1, 'parecía': 1, 'ocuparemos': 3, 'ha': 1, 'habíamos': 2, 'acabaron': 1, 'engañemos': 1, 'concedían': 1, 'ceden': 1}
+regalaba:	{'siempre.': 1}
+No:	{'soy': 2, 'juegues': 1, 'se': 2, 'nos': 2, 'señor!': 1, 'deben': 1}
+soy:	{'un': 2}
+completo:	{'inútil,': 1, 'inútil...': 1}
+inútil,:	{'al': 1}
+menos:	{'sirvo': 2, 'te': 2, 'una': 1}
+sirvo:	{'de': 2}
+mal:	{'ejemplo': 2, 'y': 4}
+ejemplo:	{'#DanielRabinovich': 1, '#LesLuthiersQ': 1}
+Feliz:	{'viaje': 1}
+viaje:	{'Daniel.': 1, 'al': 1}
+Daniel.:	{'Saludos': 1}
+Saludos:	{'a': 1}
+Éster:	{'Píscore...': 1}
+Píscore...:	{'¡Avant': 1, 'para': 1}
+¡Avant:	{'Garde!': 1}
+Garde!:	{'¡Qué': 1}
+¡Qué:	{'hembra!': 2, 'difícil': 1}
+RIP:	{'Daniel': 1}
+Rabinovic,:	{'recuerdo': 1}
+recuerdo:	{'su': 1}
+su:	{'monólogo': 1, 'opinión.': 4, 'amada': 1, 'alrededor': 1, 'estructuralismo': 1, 'antropología': 1, 'dinero!.': 2, 'cuerpo.': 1, 'anfitrión,': 1}
+monólogo:	{'#LesLuthiers': 1, 'para': 1}
+https://t.co/IgH9kXWbVz:	{'cc:': 1}
+cc::	{'@LesLuthiers_Arg': 1}
+@LesLuthiers_Arg:	{'@LesLuthiersQ': 1}
+Tus:	{'bellezas': 1}
+bellezas:	{'naturales': 1, 'famosas...': 1}
+naturales:	{'nos': 1}
+atraen:	{'como': 1}
+imanes:	{'tus': 1, '-': 1}
+tus:	{'praderas': 1, 'dos': 1, 'manos;': 1}
+praderas:	{'celestiales...': 1}
+celestiales...:	{'-': 1}
+grandes:	{'volcanes': 1, 'posibilidades': 1, 'problemas...': 1}
+Yo:	{'te': 1, 'era': 2, 'conozco': 1, 'por': 1}
+te:	{'quiero': 3, 'cuesta': 2, 'acuestas': 2, 'sigo': 2, 'crees': 2, 'amo': 2, 'extrañábamos...': 1, 'extraña?': 1, 'acusas?': 2, 'amo!': 1, 'violará': 1}
+quiero:	{'sin': 2, '¡sin': 1}
+sin:	{'cesar': 1, 'dudar...': 1, 'pensarlo?': 1, 'ton': 1}
+cesar:	{'#patria': 1}
+#patria:	{'noble': 1}
+noble:	{'como': 1}
+pocas,:	{'yo': 1}
+yo:	{'te': 2, 'cuando': 1}
+dudar...:	{'-': 1}
+¡sin:	{'las': 1}
+las:	{'ropas!': 1, 'heridas,': 1, 'cumplía!': 1, 'consecuencias.': 1, 'buenas': 1, 'cosas': 2, 'vicisitudes': 1, 'ratas': 1, '“Rimas': 1, 'tejas': 1, 'más': 1, 'calurosas': 1}
+#Patria:	{'que': 1, 'pujante': 1, 'https://t.co/hE8ujKzKGC': 1}
+amamos:	{'cual': 1}
+cual:	{'madre': 1, 'con': 4}
+madre:	{'de': 1, 'amada,': 1, 'buena...': 1}
+entre:	{'todas': 1, 'Mundstock': 1}
+todas:	{'favorita': 1}
+favorita:	{'madre': 1}
+amada,:	{'madre': 1}
+buena...:	{'-': 1}
+¡qué:	{'buena': 1}
+buena:	{'estás': 1, 'noticia:': 1}
+estás:	{'mamacita!': 1}
+Y:	{'estos': 1, 'aunque': 1, 'yo': 1, 'lo': 1}
+estos:	{'polvos': 1, 'últimos': 1}
+polvos:	{'parecen': 1}
+parecen:	{'ser': 1}
+buenos...:	{'"@libropresumido': 1}
+"@libropresumido:	{'Hola,': 1}
+Hola,:	{'@k_Johansen': 1}
+@k_Johansen:	{'http://t.co/ipYZxXrFAj"': 1}
+pujante:	{'y': 1}
+gloriosa,:	{'ubicada': 1}
+ubicada:	{'en': 1}
+vanguardia,:	{'tienes': 1}
+tienes:	{'bellezas': 1}
+famosas...:	{'-': 1}
+hermosa:	{'retaguardia.': 1, '#LesLuthiersQ': 2}
+Nuestro:	{'pueblo': 1, 'canto': 3}
+pueblo:	{'tenía': 1, 'como': 1}
+tenía:	{'hambre': 1}
+hambre:	{'y': 1}
+había:	{'libertad.': 1, 'desorden,': 2, 'vivido': 1, 'desorden': 2}
+libertad.:	{'Y': 1}
+aunque:	{'aún': 1}
+aún:	{'tengamos': 1}
+tengamos:	{'hambre,': 1}
+hambre,:	{'¡no': 1}
+¡no:	{'tenemos': 1}
+tenemos:	{'libertad!': 1, 'orden': 1, 'paz': 3, 'el': 1}
+Antes:	{'había': 4}
+desorden,:	{'cada': 2}
+cada:	{'cual': 4, 'rato...': 1, 'diez': 1}
+opinión.:	{'Ahora': 1, 'Hoy': 3, 'Acto': 3}
+Ahora:	{'tenemos': 1}
+orden:	{'y': 4}
+Acto:	{'en': 9}
+Banania:	{'(marchas': 1, '-': 2, '#LesLuthiersQ': 6}
+(marchas:	{'oficiales)': 1}
+oficiales):	{'-': 1}
+Canción:	{'a': 1}
+De:	{'no': 1, 'cada': 1}
+por:	{'nuestra': 1, 'tres': 3, 'diversos': 3, '8va': 1, 'Buenos': 1, 'lo': 1, 'caminos': 2, 'cualquier': 1, 'suerte': 1, 'dos.': 1, 'pasión,': 1, 'compasión': 1}
+nuestra:	{'acción': 1}
+acción:	{'de': 1}
+gobierno:	{'en': 1, 'autoritario.': 3}
+últimos:	{'49': 1}
+49:	{'años...': 1}
+años...:	{'nuestras': 1}
+nuestras:	{'calles': 1}
+calles:	{'estarían': 1}
+estarían:	{'llenas': 1}
+llenas:	{'de...': 1}
+de...:	{'¡gente!': 1, 'los': 1}
+Sres.:	{'ministros,': 1}
+ministros,:	{'sres.': 1}
+sres.:	{'corresponsales': 1}
+corresponsales:	{'extranjeros,': 1}
+extranjeros,:	{'Sr.': 1}
+Sr.:	{'Nuncio': 1}
+Nuncio:	{'Apostólico': 1}
+Apostólico:	{'y': 1}
+diplomáticos:	{'de': 1}
+otras:	{'naciones...': 1}
+naciones...:	{'¡Descanso!': 1}
+Todo:	{'comenzó': 3}
+comenzó:	{'cuando': 3}
+cuando:	{'un': 3, 'amo': 1, 'la': 2, 'hablo': 1}
+conocido:	{'crítico': 3}
+crítico:	{'se': 3}
+Ya:	{'me': 6, 'no': 1, 'vendrán': 1}
+mejor,:	{'porque': 3, '¡mejor': 2}
+porque:	{'me': 3, 'montamos': 1, 'no': 4, 'vuela...': 2, 'nada...': 2, 'se': 1, 'a': 1}
+ayudará:	{'el': 3}
+Estado.:	{'Ya': 3}
+mejor...:	{'¡mejor': 1}
+¡mejor:	{'me': 3, 'dos': 1}
+esperar:	{'sentado!': 1, 'sentado!.': 2}
+Siempre:	{'digo': 1}
+digo:	{'que': 1, 'no': 1}
+hermosa,:	{'merece': 1}
+vivida.:	{'En': 1}
+En:	{'cambio': 1, 'cualquier': 1, 'aquel': 1}
+cambio:	{'la': 1, 'climático,': 1}
+muerte:	{'¿merece': 1}
+Asistencia:	{'al': 1}
+Suicida,:	{'buenas': 1}
+buenas:	{'noches,': 1, 'noches?': 1}
+noches,:	{'¿por': 1}
+¿por:	{'qué': 1}
+qué:	{'asunto': 1, 'quería?': 2, 'pecados': 2, 'poencia': 1}
+asunto:	{'es?': 1}
+A:	{'los': 1}
+problemas:	{'dígale': 1, 'son': 2, 'con': 1}
+dígale:	{'¡No': 1}
+¡No:	{'me': 1, 'hay': 1}
+Creo:	{'que': 1}
+sería:	{'bueno': 1}
+bueno:	{'que': 1}
+regresáramos:	{'a': 1}
+etapa:	{'juvenil': 1}
+juvenil:	{'y': 1}
+dejáramos:	{'de': 1}
+lado...:	{'la': 1}
+palabra...:	{'mil': 1}
+Escuchemos:	{'algunas': 1}
+algunas:	{'canciones': 1}
+canciones:	{'descartables': 1}
+descartables:	{'https://t.co/gTXi0HAesH': 1}
+Algunos:	{'hasta': 1}
+hasta:	{'confunden': 1, 'las': 1, 'cuando,': 2}
+confunden:	{'el': 1}
+vino:	{'y': 1}
+mujer:	{'bella,': 1, '¡Salvo': 1, 'que': 1, '-': 1}
+bella,:	{'llevan': 1}
+llevan:	{'su': 1}
+amada:	{'a': 1}
+labios:	{'y': 1}
+acuestan:	{'con': 1}
+amor:	{'embriaga': 1, 'arde': 1}
+embriaga:	{'al': 1}
+hombre,:	{'igualito': 1}
+igualito:	{'que': 4}
+alcohol.:	{'El': 2}
+alcohol:	{'lo': 1, 'cura': 1}
+debilita,:	{'igualito': 1}
+arde:	{'en': 1}
+pecho,:	{'igualito': 1}
+cura:	{'las': 1}
+heridas,:	{'igualito': 1}
+Ojalá:	{'todos': 1}
+entiendan:	{'que': 1}
+estamos:	{'unidos...': 1, 'todos': 1, 'perdidos.': 1}
+unidos...:	{'porque': 1}
+montamos:	{'el': 1}
+mismo:	{'caballo.': 1, 'con': 1}
+Eleuterio:	{'Manzano': 1}
+Manzano:	{'nunca': 1}
+nunca:	{'olvidaba': 1}
+olvidaba:	{'sus': 1}
+sus:	{'promesas...': 1, 'amigos': 1, 'gracias': 1}
+promesas...:	{'¡y': 1}
+¡y:	{'hasta': 1}
+amo:	{'a': 1, 'Raúl...a': 1, 'raul:': 1}
+mujer...:	{'¡me': 1}
+¡me:	{'gusta': 1}
+gusta:	{'que': 1}
+juegues:	{'con': 1}
+paciencia,:	{'detén': 1}
+detén:	{'tanto': 1}
+tanto:	{'tonto': 2, 'entusiasmo': 1}
+tonto:	{'intento,': 1, 'intento!': 1}
+intento,:	{'detente,': 1}
+detente,:	{'tenme': 1}
+tenme:	{'contento': 1}
+contento:	{'o': 1}
+o:	{'atente': 1}
+atente:	{'a': 1}
+¿Y:	{'si': 1, 'no': 1}
+si:	{'le': 1, 'no': 2, 'se': 2, 'es': 1}
+le:	{'pedimos': 1, 'desarrollen': 1, 'dicen': 1, 'dijo:': 1}
+pedimos:	{'receta': 1}
+receta:	{'a': 1}
+@sumitoestevez:	{'?': 1}
+Cuantos:	{'más': 2}
+más:	{'años': 2, 'te': 2, 'triste,': 3, 'desdichado,': 3, 'frecuentes': 3, 'bajo': 3, 'desgraciadas': 2, 'viene?': 1, 'fáciles!)': 1}
+años:	{'a': 2}
+cuestas,:	{'más': 1}
+cuesta:	{'y': 2}
+acuestas:	{'#LesLuthiersQ': 2}
+inútil...:	{'Por': 1}
+Por:	{'lo': 2, '12': 2, 'esos': 1, 'eso,': 1}
+nace:	{'pobre': 1}
+pobre:	{'y': 1}
+feo,:	{'tiene': 1}
+tiene:	{'grandes': 1, 'solución,': 1, 'nada': 3, 'problemas': 1, 'mala': 1}
+posibilidades:	{'de': 1}
+crecer...:	{'se': 1}
+desarrollen:	{'ambas': 1}
+ambas:	{'condiciones': 1}
+condiciones:	{'#LesLuthiersQuotes': 1}
+Cosas:	{'muy': 1}
+muy:	{'importantes': 1, 'fácil': 2, 'bien': 1}
+importantes:	{'han': 1}
+han:	{'sucedido': 1, 'tomado!': 1, 'leído!': 1, 'hecho': 1}
+sucedido:	{'en': 1}
+baños,:	{'cuántas': 1}
+cuántas:	{'decisiones': 1}
+decisiones:	{'se': 1}
+tomado!:	{'Cuántos': 1}
+Cuántos:	{'libros': 1}
+libros:	{'se': 1}
+leído!:	{'#LesLuthiersQ': 1}
+antes:	{'nos': 1}
+parecía:	{'moralmente': 1}
+moralmente:	{'inaceptable...': 1}
+inaceptable...:	{'hoy': 1}
+hoy:	{'es': 1, 'seré': 1}
+tristemente:	{'inalcanzable': 1}
+inalcanzable:	{'#LesLuthiersQ': 1}
+truco:	{'consiste': 2}
+consiste:	{'en': 2}
+airear:	{'la': 2}
+masa:	{'por': 2}
+tres:	{'días': 2, 'noches,(risas),no,no,no': 2, '-': 1}
+días:	{'y': 2, 'Mastropiero': 1}
+noches,(risas),no,no,no:	{'se': 2}
+rían:	{'que': 2}
+después:	{'les': 2}
+les:	{'sale': 2, 'digo': 1}
+sale:	{'mal': 2}
+saben:	{'porque': 2}
+Hay:	{'algo': 3, 'fantasmas': 1}
+algo:	{'más': 3, 'jamás': 1}
+triste,:	{'más': 3}
+desdichado,:	{'q': 3}
+perseguido?:	{'Sí!': 3}
+Sí!:	{'Ser': 3}
+Ser:	{'alcanzado!': 3}
+alcanzado!:	{'#LesLuthiersQ': 3}
+resfrió...:	{'#LesLuthiersQ': 2}
+@saracuba:	{'señorita': 1}
+señorita:	{'cómo': 1}
+cómo:	{'está?': 1}
+está?:	{'Un': 1}
+Un:	{'saludo': 1}
+Este:	{'viernes': 1}
+viernes:	{'pensá:': 1}
+pensá::	{'si': 1}
+solución,:	{'entonces': 1}
+entonces:	{'no': 1, 'era': 1}
+vale:	{'pena,': 1, 'por': 2}
+pena,:	{'seguro': 1}
+seguro:	{'no': 1}
+problema:	{'ni': 1}
+ni:	{'tampoco': 1, 'estar': 1, 'un': 2, 'son,': 1}
+tampoco:	{'es': 1}
+Buen:	{'día': 1}
+día:	{'para': 1, 'un': 2}
+amanece...:	{'Para': 1}
+Para:	{'el': 1, 'ser': 1}
+no,:	{'ya': 1}
+ya:	{'comenzamos': 1, 'nos': 3, 'ser': 2, 'había': 1, 'llegan': 1, 'son': 1, 'te': 1, 'no': 1}
+comenzamos:	{'mal.': 1}
+Parece:	{'que': 1}
+#Venezuela:	{'la': 1, 'http://t.co/GzbjZxR7Uh': 1}
+gobierna:	{'Mastropiero': 1}
+Mastropiero:	{'@LesLuthiersQ': 1, 'ya': 1, 'enfrentó': 1, 'y': 1}
+Muchas:	{'parejas': 3}
+parejas:	{'no': 3}
+pueden:	{'tener': 3}
+tener:	{'hijos': 3, 'un': 1}
+hijos:	{'por': 3}
+diversos:	{'motivos,': 3}
+motivos,:	{'uno': 3}
+uno:	{'de': 3}
+frecuentes:	{'es:': 3}
+es::	{'porque': 3}
+conocen.:	{'#LesLuthiersQ': 3}
+#LesLuthiersQ:	{'http://t.co/rfq0hU3wuJ': 2, ':': 1}
+oscuridad:	{'es': 2}
+brote:	{'de': 2}
+energía...:	{'-Maestro,': 2}
+-Maestro,:	{'¡es': 2}
+¡es:	{'un': 2, 'una': 3, 'cierto!': 1}
+corte:	{'de': 2}
+energía!:	{'#LesLuthiersQ': 2}
+...:	{'es': 3}
+canto:	{'para': 3, 'está': 3}
+paz,:	{'para': 3}
+amor,:	{'para': 3}
+fraternidad,:	{'para': 3}
+concordia:	{'y': 3}
+pudran:	{'los': 3}
+cerdos:	{'burgueses.': 3}
+burgueses.:	{'El': 3}
+valor:	{'d': 3, 'de': 2}
+d:	{'la': 3}
+está:	{'dirigido': 3}
+dirigido:	{'a': 3}
+explotados,:	{'los': 3}
+oprimidos,:	{'a': 3}
+marginados,:	{'los': 3}
+encuentran:	{'más': 3}
+bajo:	{'en': 3}
+escala:	{'social.': 3}
+social.:	{'La': 3}
+Seremos:	{'comunistas': 3, 'izquierdistas': 3}
+comunistas:	{'desde': 3}
+desde:	{'esta': 3, 'ahora,': 1}
+esta:	{'fecha.': 3, 'vacía,': 1}
+fecha.:	{'Seremos': 3}
+izquierdistas:	{'de': 3}
+derecha!:	{'#LesLuthiersQ': 3}
+Haga:	{'la': 3}
+denuncia,:	{'no': 3}
+nada:	{'que': 3, 'porque': 2, 'como': 1}
+temer,:	{'nosotros': 3}
+nosotros:	{'ya': 3}
+ocuparemos:	{'de': 3}
+ella...:	{'de': 3}
+protegerla:	{'-': 3}
+Radio:	{'Tertulia': 4}
+Tertulia:	{'#LesLuthiersQ': 4}
+Me:	{'duele': 3, 'dices': 2, 'alegra': 1}
+duele:	{'que': 3}
+piense:	{'que': 3, 'eso...': 3}
+nuestro:	{'es': 3}
+autoritario.:	{'Que': 3}
+Que:	{'no': 3}
+eso...:	{'¡es': 3}
+orden!.:	{'Acto': 3}
+Hoy:	{'tenemos': 3, 'las': 1}
+paz:	{'y': 3}
+dices:	{'que': 2}
+quieres,:	{'que': 2}
+espere:	{'no': 2}
+sé:	{'hasta': 2, 'inglés': 1}
+cuando,:	{'¡yo': 2}
+¡yo:	{'te': 2}
+sigo:	{'implorando!,': 2}
+implorando!,:	{'¿pero': 2}
+¿pero:	{'quién': 2}
+quién:	{'te': 2, 'es': 1}
+crees:	{'que': 2}
+eres?:	{'-': 2}
+era:	{'un': 3}
+desgraciado...:	{'¡Hasta': 2}
+¡Hasta:	{'que': 2}
+amigo:	{'me': 2}
+pasó:	{'un': 2}
+cassette:	{'de': 2}
 ¿Alguna:	{'vez': 1}
-te:	{'has': 1, 'pinchó.': 1, 'ayudará': 1}
-has:	{'hecho': 1}
-sector:	{'todavía': 1}
-tabú:	{'como': 1}
-#diversidadfuncional?:	{'Empezamos': 1}
-Empezamos:	{'la': 1}
-estrenando:	{'colaboración': 1}
-colaboración:	{'con': 1}
-Asociación:	{'ÍNTEGRO,': 1}
-ÍNTEGRO,:	{'respondiéndonos': 1}
-respondiéndonos:	{'alguna': 1}
-ellas.:	{'¿Qué': 1}
-gustaría:	{'preguntarles?': 1, 'reivindicar': 1}
-preguntarles?:	{'#felizlunes': 1}
-#Goyas2019:	{'https://t.co/DWYxWkpeHu': 1}
-"uncanny:	{'valley"': 1}
-valley":	{'o': 1}
-"valle:	{'inquietante"': 1}
-inquietante":	{'es': 1}
-robots:	{'que': 1}
-simulan:	{'demasiado': 1}
-demasiado:	{'el': 1}
-comportamiento:	{'humano.': 1}
-humano.:	{'¿Qué': 1}
-solución:	{'propondríais': 1, 'para': 1}
-propondríais:	{'para': 1}
-controlar:	{'la': 1}
-#InteligenciaArtificial?:	{'Vídeo': 1, 'En': 1}
-Vídeo:	{'completo:': 2}
-completo::	{'https://t.co/Jf2Ds1ekP2': 2}
-https://t.co/Jf2Ds1ekP2:	{'#ciencia': 2, 'Facebook:': 1}
-#erescurioso7:	{'https://t.co/NjSwk8bQcA': 1, 'https://t.co/U852aym45p': 1, 'https://t.co/aTAloX9k3k': 1}
-animación:	{'mencionamos': 1, 'completa!': 1}
-mencionamos:	{'las': 1}
-leyes:	{'de': 1}
-robótica:	{'de': 1}
-#IsaacAsimov:	{'pero,': 1}
-¿se:	{'os': 1}
-situación:	{'en': 1}
-cumplirlas:	{'genere': 1}
-genere:	{'un': 1}
-dilema:	{'al': 1}
-robot?:	{'Vídeo': 1}
-#JulioVerne,:	{'célebre': 1}
-célebre:	{'por': 1}
-novelas:	{'de': 1}
-aventuras:	{'y': 1}
-considerado:	{'uno': 3, 'un': 1}
-pioneros:	{'de': 1}
-ciencia:	{'ficción.': 1}
-ficción.:	{'¿Cuántos': 1}
-¿Cuántos:	{'elementos': 1}
-identificativos:	{'ves': 1}
-ves:	{'en': 1}
-#ilustración?:	{'¿Cuál': 1}
-añadirías?:	{'#aniversario': 1}
-#Hulio:	{'#felizfinde': 1}
-#Killadamente?:	{'Un': 1}
-ejemplo:	{'de': 1}
-superó:	{'el': 1}
-#bullying:	{'que': 1}
-recibía:	{'por': 1}
-sobrepeso:	{'parodiando': 1}
-parodiando:	{'situaciones': 1}
-situaciones:	{'diarias': 1}
-diarias:	{'y': 1}
-manifestando:	{'la': 1}
-amor:	{'propio': 1}
-bajo:	{'el': 1}
-hashtag:	{'#MeAmoYNoMeImporta.': 1}
-#MeAmoYNoMeImporta.:	{'¡Tu': 1}
-¡Tu:	{'lucha': 1}
-lucha:	{'es': 1, 'por': 1}
-lucha!:	{'#fanart': 1}
-Ras:	{'Tafari': 1}
-Tafari:	{'era': 1}
-emperador:	{'de': 1}
-Etiopía,:	{'quien': 1, 'que': 1}
-adoptó:	{'el': 1}
-Haile:	{'Selassie': 1}
-Selassie:	{'al': 1}
-coronado.:	{'Encargó': 1}
-Encargó:	{'la': 1}
-constitución:	{'escrita': 1}
-escrita:	{'de': 1}
-restringía:	{'en': 1}
-medida:	{'los': 1, 'basándose': 1}
-poderes:	{'del': 1}
-ailurofobia:	{'es': 1}
-psicológico:	{'que': 1, 'basado': 1}
-provoca:	{'que': 1, 'orgasmos': 1}
-sienta:	{'un': 1}
-persistente:	{'e': 1}
-hacia:	{'los': 1}
-gatos.:	{'Se': 1}
-padecieron:	{'personajes': 1}
-Julio:	{'César,': 1}
-César,:	{'Adolf': 1}
-Adolf:	{'Hitler,': 1}
-Hitler,:	{'Benito': 1}
-Benito:	{'Mussolini': 1}
-Mussolini:	{'o': 1}
-Napoleón:	{'Bonaparte.': 1}
-Emancipaos:	{'de': 1}
-esclavitud:	{'mental,': 1}
-mental,:	{'nadie': 1}
-nadie:	{'excepto': 1}
-excepto:	{'nosotros': 1}
-nosotros:	{'mismos': 1}
-mismos:	{'puede': 1}
-liberar:	{'nuestras': 1}
-mentes.:	{'Bob': 1, 'Franklin': 1}
-Bob:	{'Marley': 1, 'Marley,': 1}
-Marley:	{'en': 1}
-Redemption:	{'Song': 1}
-1945,:	{'nacía': 1}
-Jamaica:	{'Bob': 1}
-Marley,:	{'la': 1}
-reggae.:	{'Hoy': 1}
-74:	{'años.': 1}
-pasado:	{'2': 1, 'se': 1}
-2:	{'de': 1}
-celebró:	{'el': 1}
-#diadelamarmota:	{'en': 1}
-Pensilvania,:	{'tradición': 1, 'reconstruyó': 1}
-tradición:	{'desde': 1, 'del': 1}
-1887;:	{'como': 1}
-capaz:	{'de': 1}
-ver:	{'su': 1}
-sombra,:	{'significa': 1}
-significa:	{'que': 1}
-primavera:	{'se': 1}
-adelantará.:	{'El': 1}
-propósito:	{'real': 1}
-marmota:	{'es': 1}
-despertar:	{'de': 1}
-hibernación:	{'para': 1}
-iniciar:	{'su': 1}
-ritual:	{'de': 1}
-apareamiento.:	{'https://t.co/ztb7YDzRSC': 1}
-comienza:	{'el': 1}
-#AñoNuevoChino:	{'coincidiendo': 1}
-coincidiendo:	{'con': 1}
-año:	{'lunar.': 1}
-lunar.:	{'Comienza': 1}
-Comienza:	{'el': 1}
-#AñoDelCerdo,:	{'animal': 1}
-asociado:	{'a': 1, 'con': 1}
-fertilidad:	{'y': 1}
-virilidad:	{'en': 1}
-astrología:	{'china.': 1}
-¿Creéis:	{'que': 1}
-artificial:	{'ha': 1}
-avanzado:	{'mucho?': 1}
-mucho?:	{'¿Dominará': 1}
-¿Dominará:	{'el': 1}
-mundo?:	{'¡Pinchad': 1}
-https://t.co/crB2cYb02y:	{'#ciencia': 1}
-@jeremocho:	{'Si,': 1}
-Si,:	{'los': 1}
-llevan:	{'a': 1}
-donar:	{'sangre': 1, 'sangre,': 1, 'vuestro': 1}
-perros:	{'y': 1}
-@BuddhAforWendY:	{'Para': 1}
-sangre,:	{'¡los': 1, 'conocida': 1}
-¡los:	{'gatos': 1}
-deberán:	{'pesar': 1}
-pesar:	{'más': 2}
-3,5:	{'kilos!': 1, 'kilos': 1}
-kilos!:	{'25': 1}
-kilos:	{'solo': 1, 'en': 2}
-caso:	{'de': 3}
-Perros:	{'y': 1}
-pueden:	{'ser': 1, 'viajar': 1, 'sufrir': 1}
-donantes:	{'de': 1, 'que': 1}
-requisitos:	{'mínimos:': 1}
-mínimos::	{'estar': 1}
-estar:	{'en': 1}
-buenas:	{'condiciones': 1}
-condiciones:	{'físicas,': 1}
-físicas,:	{'tener': 1}
-1:	{'y': 1}
-perros,:	{'mas': 1}
-heces:	{'de': 1}
-podrían:	{'ayudar': 1, 'servir': 1}
-ayudar:	{'a': 1}
-curar:	{'el': 1}
-cáncer,:	{'según': 1}
-equipo:	{'de': 1}
-estadounidenses.:	{'Descubrieron': 1}
-Descubrieron:	{'un': 1}
-parásito:	{'en': 1}
-restos:	{'que': 1}
-servir:	{'para': 1}
-vacuna:	{'contra': 1}
-#DiaMundialContraElCancer:	{'nos': 1}
-nos:	{'gustaría': 1}
-profesiones:	{'más': 1}
-desconocidas:	{'pero': 1}
-menos:	{'importantes,': 1}
-importantes,:	{'como': 1}
-#psicooncología.:	{'Ayudan': 1}
-Ayudan:	{'a': 1}
-afrontar:	{'el': 1}
-impacto:	{'emocional': 1}
-emocional:	{'de': 1}
-enfermedad:	{'y': 1}
-tratamiento,:	{'para': 1}
-mejorar:	{'la': 1}
-calidad:	{'de': 1}
-pacientes:	{'y': 1}
-familiares.:	{'https://t.co/VLzUxxX7Br': 1}
+vez:	{'han': 1, 'al': 1, 'en': 2}
+hecho:	{'algo': 1, 'de': 4}
+jamás:	{'pensado?': 1}
+pensado?:	{'¿Cómo': 1}
+¿Cómo:	{'lo': 1, 'va': 1}
+hicieron:	{'sin': 1}
+Llegó:	{'el': 1}
+mejor:	{'momento': 1, 'en': 2, 'debe': 2, 'con': 2}
+día...:	{'Algo': 1}
+Algo:	{'tarde': 1}
+tarde:	{'diría.': 1}
+diría.:	{'Almorzar': 1}
+Almorzar:	{'a': 1}
+carta.:	{'¿Quién': 1}
+difícil:	{'es': 2}
+chistosos:	{'hoydía': 1}
+hoydía:	{'con': 1}
+tanta:	{'competencia': 1}
+competencia:	{'de...': 1}
+Nuestros:	{'problemas': 2}
+son:	{'solo': 2, 'un': 1, '“güeeee”': 1, 'la': 1, 'las': 1, 'parte': 1}
+solo:	{'bobadas...': 2, 'estábamos': 1, 'necesitamos': 1}
+bobadas...:	{'siempre': 2}
+siempre:	{'hay': 2}
+hay:	{'personas': 2, 'ratas': 1, 'nada': 1}
+personas:	{'más': 2, 'que': 1}
+desgraciadas:	{'#LesLuthiersQ': 2}
+¿Es:	{'el': 4}
+ser?:	{'¿Es': 2}
+estar?:	{'¿Yo': 2}
+¿Yo:	{'mejor': 2}
+debe:	{'ser': 2}
+yacer:	{'en': 2}
+lecho:	{'de': 2}
+Esther?:	{'#LesLuthiersQ': 2}
+ave:	{'es': 2}
+vuela...:	{'el': 2}
+pez:	{'es': 2}
+todo:	{'porque': 2, 'Shakespeare': 1, 'el': 1, 'son': 1}
+nada...:	{'#LesLuthiersQ': 2}
+¿Qué:	{'es': 1}
+piensan:	{'dar': 1}
+dar:	{'las': 1}
+noches?:	{'Nosotros': 1}
+Nosotros:	{'también...': 2}
+Una:	{'buena': 1, 'variación': 1, 'pareja': 1}
+noticia::	{'nominados': 1}
+nominados:	{'por': 1}
+8va:	{'vez': 1}
+premio:	{'Príncipe': 1}
+Príncipe:	{'de': 1}
+Asturias:	{'http://t.co/Zg90nq2lj4': 1}
+¡Lavá:	{'el': 2}
+balde!...:	{'¡Lavá': 1}
+avión!:	{'http://t.co/3HPwhEoZrg': 1}
+¡Atención!:	{'http://t.co/XD5Gb4FWro': 1}
+http://t.co/XD5Gb4FWro:	{'Balada': 1}
+Balada:	{'del': 1}
+7mo:	{'regimiento,': 1}
+regimiento,:	{'y': 1}
+¡pásenlo:	{'bomba!': 1}
+bomba!:	{'#LesLuthiersQ': 1}
+¡A:	{'mover': 1}
+mover:	{'el': 1}
+esternocleidomastoideo!:	{'http://t.co/aFh1mBqAkz': 1}
+Mil:	{'gracias': 1}
+gracias:	{'a': 1, 'por': 1, 'y': 1}
+seguidores...:	{'bueno,': 1}
+bueno,:	{'¡mejor': 1}
+Los:	{'beduinos': 1, 'jóvenes': 1}
+beduinos:	{'provienen': 1}
+provienen:	{'de': 1}
+algunos:	{'oasis': 1}
+oasis:	{'poblados,': 1}
+poblados,:	{'otros...': 1}
+otros...:	{'de': 1}
+ciertos:	{'desiertos': 1}
+desiertos:	{'desiertos': 1, '#LesLuthiersQ': 1}
+cualquier:	{'rincón': 1, 'cosa.': 1}
+rincón:	{'del': 1}
+mundo:	{'resuena': 1, 'se': 1}
+resuena:	{'un': 1}
+tango:	{'y': 1}
+alrededor:	{'se': 1}
+levanta:	{'un': 1}
+murmullo::	{'¡Cuidado,': 1}
+¡Cuidado,:	{'argentinos!': 1}
+argentinos!:	{'#LesLuthiersQ': 1}
+vivido:	{'en': 1}
+Roma,:	{'el': 1}
+alma:	{'del': 1}
+mundo;:	{'en': 1, 'pero': 1}
+París,:	{'el': 1}
+corazón:	{'del': 1}
+pero:	{'se': 1, 'tipo': 2, 'lo': 1}
+sentía:	{'intrigado': 1}
+intrigado:	{'por': 1}
+Serenata:	{'astrológica': 1, 'intimidatoria': 1, 'Medio': 1}
+astrológica:	{'-': 1}
+http://t.co/TBk1Qlc7st:	{'#LesLuthiersQ': 1}
+cierto:	{'es': 1}
+paso:	{'del': 1}
+tiempo:	{'nos': 1}
+momi...:	{'eh...': 1}
+eh...:	{'modificado': 1}
+modificado:	{'#LesLuthiersQ': 1}
+cuesta,:	{'más': 1}
+Tengo:	{'celos': 1, 'un': 2}
+celos:	{'de': 2, 'del': 1, '-': 1}
+guantes,:	{'q': 1}
+tocan:	{'tus': 1}
+manos;:	{'celos': 1}
+collar,:	{'que': 1}
+toca:	{'tu': 1}
+tu:	{'cuello;': 1, 'metodología': 1, 'metodología,': 1}
+cuello;:	{'celos': 1}
+silla...:	{'O.o': 1}
+O.o:	{'que': 1}
+usas:	{'para': 1}
+Bolero:	{'de': 1}
+http://t.co/nojIThiUH7:	{'#LesLuthiersQ': 1}
+@ChechuQueen:	{'Usted!': 1}
+palabra:	{'suicida,': 1}
+suicida,:	{'como': 1}
+muchos:	{'creen,': 1}
+creen,:	{'no': 1}
+mata:	{'a': 1, 'al': 1}
+Suizo...:	{'No,': 1}
+No,:	{'un': 1}
+suicida:	{'es': 1}
+alguien:	{'que': 1, 'mas': 1}
+quita:	{'la': 1}
+"sui":	{'mismo.': 1}
+Vamos:	{'a': 1}
+cambiar:	{'esta': 1}
+vacía,:	{'vamos': 1}
+vamos:	{'todos': 1}
+estudiar...:	{'¡Epistemología!': 1}
+¡Epistemología!:	{'#LesLuthiersQ': 1}
+Ella:	{'criticaba': 2, 'sacudía': 1}
+criticaba:	{'tu': 2}
+metodología:	{'pero': 1}
+tipo:	{'que': 2}
+veía:	{'se': 2}
+epistemologaba:	{'#LesLuthiersQ': 1, '-': 1}
+puede:	{'estar': 1}
+estar:	{'amando': 1, 'a': 1}
+amando:	{'metafísico': 1}
+metafísico:	{'nomás,': 1}
+nomás,:	{'ni': 1}
+rato...:	{'epistemologando': 1}
+epistemologando:	{'#LesLuthiersQ': 1}
+jóvenes:	{'se': 1, 'cientos': 1}
+aman:	{'con': 1}
+entusiasmo:	{'que': 1}
+sólo:	{'con': 1, 'es': 1}
+hablar...:	{'ya': 1}
+llegan:	{'al': 1}
+Erasmo:	{'-': 1}
+Cumbia:	{'epistemológica': 2}
+epistemológica:	{'#LesLuthiersQ': 2}
+sacudía:	{'su': 1}
+estructuralismo:	{'y': 1}
+él:	{'hacía': 1}
+hacía:	{'lo': 1}
+antropología:	{'-': 1}
+quiere:	{'epistemologar?': 1, 'bailar': 2}
+epistemologar?:	{'o/': 1}
+¿Pensaron:	{'que': 1}
+habíamos:	{'ido?': 1, 'ido,': 1}
+ido?:	{'Nosotros': 1}
+Sálvese:	{'mejor': 2}
+Warren,:	{'salvación': 2}
+salvación:	{'garantizada:': 2}
+garantizada::	{'si': 2}
+muere:	{'y': 2}
+salva,:	{'¡le': 2}
+¡le:	{'devolvemos': 2}
+devolvemos:	{'su': 2}
+dinero!.:	{'#LesLuthiersQ': 2}
+¿No:	{'lo': 2}
+asalta:	{'de': 2}
+melancolía,:	{'la': 2}
+memoria:	{'de': 2, '#LesLuthiersQ': 2}
+cosas:	{'perdidas?': 2}
+perdidas?:	{'Eh,': 2}
+Eh,:	{'justamente': 2}
+justamente:	{'lo': 2}
+he:	{'perdido': 2, 'recibido': 1, 'leído': 1}
+perdido:	{'es': 2}
+sentado!.:	{'La': 2}
+Hermanos:	{'es': 1}
+fácil:	{'obrar': 2}
+obrar:	{'mal': 2, 'mal!': 1, 'mal.': 1}
+arrepentirse,:	{'¡difícil': 1}
+¡difícil:	{'es': 1}
+arrepentirse:	{'primero': 2}
+primero:	{'y': 2}
+luego:	{'obrar': 2, 'arrepentirse;': 1}
+mal!:	{'-': 1}
+Sendero:	{'de': 1}
+Warren:	{'#LesLuthiersQ': 1, 'Sánchez': 1}
+verídico,:	{'sino': 1}
+sino:	{'que': 1}
+ademas:	{'¡es': 1}
+Mi:	{'intención': 1, 'esposa': 1}
+intención:	{'es': 1}
+pasar:	{'toda': 1}
+toda:	{'la': 2}
+junto:	{'a': 1}
+ahora,:	{'y': 1}
+hora:	{'-': 1, 'de': 1}
+Bossa:	{'Libidinossa': 1}
+Libidinossa:	{'#LesLuthiersQ': 1}
 Es:	{'una': 1}
-locura:	{'odiar': 1}
-odiar:	{'a': 1}
-todas:	{'las': 2}
-rosas:	{'porque': 1}
-porque:	{'una': 1, 'uno': 1, 'no': 1}
-pinchó.:	{'Renunciar': 1}
-Renunciar:	{'a': 1}
-tus:	{'sueños': 1}
-sueños:	{'porque': 1}
-ellos:	{'no': 1}
-realizó.:	{'El': 1}
-Luis:	{'Aragonés,': 1, 'XVI': 2, 'Coloma': 1}
-Aragonés,:	{'"el': 1}
-"el:	{'Sabio': 1}
-Sabio:	{'de': 1}
-Hortaleza",:	{'entrenador': 1}
-entrenador:	{'de': 1}
-Selección:	{'Española': 1}
-Española:	{'conquistó': 1}
-conquistó:	{'la': 1}
-Eurocopa:	{'de': 1}
-fin:	{'de': 2}
-celebrará:	{'en': 1}
-Campeonato:	{'de': 1}
-España:	{'de': 1, 'acumula': 1}
-caza:	{'del': 1}
-zorro.:	{'Solo': 1}
-Solo:	{'en': 1}
-matado:	{'a': 1}
-75.700:	{'ejemplares': 1}
-ejemplares:	{'en': 1}
-últimas:	{'6': 1}
-temporadas,:	{'más': 1}
-12.000:	{'cada': 1}
-#Yonodisparo:	{'#StopCaza': 1}
-#StopCaza:	{'https://t.co/aE28N0EES4': 1, '#fauna': 1}
-"complejo:	{'de': 1}
-Cenicienta":	{'es': 1}
-basado:	{'en': 1}
-deseo:	{'inconsciente': 1}
-inconsciente:	{'de': 1}
-protegidas:	{'o': 1}
-cuidadas:	{'en': 1}
-momento,:	{'dejando': 1}
-dejando:	{'de': 1}
-lado:	{'su': 1, 'izquierdo': 1}
-Abrid:	{'escuelas': 1}
-cerrarán:	{'cárceles': 1}
-cárceles:	{'Concepción': 1}
-Concepción:	{'Arenal': 1, 'Arenal,': 1}
-1820:	{'nace': 1}
-nace:	{'en': 2, 'Franklin': 1, 'de': 1}
-Arenal,:	{'una': 1}
-madres:	{'del': 1}
-historia?:	{'https://t.co/eK9CsnfSCe': 1}
-presos:	{'del': 1}
-destino;:	{'solo': 1}
-prisioneros:	{'de': 1}
-propias:	{'mentes.': 1}
-Franklin:	{'D.': 2, 'Delano': 1}
-D.:	{'Roosevelt': 2}
-alegría:	{'es': 1, 'ni': 1}
-piedra:	{'filosofal': 1}
-filosofal:	{'que': 1}
-convierte:	{'en': 1}
-oro.:	{'Franklin': 1}
-30:	{'de': 2, 'años': 1}
-enero:	{'de': 8, 'se': 1}
-1882,:	{'nace': 2}
-Delano:	{'Roosevelt,': 1}
-Roosevelt,:	{'el': 1}
-presidente:	{'de': 1}
-Estados:	{'Unidos': 1, 'Unidos,': 1}
-Unidos:	{'elegido': 1}
-elegido:	{'cuatro': 1}
-veces:	{'consecutivas.': 1}
-enero,:	{'aniversario': 1, 'se': 1}
-Gandhi,:	{'se': 1}
-Escolar:	{'de': 1}
-Violencia:	{'y': 1}
-Paz,:	{'cuyo': 1}
-potenciar:	{'la': 1}
-educación:	{'como': 1}
-arma:	{'a': 1}
-favor:	{'de': 1}
-tolerancia,:	{'solidaridad': 1}
-solidaridad:	{'y': 1}
-respeto:	{'a': 1}
-Derechos:	{'Humanos.': 1, 'Humanos:': 1}
-ocurrieron:	{'dos': 1}
-hechos:	{'históricos': 1}
-históricos:	{'en': 1}
-Humanos::	{'Sierra': 1}
-Sierra:	{'Leona': 1}
-Leona:	{'prohíbe': 1}
-prohíbe:	{'la': 1}
-mutilación:	{'genital': 1}
-genital:	{'femenina': 1}
-femenina:	{'y': 1}
-Angola:	{'despenaliza': 1}
-despenaliza:	{'la': 1}
-homosexualidad,:	{'además': 1}
-permitir:	{'el': 1}
-aborto:	{'en': 1}
-algunos:	{'casos.': 1}
-casos.:	{'https://t.co/FlJMw3Hx8u': 1}
-@esdrascuba:	{'Según': 1}
-fuentes,:	{'el': 1}
-vendedor:	{'recibe': 1}
-recibe:	{'entre': 1}
-4.000:	{'y': 1}
-7.000:	{'dólares': 1}
-dólares:	{'(entre': 1}
-(entre:	{'3.200': 1}
-3.200:	{'y': 1}
-5.600:	{'euros),': 1}
-euros),:	{'aunque': 1}
-aunque:	{'no': 1}
-siempre:	{'funciona;': 1, 'le': 1}
-funciona;:	{'hay': 1}
-necesitan:	{'más': 1}
-dinero:	{'y': 1}
-anuncian:	{'por': 1}
-venta:	{'de': 1}
-riñón:	{'a': 1}
-precio:	{'mayor.': 1}
-Papa:	{'Adriano': 1}
-Adriano:	{'IV,': 1}
-IV,:	{'el': 1}
-inglés:	{'de': 1}
-asfixiado:	{'al': 1}
-entrarle:	{'una': 1}
-mosca:	{'en': 1}
-boca:	{'y': 1}
-quedarle:	{'atragantada': 1}
-atragantada:	{'en': 1}
-Desde:	{'1996,': 1}
-1996,:	{'Irán': 1}
-Irán:	{'es': 1}
-país:	{'del': 2}
-ofrece:	{'a': 1}
-ciudadanos:	{'una': 1}
-forma:	{'legal': 1, 'simultánea.': 1}
-legal:	{'de': 1}
-vender:	{'sus': 1}
-riñones:	{'a': 1}
-fundación,:	{'justificando': 1}
-justificando:	{'una': 1}
-pobres:	{'puedan': 1}
-puedan:	{'ganar': 1}
-Organización:	{'Nacional': 1}
-Nacional:	{'de': 1}
-Trasplantes:	{'correspondientes': 1}
-correspondientes:	{'a': 1}
-acumula:	{'27': 1}
-liderazgo:	{'mundial': 1}
-mundial:	{'en': 1, 'de': 2}
-trasplantes:	{'y': 1}
-donaciones:	{'de': 1}
-órganos,:	{'además': 1}
-batir:	{'su': 1}
-récord.:	{'¿Os': 1}
-¿Os:	{'habéis': 1}
-planteado:	{'donar': 1}
-vuestro:	{'cuerpo': 1}
-#ciencia?:	{'https://t.co/fith811iOs': 1}
-#DíaMundial:	{'por': 1}
-Reducción:	{'de': 1}
-Emisiones:	{'de': 1}
-CO2:	{'designado': 1}
-designado:	{'por': 1}
-@ONU_es.:	{'El': 1}
-concienciar:	{'sobre': 1}
-#CambioClimático,:	{'ya': 1}
-19%:	{'de': 1}
-emisiones:	{'de': 1}
-contaminantes:	{'tienen': 1}
-tienen:	{'origen': 1, 'trastornos': 1}
-doméstico.:	{'¡Frenar': 1}
-¡Frenar:	{'el': 1}
-cosa:	{'de': 1}
-me:	{'interesa': 1, 'basta': 1}
-interesa:	{'la': 1}
-alabanza:	{'o': 1}
-crítica,:	{'me': 1}
-basta:	{'con': 1}
-seguir:	{'mis': 1}
-mis:	{'propios': 1}
-propios:	{'sentimientos.': 1}
-sentimientos.:	{'Wolfgang': 1}
-Amadeus:	{'Mozart': 1, 'Mozart,': 1}
-1756,:	{'nacía': 1}
-Salzburgo:	{'Wolfgang': 1}
-Mozart,:	{'considerado': 1}
-falta:	{'de': 1}
-sueño:	{'puede': 1, 'pueden': 1}
-causar:	{'pérdida': 1}
-pérdida:	{'de': 1}
-memoria:	{'y': 1}
-aumenta:	{'la': 1}
-posibilidad:	{'de': 1}
-recuerdos:	{'falsos.': 1}
-plena:	{'época': 1}
-victoriana,:	{'sería': 1}
-programadora:	{'informática': 1}
-Firmaba:	{'sus': 1}
-iniciales:	{'por': 1}
-temor:	{'a': 1}
-censura:	{'por': 1}
-mujer.:	{'https://t.co/CHtWQ5yorv': 1}
-“Durante:	{'la': 1}
+infamia:	{'pegarle': 1}
+pegarle:	{'a': 1}
+¡Salvo:	{'que': 1}
+sea:	{'necesario!': 1}
+necesario!:	{'-': 1}
+intimidatoria:	{'http://t.co/sRvn4V3NJl': 1}
+http://t.co/sRvn4V3NJl:	{'#LesLuthiersQ': 1}
+¡Detén:	{'tanto': 1}
+intento!:	{'#LesLuthiersQ': 1}
+¡Ahora:	{'vas': 1}
+vas:	{'a': 1}
+ver:	{'quién': 1}
+verdad!:	{'-¿Por': 1}
+-¿Por:	{'qué?': 1}
+qué?:	{'¿Quién': 1}
+días,:	{'¿amanecen?': 1}
+variación:	{'de': 1}
+http://t.co/GzbjZxR7Uh:	{'#LesLuthiers': 1}
+¿Usted:	{'no': 1}
+yuxtaposición?:	{'-¡No': 1}
+-¡No:	{'he': 1}
+recibido:	{'queja': 1}
+queja:	{'alguna!': 1}
+alguna!:	{'#LesLuthiersQ': 1}
+Está:	{'la': 1}
+musa:	{'de': 3}
+limpieza,:	{'la': 1}
+gamuza...:	{'la': 1}
+escarabajos,:	{'la': 1}
+escaramuza.:	{'La': 1}
+quesos...:	{'la': 1}
+"musarela":	{'#LesLuthiersQ': 1}
+Píscore!:	{'#LesLuthiersQ': 1}
+Raúl...a:	{'-': 1}
+@Alejinha:	{'también': 1}
+también:	{'te': 1}
+extrañábamos...:	{'¿no': 1}
+¿no:	{'te': 1}
+Usted:	{'ha': 2}
+estado:	{'reflexionando,': 2, 'usted': 2}
+reflexionando,:	{'digamos': 2}
+digamos:	{'por': 2}
+caminos:	{'sinuosos.': 2}
+sinuosos.:	{'Digamos,': 2}
+Digamos,:	{'ha': 2}
+usted:	{'razonando...': 2, 'sus': 1}
+razonando...:	{'fuera': 2}
+fuera:	{'del': 2}
+recipiente.:	{'#LesLuthiersQ': 2}
+Merengue:	{'(Esther': 1}
+(Esther:	{'Píscore)': 1}
+Píscore):	{'-': 1}
+http://t.co/qf06B38leB:	{'#LesLuthiersQ': 1}
+alegra:	{'que': 1}
+haya:	{'llegado,': 1}
+llegado,:	{'así': 1}
+así:	{'esto': 1}
+esto:	{'deja': 1}
+deja:	{'de': 1}
+convertirse:	{'en': 1}
+un...:	{'biólogo': 1}
+biólogo:	{'#LesLuthiersQ': 1}
+desorden:	{'cada': 2}
+whyskey:	{'buenísimo,': 2, 'buenísimo': 1}
+buenísimo,:	{'12...': 2}
+12...:	{'-años...': 2}
+-años...:	{'-pesos!...': 2}
+-pesos!...:	{'el': 2}
+cajón!.:	{'-Con': 2}
+-Con:	{'razón': 2}
+razón:	{'ve': 2}
+ve:	{'insectos.': 2}
+insectos.:	{'Por': 2}
+12:	{'pesos': 2}
+pesos:	{'qué': 2}
+quería?:	{'-': 2}
+Lutherapia:	{'#LesLuthiersQ': 4, 'http://t.co/Rb1iougW5l': 1}
+Abreviemos:	{'hija': 2}
+hija:	{'mía,': 2}
+mía,:	{'de': 2}
+pecados:	{'NO': 2}
+NO:	{'te': 2}
+acusas?:	{'#LesLuthiersQ': 1}
+fantasmas:	{'mono...': 1}
+mono...:	{'y': 1}
+"etéreo":	{'#LesLuthiersQ': 1}
+conozco:	{'todo': 1}
+Shakespeare:	{'en': 1, '-': 1}
+inglés...:	{'no': 1}
+leído:	{'porque': 1}
+inglés:	{'pero': 1}
+esos:	{'días': 1}
+enfrentó:	{'grandes': 1}
+problemas...:	{'chocó': 1}
+chocó:	{'con': 1}
+bici...:	{'con': 1}
+vicisitudes:	{'de': 1}
+Monólogo:	{'de': 2}
+http://t.co/oBWP72oR31:	{'#LesLuthiersQ': 1}
+Música:	{'proselitista': 1}
+proselitista:	{'http://t.co/PXkimn3qXM': 1}
+ido,:	{'solo': 1}
+estábamos:	{'de': 1}
+Vale:	{'@Evenpro,': 1}
+@Evenpro,:	{'una': 1}
+caridad:	{'(': 1}
+(:	{'#LesLuthiers': 1}
+RT:	{'@minervahf:': 1}
+@minervahf::	{'Necesito': 1}
+Necesito:	{'reír': 1}
+reír:	{'¡Traigan': 1}
+¡Traigan:	{'a': 1}
+Luthiers!:	{'@Evenpro': 1}
+@Evenpro:	{'valeeeeeeeee': 1}
+Abajo:	{'la': 1, 'el': 2}
+colonia!:	{'Abajo': 1}
+perfume!:	{'Abajo': 1}
+desodorante!:	{'Arriba': 1}
+Arriba:	{'el': 1}
+champú!:	{'-': 1}
+unidad:	{'#LesLuthiersQ': 2}
+Papenko,:	{'niet': 1}
+niet:	{'corrovsky!': 1}
+corrovsky!:	{'(Papito': 1}
+(Papito:	{'no': 1}
+corras!):	{'#LesLuthiersQ': 1}
+González:	{'comandante!': 1}
+comandante!:	{'Pérez!': 1}
+Pérez!:	{'González!': 1}
+González!:	{'Pérez...': 1}
+Pérez...:	{'María': 1}
+María:	{'te': 1}
+amo!:	{'-': 1}
+olvide:	{'que': 1}
+climático,:	{'el': 1}
+calentamiento:	{'global...': 1}
+global...:	{'que': 1}
+calienta:	{'por': 1}
+cosa.:	{'#LesLuthiersQ': 1}
+visto:	{'tiene': 1}
+mala:	{'bebida.': 1}
+bebida.:	{'No': 1}
+señor!:	{'tengo': 1}
+tengo:	{'un': 1}
+buenísimo:	{'"Scotish': 1}
+"Scotish:	{'Hooligan"': 1}
+Hooligan":	{'-': 1}
+Aria:	{'Agraria': 1}
+Agraria:	{'-': 1}
+http://t.co/Rb1iougW5l:	{'#LesLuthiersQ': 1}
+metodología,:	{'pero': 1}
+Dilema:	{'de': 1}
+Amor:	{'(cumbia': 1}
+(cumbia:	{'epistemológica)': 1}
+epistemológica):	{'#LesLuthiersQ': 1}
+ratas:	{'ya': 1, 'decentes,': 1, 'que': 1, 'rateras': 1}
+todos::	{'hay': 1}
+decentes,:	{'austeras': 1}
+austeras:	{'y': 1}
+roban,:	{'ratas': 1}
+rateras:	{'-': 1}
+vendrán:	{'tiempos': 1}
+tiempos:	{'mejores,': 1}
+mejores,:	{'de': 1}
+alegría:	{'y': 1}
+gozo::	{'ya': 1}
+violará:	{'alguien': 1}
+mas:	{'buenmozo': 1}
+buenmozo:	{'-': 1}
+Adelaida:	{'(Alma': 1}
+(Alma:	{'de': 1}
+Corazón):	{'#LesLuthiersQ': 1}
+suerte:	{'con': 1}
+mujer,:	{'ni': 1}
+sí:	{'ni': 1}
+no;:	{'todo': 1}
+“güeeee”:	{'-': 1}
+Eres:	{'un': 1}
+hijo:	{'de': 1}
+comercia:	{'con': 1}
+cuerpo.:	{'Horizontal,': 1}
+Horizontal,:	{'4': 1}
+4:	{'letras': 1}
+letras:	{'-': 1}
+cruzado,:	{'el': 1}
+arcángel:	{'y': 1}
+harpía:	{'#LesLuthiersQ': 1}
+...y:	{'cuando': 1}
+hablo:	{'de': 2}
+cultura,:	{'hablo': 1}
+cultura:	{'con': 1}
+Q:	{'mayúscula...': 1}
+mayúscula...:	{'Vote': 1}
+Vote:	{'a': 1}
+Ortega:	{'#LesLuthiersQ': 1}
+¿Por:	{'que': 2}
+ciudad:	{'vivimos': 2}
+vivimos:	{'alienados?': 2}
+alienados?:	{'Porque': 2}
+Porque:	{'se': 2}
+lienado:	{'de': 2}
+gente.:	{'Solo': 2}
+Solo:	{'necesitamos': 2, 'Necesitamos': 1}
+necesitamos:	{'#LesLuthiersQ': 2, 'una': 1}
+-Manuel:	{'Darío': 1}
+Darío:	{'es': 1, '#LesLuthiersQ': 2}
+seudónimo.:	{'Manuel': 1}
+Manuel:	{'Darío,': 1, 'Darío': 2}
+Darío,:	{'como': 1}
+poeta…:	{'El': 1}
+“Rimas:	{'de': 1}
+Becket”:	{'Manuel': 1}
+aquel:	{'entonces': 1}
+sueño:	{'imposible...': 1}
+imposible...:	{'en': 1}
+casa,:	{'ninguno': 1}
+ninguno:	{'podía': 1}
+podía:	{'dormir.': 1}
+dormir.:	{'Manuel': 1}
+-El:	{'cóndor,': 1, 'puma,': 1}
+cóndor,:	{'alelante.': 1}
+alelante.:	{'-El': 1}
+puma,:	{'altanero.': 1}
+-La:	{'gallina...': 1}
+gallina...:	{'al': 1}
+horno.El:	{'regreso': 1}
+regreso:	{'del': 1}
+indio:	{'#LesLuthiersQ': 1}
+Aquí:	{'estamos': 1}
+bien:	{'y': 1}
+techamos:	{'de': 2}
+menos;:	{'techamos': 1}
+menos,:	{'porque': 1}
+acabaron:	{'las': 1}
+tejas:	{'-': 1}
+negro:	{'quiere': 2}
+bailar:	{'#LesLuthiersQ': 2}
+diez:	{'personas': 1}
+ven:	{'televisión,': 1}
+televisión,:	{'cinco': 1}
+cinco:	{'son': 1}
+mitad.:	{'La': 1}
+Tanda:	{'#LesLuthiersQ': 2}
+Charla:	{'entre': 1}
+Mundstock:	{'y': 1}
+sobre:	{'Shakespeare': 1}
+http://t.co/hbXE3tmtE1:	{'#LesLuthiersQ': 1}
+http://t.co/ssRx3uIMpR:	{'#LesLuthiersQ': 1}
+Avant:	{'Gardé,': 1}
+Gardé,:	{'¡Qué': 1}
+hembra!:	{'-': 1}
+Kahty,:	{'la': 1}
+reina:	{'del': 1}
+Saloon:	{'#LesLuthiersQ': 1}
+felices:	{'solo': 1}
+muchacha...:	{'dos': 1}
+muchachas.:	{'Solo': 1}
+Necesitamos:	{'#LesLuthiersQ': 1}
+...Fornicando:	{'sin': 1}
+ton:	{'ni': 1}
+son,:	{'a': 1}
+tontas:	{'y': 1}
+locas:	{'-': 1}
+(...y:	{'esas': 1}
+esas:	{'son': 1}
+fáciles!):	{'El': 1}
+sendero:	{'de': 1}
+Sánchez:	{'#LesLuthiersQ': 1}
+¿cómo:	{'es': 1}
+tema:	{'de': 1}
+fecundación:	{'asistida,porque': 1}
+asistida,porque:	{'quería': 1}
+quería:	{'preguntarles': 1}
+preguntarles:	{'como': 1}
+hacer:	{'para': 1}
+asistir:	{'a': 1}
+una?-Bueno:	{'Nacho..Nacho,Nacho!#LesLuthiersQ': 1}
+va:	{'a': 1}
+Terpsícores:	{'si': 1}
+una¿O:	{'a': 1}
+amigos:	{'le': 1, 'me': 1}
+dicen:	{'Albertos?Mis': 1, 'Luís.': 1}
+Albertos?Mis:	{'amigos': 1}
+Luís.:	{'El': 1}
+Qué:	{'fantástico,': 1}
+fantástico,:	{'qué': 1}
+poencia:	{'elocuética,': 1}
+elocuética,:	{'"¿Qué?",': 1}
+"¿Qué?",:	{'"su': 1, '"Qué': 1}
+"su:	{'elocuencia': 1}
+elocuencia:	{'poética",': 1}
+poética",:	{'"¿Qué?",': 1}
+"Qué:	{'grande".': 1}
+grande".:	{'La': 1}
+imán:	{'Abdul': 1, 'Abul': 1}
+Abdul:	{'se': 1}
+presentó:	{'ante': 1}
+ante:	{'Mastropiero': 1}
+dijo::	{'maestro,': 1}
+maestro,:	{'hoy': 1}
+seré:	{'su': 1}
+anfitrión,:	{'porque': 1}
+jefe:	{'el': 1}
+jeque:	{'lo': 1}
+aqueja:	{'la': 1}
+::	{'Les': 1}
+Luthiers:	{'-': 1}
+raul::	{'http://t.co/e8eFrajh1l': 1}
+http://t.co/e8eFrajh1l:	{'vía': 1}
+vía:	{'@youtube': 1}
+Abul:	{'poseía': 1}
+poseía:	{'una': 1}
+personalidad:	{'magnética,': 1}
+magnética,:	{'como': 1}
+Medio:	{'Oriental': 1}
+Oriental:	{'(música': 1}
+(música:	{'medio': 1}
+medio:	{'árabe)': 1}
+árabe):	{'#LesLuthiersQ': 1}
+Johann:	{'Sebastian': 1}
+Sebastian:	{'Mastropiero,': 1}
+Mastropiero,:	{'en': 1}
+busca:	{'de': 1}
+inspiración,:	{'realizó': 1}
+realizó:	{'un': 1}
+Oriente:	{'Medio,': 1}
+Medio,:	{'a': 1}
+calurosas:	{'regiones': 1}
+regiones:	{'de': 1}
+engañemos:	{'hermanos,': 1}
+hermanos,:	{'es': 1}
+arrepentirse;:	{'lo': 1}
+mal.:	{'#LesLuthiersQ': 1}
+Las:	{'Artes': 1}
+Artes:	{'Marciales': 1}
+Marciales:	{'son': 1}
 parte:	{'de': 1}
-Anónimo:	{'era': 1}
-mujer”:	{'Virginia': 1}
-Virginia:	{'Woolf': 1, 'Woolf,': 1}
-Londres:	{'Virginia': 1}
-Woolf,:	{'escritora': 1}
-pionera:	{'del': 1, 'en': 2}
-feminismo:	{'internacional.': 1}
-129:	{'años': 1}
-Nellie:	{'Bly': 1}
-Bly:	{'completó': 1}
-completó:	{'su': 1}
-vuelta:	{'al': 1}
-72:	{'días,': 1}
-días,:	{'superando': 1}
-superando:	{'el': 2}
-récord:	{'del': 1, 'de': 1, 'mundial': 1}
-Phileas:	{'Fogg.': 1}
-Fogg.:	{'¿Qué': 1}
-rompió:	{'las': 1}
-barreras:	{'que': 1}
-impuestas:	{'por': 1}
-género?:	{'https://t.co/Hw9YYObL6m': 1}
-Isaac:	{'Newton,': 1}
-Newton,:	{'considerado': 1}
-ciencia,:	{'no': 1}
-gustaba:	{'la': 1}
-ni:	{'sonreír.': 1}
-sonreír.:	{'Se': 1}
-sólo:	{'se': 1}
-vio:	{'reír': 1}
-reír:	{'una': 1}
-vez,:	{'cuando': 1}
-cuando:	{'un': 1, 'era': 1}
-alumno:	{'le': 1}
-preguntó:	{'en': 1}
-clase:	{'cuánto': 1}
-cuánto:	{'podría': 1}
-valer:	{'un': 1}
-obsoleto:	{'libro': 1}
-libro:	{'de': 1}
-Euclides.:	{'https://t.co/mvw6O22PnQ': 1}
-componente:	{'químico': 1}
-esencial:	{'de': 1}
-ciertos:	{'fármacos': 1}
-fármacos:	{'contra': 1}
-depresión:	{'es': 1}
-clomipramina.:	{'Según': 1}
-5%:	{'de': 1}
-pacientes,:	{'provoca': 1}
-orgasmos:	{'incontrolables': 1}
-incontrolables:	{'en': 1}
-plasticidad:	{'fenotípica?': 1}
-fenotípica?:	{'https://t.co/8SpUE8uqd8': 1}
-Cuando:	{'los': 1}
-ordenadores:	{'tomen': 1}
-tomen:	{'el': 1}
-control,:	{'puede': 1}
-recuperemos.:	{'Sobreviviremos': 1}
-Sobreviviremos:	{'según': 1}
-capricho.:	{'Con': 1}
-suerte,:	{'decidirán': 1}
-decidirán:	{'mantenernos': 1}
-mantenernos:	{'como': 1}
-Marvin:	{'Minsky': 1, 'Minsky,': 1}
-fallecimiento:	{'de': 1}
-Minsky,:	{'científico': 1}
-científico:	{'estadounidense': 1}
-estadounidense:	{'pionero': 1}
-pionero:	{'de': 1}
-convencido:	{'de': 1}
-lograrían:	{'desarrollar': 1}
-desarrollar:	{'máquinas': 1}
-máquinas:	{'tan': 1}
-inteligentes:	{'como': 1}
-cerebro:	{'humano.': 1, 'a': 1}
-Diego:	{'González': 1}
-González:	{'es': 1}
-cirujano:	{'de': 2}
-Coruña:	{'que': 2}
-desarrollado:	{'una': 2}
-técnica:	{'quirúrgica': 2}
-quirúrgica:	{'pionera': 2}
-mundo::	{'se': 2}
-Uniportal:	{'VATS': 2}
-VATS:	{'y': 2}
-extirpar:	{'los': 2}
-tumores:	{'más': 2}
-enrevesados:	{'de': 2}
-pulmón.:	{'Recientemente': 2}
-Recientemente:	{'presentó': 2}
-presentó:	{'el': 2}
-robot:	{'que': 2}
-revolucionará:	{'la': 2}
-#cirugía:	{'de': 2}
-pulmón:	{'en': 2}
-planeta.:	{'https://t.co/fPYOW32cUc': 1, 'https://t.co/oD5Vduk4wK': 1}
-@dgonzalezrivas:	{'es': 1}
-Salvador:	{'Dalí': 1, 'Dalí,': 1}
-Dalí:	{'creía': 1}
-creía:	{'que': 1}
-reencarnación:	{'de': 1}
-hermano,:	{'fallecido': 1}
-fallecido:	{'nueve': 1}
-nueve:	{'meses': 1}
-antes:	{'de': 1}
-tomado:	{'su': 1}
-nombre;:	{'sus': 1}
-llevaban:	{'a': 1}
-tumba:	{'y': 1}
-inculcaron:	{'esa': 1}
-23:	{'de': 1}
-Dalí,:	{'referente': 1}
-referente:	{'mundial': 1}
-pintura:	{'surrealista.': 1}
-surrealista.:	{'Falleció': 1}
-Falleció:	{'a': 1}
-paro:	{'cardíaco': 1}
-cardíaco:	{'mientras': 1}
-escuchaba:	{'su': 1}
-"pseudoliparis:	{'swirei"': 1}
-swirei":	{'es': 1}
-especie:	{'de': 1, 'extinta': 1}
-pez:	{'baboso': 1}
-baboso:	{'que': 1}
-vive:	{'a': 1}
-profundidad:	{'récord': 1}
-8.200:	{'metros.': 1}
-metros.:	{'Según': 1}
-National:	{'Geographic,': 1}
-Geographic,:	{'229': 1}
-229:	{'nuevas': 1}
-nuevas:	{'especies': 1}
-2018.:	{'https://t.co/JyvfyqOIJ1': 1}
-Polonia:	{'utilizan': 1}
-utilizan:	{'la': 1}
-estatua:	{'de': 1}
-Cristo:	{'más': 1, 'Rey': 1}
-alta:	{'del': 1}
-antena:	{'wifi,': 1}
-wifi,:	{'generando': 1}
-generando:	{'polémica': 1}
-polémica:	{'entre': 1}
-creyentes.:	{'Con': 1}
-36m:	{'de': 1}
-altura:	{'(52m': 1}
-(52m:	{'sumando': 1}
-sumando:	{'la': 1}
-colina),:	{'el': 1}
-Świebodzin:	{'parece': 1}
-ideal:	{'para': 1}
-ofrecer:	{'buena': 1}
-buena:	{'cobertura.': 1, 'como': 1}
-cobertura.:	{'¿Qué': 1}
-título:	{'pondrías': 1}
-pondrías:	{'a': 1}
-imagen?:	{'https://t.co/sIgSQxjqg8': 1}
-@jonh_ru:	{'En': 1}
-seguía:	{'utilizando': 1}
-utilizando:	{'la': 1}
-guillotina.:	{'Aunque': 1, 'Se': 1}
-ejecuciones:	{'públicas': 1}
-públicas:	{'habían': 1}
-habían:	{'terminado': 1}
-terminado:	{'en': 1}
-1939,:	{'se': 1}
-seguían:	{'haciendo': 1}
-haciendo:	{'en': 1}
-1977:	{'se': 1}
-ejecución:	{'con': 1, 'marcó': 1}
-llamaba:	{'Hamida': 1}
-Hamida:	{'Djandoubi,': 1}
-Djandoubi,:	{'tenía': 1}
-tenía:	{'28': 1, '73': 1}
-28:	{'años': 1}
-condenado:	{'por': 1}
-tortura:	{'y': 1}
-asesinato:	{'de': 1}
-ex:	{'novia': 1}
-novia:	{'Elisabeth': 1}
-Elisabeth:	{'Bousquet.': 1}
-Siendo:	{'muy': 1}
-muy:	{'joven,': 1, 'poco': 1}
-joven,:	{'un': 1}
-astrólogo:	{'advirtió': 1}
-advirtió:	{'a': 1}
-XVI:	{'de': 1, 'fue': 1}
-Francia:	{'que': 1}
-tuviera:	{'cuidado': 1}
-cuidado:	{'el': 1}
-Entre:	{'otras': 1}
-otras:	{'casualidades,': 1}
-casualidades,:	{'fue': 1}
-ejecutado:	{'el': 1}
-1793,:	{'Luis': 1}
-guillotinado:	{'durante': 1}
-Francesa.:	{'Su': 1}
-monarquía:	{'absolutista': 1}
-absolutista:	{'en': 1}
-@SoteroAlejandr3:	{'¡¡Muchísimas': 1}
-¡¡Muchísimas:	{'gracias,': 1}
-gracias,:	{'@SoteroAlejandr3!!': 1}
-@SoteroAlejandr3!!:	{'Se': 1}
-intentará:	{'aumentar': 1}
-aumentar:	{'la': 1}
-animación,:	{'¡Gracias': 1}
-Tener:	{'fobia': 1}
-fobia:	{'a': 1}
-luna:	{'es': 1}
-parece.:	{'Se': 1}
-selenofobia:	{'y': 1}
-disparar:	{'los': 1}
-síntomas:	{'simplemente': 1}
-simplemente:	{'con': 1}
-observarla:	{'en': 1}
-producirá:	{'el': 1}
-eclipse:	{'total': 1}
-Dará:	{'lugar': 1}
-superluna:	{'de': 1}
-conocida:	{'desde': 1}
-edad:	{'media': 1}
-media:	{'como': 1, 'de': 1}
-‘Luna:	{'de': 1}
-Sangre:	{'Lobo’.': 1}
-Lobo’.:	{'https://t.co/acPoQLbqhb': 1}
-¡¡Acabamos:	{'de': 1}
-empezar:	{'nuestro': 1}
-proyecto:	{'y': 1}
-sumamos:	{'1.000': 1}
-1.000:	{'suscriptores': 1}
-suscriptores:	{'en': 1}
-Youtube!!:	{'¡Síguenos': 1}
-¡Síguenos:	{'y': 1}
-aprende:	{'cada': 1}
-nuevo!:	{'Youtube:': 1}
-https://t.co/9sNjmpCeNA:	{'Instagram:': 1, 'https://t.co/BQRx9VV6fY': 1}
-Instagram::	{'https://t.co/x8MQ2EPck8': 2}
-https://t.co/TAC9mopr4I:	{'https://t.co/QEQPrXMsec': 1}
-@MensHealthMag,:	{'la': 1}
-velocidad:	{'media': 1, 'de': 1}
-eyaculación:	{'masculina': 1}
-masculina:	{'es': 1}
-45:	{'kilómetros': 1}
-kilómetros:	{'por': 1, 'para': 1}
-hora,:	{'superando': 1, 'incrementa': 1}
-Usain:	{'Bolt.': 1}
-Bolt.:	{'https://t.co/1ld0OPlHr4': 1}
-Einstein:	{'le': 1}
-ofrecieron:	{'la': 1}
-presidencia:	{'de': 1}
-Israel:	{'en': 1}
-1952,:	{'cargo': 1}
-cargo:	{'que': 1}
-rechazó:	{'insistiendo': 1}
-insistiendo:	{'que': 1}
-calificado:	{'y': 1}
-citando:	{'su': 1}
-edad,:	{'ya': 1}
-73:	{'años': 1}
-aquel:	{'entonces.': 1}
-entonces.:	{'https://t.co/a3ZvNnfFbi': 1}
-tercio:	{'de': 1}
-muertes:	{'de': 1}
-Mundial:	{'se': 1}
-debió:	{'a': 1}
-pandemia:	{'de': 1}
-Gripe:	{'Española.': 1}
-Española.:	{'Considerada': 1}
-Considerada:	{'la': 1}
-devastadora:	{'de': 1}
-mató:	{'a': 1}
-40:	{'millones': 1}
-Anna:	{'Coleman,': 1}
-Coleman,:	{'escritora': 1}
-escultora:	{'de': 1}
-reconstruyó:	{'cientos': 1}
-cientos:	{'de': 1}
-rostros:	{'desfigurados': 1}
-desfigurados:	{'de': 1}
-soldados:	{'supervivientes': 1}
-supervivientes:	{'de': 1}
-Mundial.:	{'Fabricaba': 1}
-Fabricaba:	{'máscaras': 1}
-máscaras:	{'a': 1}
-basándose:	{'en': 1}
-fotografías:	{'antiguas': 1}
-antiguas:	{'y': 1}
-charlas:	{'con': 1}
-pacientes.:	{'https://t.co/8Y33oY7KF6': 1}
-17:	{'de': 1}
-1706,:	{'nacía': 1}
-Benjamín:	{'Franklin.': 1}
-Franklin.:	{'Considerado': 1}
-Considerado:	{'el': 1}
-héroe:	{'de': 1}
-Unidos,:	{'fue': 1}
-protagonista:	{'de': 1}
-norteamericana:	{'de': 1}
-1776:	{'e': 1}
-inventor:	{'de': 1}
-objetos:	{'como': 1}
-lente:	{'bifocal': 1}
-bifocal:	{'o': 1}
-zorro:	{'es': 1}
-importante:	{'en': 1}
-mitología:	{'japonesa,': 1}
-japonesa,:	{'considerado': 1}
-inteligente:	{'con': 1}
-habilidades:	{'mágicas.': 1}
-mágicas.:	{'Representa': 1}
-Representa:	{'a': 1}
-espíritu:	{'del': 1}
-bosque:	{'que': 1}
-encarga:	{'de': 1}
-bosques:	{'y': 1}
-#Galicia:	{'se': 1}
-organizan:	{'macrobatidas': 1}
-macrobatidas:	{'de': 1}
-cacería:	{'del': 1}
-#zorro,:	{'autorizadas': 1}
-autorizadas:	{'y': 1}
-subvencionadas:	{'por': 1}
-Xunta.:	{'Campañas': 1}
-Campañas:	{'como': 1}
-"#YoNoDisparo":	{'muestran': 1}
-muestran:	{'la': 1}
-indignación:	{'de': 1}
-activistas:	{'y': 1}
-amantes:	{'de': 1}
-animales.:	{'#Ilustración': 1}
-caracol:	{'hawaiano': 1, 'puede': 1}
-hawaiano:	{'(achatinella': 1}
-(achatinella:	{'apexfulva)': 1}
-apexfulva):	{'es': 1}
-extinta:	{'de': 1}
-George,:	{'único': 1}
-ejemplar:	{'en': 1}
-caracoles:	{'de': 1}
-árboles:	{'de': 1}
-Hawai:	{'se': 1}
-consideran:	{'las': 1}
-"joyas:	{'del': 1}
-bosque".:	{'https://t.co/J40BDXxhvw': 1}
-Poco:	{'a': 1}
-empezaremos:	{'a': 1}
-añadir:	{'ilustración': 1}
-ilustración:	{'a': 1}
-Twitter.:	{'Si': 1}
-gusta:	{'este': 1}
-estilo,:	{'también': 1}
-seguirnos:	{'en:': 1}
-en::	{'Instagram:': 1}
-visto:	{'en': 1}
-Museo:	{'de': 1, 'Británico': 1}
-Gran:	{'Bretaña': 1}
-Bretaña:	{'es': 1}
-Piedra:	{'Rosetta,': 1}
-Rosetta,:	{'cuyo': 1}
-permitió:	{'descifrar': 1}
-descifrar:	{'los': 1}
-jeroglíficos:	{'considerados': 1}
-considerados:	{'científicamente': 1}
-científicamente:	{'indisolubles': 1}
-indisolubles:	{'hasta': 1}
-260:	{'años': 1}
-abrió:	{'sus': 1}
-Británico:	{'de': 1}
-museo:	{'nacional': 1}
-nacional:	{'público': 1}
-público:	{'del': 1}
-mundo.:	{'Se': 1}
-inauguró:	{'el': 1}
-Utilizar:	{'audífonos': 1}
-audífonos:	{'por': 1}
-incrementa:	{'el': 1}
-numero:	{'de': 1}
-bacteria:	{'en': 1}
-oído:	{'unas': 1}
-700:	{'veces.': 1}
-shock:	{'tóxico': 1}
-tóxico:	{'(TSS)': 1}
-(TSS):	{'es': 1}
-complicación:	{'muy': 1}
-frecuente:	{'pero': 1}
-pone:	{'en': 1}
-riesgo:	{'la': 1}
-vida.:	{'En': 1}
-uso:	{'de': 1}
-tampones:	{'super': 1}
-super:	{'absorbentes.': 1}
-noches:	{'despejadas': 1}
-despejadas:	{'invernales': 1}
-invernales:	{'son': 1}
-frías:	{'porque': 1}
-nubes:	{'evitando': 1}
-evitando:	{'que': 1}
-calor:	{'recibida': 1}
-recibida:	{'durante': 1}
-Cualquier:	{'mes': 1}
-comience:	{'en': 1}
-martes:	{'13': 1}
-temperatura:	{'más': 1}
-fría:	{'de': 1}
-Tierra:	{'fue': 1}
-registrada:	{'en': 1}
-Antártida,:	{'-98': 1}
--98:	{'ºC.': 1}
-G:	{'se': 1}
-así:	{'en': 1}
-ginecólogo:	{'alemán': 1}
-Ernst:	{'Gräfenberg.': 1}
-dormir:	{'por': 1, 'sobre': 1, 'cansa': 1}
-Ergofobia::	{'Miedo': 1}
-Miedo:	{'al': 1, 'a': 1}
-Leonardo:	{'da': 1}
-Vinci:	{'escribía': 1}
-escribía:	{'con': 1}
-dibujaba:	{'con': 1}
-quieres:	{'tomar': 1}
-tomar:	{'la': 1}
-siesta,:	{'la': 1}
-mejor:	{'postura': 1}
-postura:	{'es': 1}
-izquierdo:	{'para': 1}
-sensaciones:	{'eróticas': 1}
-eróticas:	{'pueden': 1}
-piel:	{'al': 1}
-251:	{'Km/h.': 1}
-Chorofobia::	{'Miedo': 1}
-beber:	{'alcohol': 1}
-alcohol:	{'se': 1}
-denomina:	{'potofobia.': 1, '"caliginefobia".': 1}
-tortugas:	{'se': 1}
-desplazan:	{'miles': 1}
-miles:	{'de': 1}
-parejas:	{'de': 1}
-águilas:	{'viven': 1}
-viven:	{'juntas': 1}
-juntas:	{'toda': 1}
-promedio:	{'tarda': 1, 'habitan': 1}
-tarda:	{'aproximadamente': 1}
-aproximadamente:	{'siete': 1}
-siete:	{'minutos': 1}
-minutos:	{'en': 1}
-Una:	{'noche': 1, 'tía': 1}
-noche:	{'sin': 1}
-cansa:	{'tanto': 1}
-tanto:	{'como': 1}
-caminar:	{'alrededor': 1}
-bellas:	{'se': 1}
-Necrofilia::	{'es': 1}
-desviación:	{'sexual': 1}
-sexual:	{'que': 1}
-consiste:	{'en': 1}
-excitación:	{'al': 1}
-tocar:	{'o': 1}
-pensar:	{'en': 1}
-"Ratón:	{'Pérez"': 1}
-Pérez":	{'nace': 1}
-cuento:	{'escrito': 1}
-Coloma:	{'al': 1}
-rey:	{'Alfonso': 1}
-Alfonso:	{'XIII': 1}
-XIII:	{'cuando': 1}
-Quienes:	{'tienen': 1}
-sufrir:	{'cambios': 1}
-cambios:	{'hormonales': 1}
-hormonales:	{'con': 1}
-consecuente:	{'aumento': 1}
-aumento:	{'de': 1}
-cama:	{'promedio': 1}
-habitan:	{'seis': 1}
-seis:	{'mil': 1}
-mil:	{'millones': 1}
-ácaros:	{'del': 1}
-tía:	{'de': 1, 'mimi)': 1}
-John:	{'Lennon': 1}
-Lennon:	{'(la': 1}
-(la:	{'tía': 1}
-mimi):	{'siempre': 1}
-decía::	{'"La': 1}
-"La:	{'guitarra': 1}
-guitarra:	{'es': 1}
-pasatiempo,:	{'pero': 1}
-ayudará:	{'a': 1}
-conseguir:	{'dinero".': 1}
-377:	{'años': 1}
-astronomía:	{'moderna.': 1}
-moderna.:	{'Murió': 1}
-Murió:	{'el': 1}
-1642:	{'en': 1}
-Pisa,:	{'Italia,': 1}
-Italia,:	{'su': 1}
+filosofía.:	{'No': 1}
+deben:	{'ser': 1}
+consideradas:	{'un': 1}
+arma.:	{'Por': 1}
+eso,:	{'recuerda:': 1}
+recuerda::	{'¡No': 1}
+buen:	{'revólver!': 1}
+camino:	{'de': 1}
+sabiduría:	{'es': 1}
+largo::	{'Encontrarás': 1}
+Encontrarás:	{'la': 2}
+fuerza:	{'en': 1}
+Kioto.:	{'Encontrarás': 1}
+destreza:	{'en': 1}
+Kuwen.:	{'Pero': 1}
+Paz...:	{'Se': 1}
+Se:	{'encuentra': 1}
+encuentra:	{'en': 1}
+confianza:	{'mata': 1}
+embaraza:	{'a': 1}
+Cantata:	{'de': 2}
+planificación:	{'familiar': 2}
+familiar:	{'#LesLuthiersQ': 2}
+Hombre:	{'prevenido': 1}
+prevenido:	{'vale': 1}
+dos.:	{'Una': 1}
+pareja:	{'desprevenida': 1}
+desprevenida:	{'vale': 1}
+éramos:	{'jóvenes': 1}
+cientos:	{'nos': 1}
+concedían:	{'sus': 1}
+pasión,:	{'ahora': 1}
+ahora:	{'gracias': 1}
+compasión:	{'nos': 1}
+ceden:	{'el': 1}
+asiento.:	{'#LesLuthiersQ': 1}
+Si:	{'no': 1}
+ganamos:	{'estamos': 1}
+perdidos.:	{'La': 1}
+balada:	{'del': 1}
+séptimo:	{'regimiento': 1}
+regimiento:	{'#LesLuthiersQ': 1}
+esposa:	{'me': 1}
+dijo:	{'“pronto': 1}
+“pronto:	{'seremos': 1}
+seremos:	{'tres”...': 1}
+tres”...:	{'iba': 1}
+iba:	{'a': 1}
+amante.:	{'La': 1}
+nostalgia:	{'#LesLuthiersQ': 1}

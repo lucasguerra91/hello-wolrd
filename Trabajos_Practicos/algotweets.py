@@ -159,7 +159,7 @@ def generar_tweet(usuarios):
             usuarios_printable += usuarios[idx] + ' - '
 
         print(f"Generando tweet a partir de : {usuarios_printable}...")
-        time.sleep(2)
+        time.sleep(1)
 
         primer_palabra = random_choice(dic_p_inicial)
         tweet_generado += primer_palabra
@@ -190,9 +190,14 @@ def generar_tweet(usuarios):
                 # favoritos_csv = csv.writer(f)
                 f.write(tweet_generado + '\n')
             print(f"\nTweet guardado con éxito.!")
+        elif guardar == 'n':
+            print(f"Hasta luego..")
+        else:
+            raise Exception
     except IndexError:
         print(f"El usuario ingresado no se encuentra en la lista...")
-
+    except:
+        print(f"Entrada invalida")
 
 # ejecucion
 try:
