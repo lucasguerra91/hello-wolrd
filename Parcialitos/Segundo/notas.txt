@@ -1,0 +1,4 @@
+22.10-Algoritmos
+22.11-Bases de datos
+15.01-Analisis Matematico 1
+15.02-Analisis Matematico 2

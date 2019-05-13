@@ -1,48 +1,15 @@
 <component name="ProjectDictionaryState">
   <dictionary name="lguerra">
     <words>
-      <w>asignacion</w>
-      <w>caracter</w>
-      <w>catb</w>
-      <w>cnta</w>
-      <w>cntc</w>
-      <w>codigo</w>
-<<<<<<< HEAD
-      <w>colx</w>
-      <w>debbug</w>
-      <w>digitos</w>
-      <w>duracion</w>
+      <w>algun</w>
       <w>ejecucion</w>
-      <w>expresion</w>
-      <w>filax</w>
-      <w>funcion</w>
-      <w>gridsize</w>
-      <w>indice</w>
-      <w>instruccion</w>
-      <w>logico</w>
-      <w>mult</w>
-      <w>numeros</w>
-      <w>parametros</w>
-=======
-      <w>diag</w>
-      <w>digitos</w>
-      <w>duracion</w>
-      <w>ejecucion</w>
-      <w>instruccion</w>
-      <w>logico</w>
-      <w>minima</w>
-      <w>minimo</w>
-      <w>mult</w>
-      <w>numeros</w>
-      <w>parametros</w>
-      <w>perdia</w>
->>>>>>> a5c9647ef991a3c5c866c47010a72af9760d1022
-      <w>perimetro</w>
-      <w>rectangulo</w>
-      <w>reflejoojelfer</w>
-      <w>seleccion</w>
-      <w>separacion</w>
-      <w>ultimos</w>
+      <w>excepcion</w>
+      <w>hashtags</w>
+      <w>padron</w>
+      <w>proxima</w>
+      <w>representacion</w>
+      <w>traduccion</w>
+      <w>vacia</w>
     </words>
   </dictionary>
 </component>
