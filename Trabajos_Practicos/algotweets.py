@@ -43,14 +43,16 @@ def mostrar_trending(cantidad):
 
     # [:cantidad] con esto le pongo limite a la lista pero no me queda presentable para imprimir
     lista_hashtags_ordenada = list(sorted(tt, key=tt.get, reverse=True))
-    print(len(lista_hashtags_ordenada))
+    # print(len(lista_hashtags_ordenada))
 
+    print(f"\nEste es el top {cantidad} de #hashtags: \n")
     if cantidad > len(lista_hashtags_ordenada):
         for i in range(len(lista_hashtags_ordenada)):
-            print(lista_hashtags_ordenada[i])
+            print(' ' + lista_hashtags_ordenada[i] + '\n')
     else:
         for i in range(cantidad):
-            print(lista_hashtags_ordenada[i])
+            print(' ' + lista_hashtags_ordenada[i] + '\n')
+    print('\n')
 
 
 def generar_tweet(usuarios):
@@ -142,6 +144,7 @@ def generar_tweet(usuarios):
                         else:
                             dic_p_final[lista[i]] = 1
 
+        # para chequear lo que me esta armando
         with open('primeras.txt', 'w', encoding='utf-8') as f:
             for clave in dic_p_inicial.keys():
                 f.write(clave + ':' + str(dic_p_inicial[clave]) + '\n')
@@ -152,8 +155,8 @@ def generar_tweet(usuarios):
 
         usuarios_printable = ''
 
-        for i in range(len(usuarios)):
-            usuarios_printable += usuarios[i] + ' - '
+        for idx in range(len(usuarios)):
+            usuarios_printable += usuarios[idx] + ' - '
 
         print(f"Generando tweet a partir de : {usuarios_printable}...")
         time.sleep(2)
@@ -191,7 +194,6 @@ def generar_tweet(usuarios):
         print(f"El usuario ingresado no se encuentra en la lista...")
 
 
-
 # ejecucion
 try:
     if sys.argv[1] == 'trending':
@@ -213,6 +215,18 @@ try:
 
         generar_tweet(lista_usuarios)
 
+    elif sys.argv[1] == 'favoritos':
+        try:
+            if int(sys.argv[2]) < 0:
+                raise Exception
+            mostrar_trending(int(sys.argv[2]))
+        except IndexError:
+            print(f"Para utilizar la función favoritos es obligatorio indicar la cantidad de hashtags")
+        except ValueError:
+            print(f"Se debe ingresar un numero entero.")
+        except:
+            print(f"A que jugas? El numero entero ingresado debe ser positivo u.u ")
+
     else:
         raise Exception
 except IndexError:
@@ -221,6 +235,7 @@ except IndexError:
           f"\t* generar <usuario1> <usuarioN> - De no ingresar usuario se genera tweet en base a toda la db\n"
           f"\t* favoritos <cantidad de tweets>\n")
 
-#generar_tweet(['_ErnestoSabato', 'erescurioso'])
+
+# generar_tweet(['_ErnestoSabato', 'erescurioso'])
 
 
