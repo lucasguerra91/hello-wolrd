@@ -21,7 +21,7 @@ def buscar_elemento(lista, elemento):
     for i in range(len(lista)):
         if lista[i] == elemento:
             primer_aparicion = i+1
-    
+
     return coincidencias, primer_aparicion
 
 

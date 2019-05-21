@@ -50,7 +50,7 @@ class ListaEnlazada:
         else:
             # buscar los nodos en las posiciones (i-1) e (i)
             n_ant = self.prim
-            n_act = n_ant.prox
+            n_act = n_ant.prox 
 
             for pos in range(1, i):
                 n_ant = n_act
@@ -138,6 +138,24 @@ class ListaEnlazada:
             return True
         return False
 
+    def __index__(self, x):
+        """ Busca el indice de la primer aparicion de x dentro de la lista, si no esta
+        levanta ValueError"""
+        if self.existe_lista():
+            pos = 0
+            actual = self.prim
+
+            while actual:
+                if actual.dato == x:
+                    return pos
+                actual = actual.prox
+                pos += 1
+
+            raise ValueError(f"{x} no se encuentra dentro de la lista")
+
+        else:
+            raise ValueError("Lista vacía.")
+
 
 li = ListaEnlazada()
 
@@ -146,3 +164,4 @@ li.append(5)
 li.append('como')
 
 print(li)
+print(li.__index__('como'))
