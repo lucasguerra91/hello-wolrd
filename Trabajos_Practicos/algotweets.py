@@ -2,10 +2,7 @@ import sys
 import csv
 import random
 import time
-
-
-# print(sys.argv[0])
-# print(sys.argv[1])
+import datetime
 
 
 def random_choice(d):
@@ -14,12 +11,38 @@ def random_choice(d):
     return clave
 
 
+def mostrar_favoritos(cantidad):
+    lista_fav = []
+    contador = 0
+    if cantidad > 0:
+        with open('favoritos.csv', 'r', encoding='utf-8') as f:
+            favoritos_csv = reversed(list(csv.reader(f, delimiter=',')))
+            for tweet in favoritos_csv:
+                if contador < cantidad:
+                    lista_fav.append(str(tweet[1]).rstrip(','))
+                    contador += 1
+                else:
+                    break
+        print(f"\nUltimos {cantidad} favoritos: \n")
+        for i in range(len(lista_fav)):
+            print(f"- {lista_fav[i]} \n")
+    elif cantidad == 0:
+        with open('favoritos.csv', 'r', encoding='utf-8') as f:
+            favoritos_csv = reversed(list(csv.reader(f, delimiter=',')))
+            for tweet in favoritos_csv:
+                lista_fav.append(tweet[1])
+
+        print(f"\nLista de favoritos ordenados por mas reciente: \n")
+        for i in range(len(lista_fav)):
+            print(f"- {lista_fav[i]} \n")
+
+
 def mostrar_trending(cantidad):
     """
     Recibe como parametro la cantidad de #hashtags con mayor aparicion que el usuario desea visualizar y los
     muestra en pantalla
-    :param cantidad:
-    :return:
+    :param cantidad: numero entero (controlado antes de entrar). Cero para imprimir todos
+    :return:Imprime los $cantidad de hashtags mas utilizados,si $cantidad > len(tweets) o $cantidad = 0 : imprime todos
     """
     tt = {}
     lista_hashtags = []
@@ -57,7 +80,7 @@ def mostrar_trending(cantidad):
 
 def generar_tweet(usuarios):
     """
-
+    Genera un tweet en base a tweets anteriores de los usuarios indicados por consola
     :param usuarios: lista de los usuarios en base a los cuales se genera el tweet
     :return: se imprime el tweet generado y se pregunta si se lo quiere agregar a favoritos
     """
@@ -78,6 +101,7 @@ def generar_tweet(usuarios):
     usuarios_totales = []
     # Para hacerlo un poco mas realista, nadie escribe ni menos de 40 ni siempre los 280 caracteres
     longitud_tw = random.randrange(40, 280)
+    hora_actual = str(datetime.datetime.now())
 
     try:
         # ----------------- POR SI LA LISTA VIENE VACIA ------------------------
@@ -158,14 +182,15 @@ def generar_tweet(usuarios):
         for idx in range(len(usuarios)):
             usuarios_printable += usuarios[idx] + ' - '
 
-        print(f"Generando tweet a partir de : {usuarios_printable}...")
+        print(f"\nGenerando tweet a partir de : {usuarios_printable}...\n")
+
+        # Solo para que genere intriga
         time.sleep(1)
 
+        # Aca empieza el chiste de la función
         primer_palabra = random_choice(dic_p_inicial)
         tweet_generado += primer_palabra
-
         proxima_palabra = random_choice(dic_p_prox[primer_palabra])
-
         # print(f"DEBUGG - Proxima palabra : {proxima_palabra}")
 
         tweet_generado += ' ' + proxima_palabra
@@ -177,27 +202,27 @@ def generar_tweet(usuarios):
                 tweet_generado += ' ' + proxima_palabra
             else:
                 break
+
+        # No era necesario, pero a veces terminaba sin nada
         tweet_generado += '.'
-
         print(tweet_generado)
-        guardar = input('Desea guardar el tweet como favorito? [s/n] ')
-
-        # while guardar != 's' or guardar != 'n':
-        #     guardar = input('Desea guardar el tweet como favorito? s/n ')
+        guardar = input('\nDesea guardar el tweet como favorito? [s/n] ')
 
         if guardar == 's':
             with open('favoritos.csv', 'a', encoding='utf-8') as f:
                 # favoritos_csv = csv.writer(f)
-                f.write(tweet_generado + '\n')
+                f.write(hora_actual + ',' + tweet_generado + '\n')
             print(f"\nTweet guardado con éxito.!")
         elif guardar == 'n':
-            print(f"Hasta luego..")
+            print(f"\nHasta luego..")
         else:
             raise Exception
+
     except IndexError:
-        print(f"El usuario ingresado no se encuentra en la lista...")
+        print(f"[ATENCIÓN]El usuario ingresado no se encuentra en la lista...")
     except:
-        print(f"Entrada invalida")
+        print(f"[ATENCIÓN]Entrada invalida")
+
 
 # ejecucion
 try:
@@ -207,11 +232,11 @@ try:
                 raise Exception
             mostrar_trending(int(sys.argv[2]))
         except IndexError:
-            print(f"Para utilizar la función trending es obligatorio indicar la cantidad de hashtags")
+            print(f"[ATENCIÓN]Para utilizar la función trending es obligatorio indicar la cantidad de hashtags")
         except ValueError:
-            print(f"Se debe ingresar un numero entero.")
+            print(f"[ATENCIÓN]Se debe ingresar un numero entero.")
         except:
-            print(f"A que jugas? El numero entero ingresado debe ser positivo u.u ")
+            print(f"[ATENCIÓN]A que jugas? El numero entero ingresado debe ser positivo u.u ")
 
     elif sys.argv[1] == 'generar':
         lista_usuarios = []
@@ -222,19 +247,23 @@ try:
 
     elif sys.argv[1] == 'favoritos':
         try:
-            if int(sys.argv[2]) < 0:
+            if len(sys.argv) == 2:
+                mostrar_favoritos(0)
+            elif int(sys.argv[2]) < 0:
                 raise Exception
-            mostrar_trending(int(sys.argv[2]))
-        except IndexError:
-            print(f"Para utilizar la función favoritos es obligatorio indicar la cantidad de hashtags")
+            else:
+                mostrar_favoritos(int(sys.argv[2]))
+        # except IndexError:
+        #     print(f"Para utilizar la función favoritos es obligatorio indicar la cantidad de hashtags")
         except ValueError:
-            print(f"Se debe ingresar un numero entero.")
+            print(f"[ATENCIÓN]Se debe ingresar un numero entero.")
         except:
-            print(f"A que jugas? El numero entero ingresado debe ser positivo u.u ")
+            print(f"[ATENCIÓN]A que jugas? El numero entero ingresado debe ser positivo u.u ")
 
     else:
         raise Exception
 except IndexError:
+    print(f"\n[ATENCIÓN]")
     print(f"\nDebe introducir alguna de las siguientes funciones: \n"
           f"\t* trending <cantidad de hashtags>\n"
           f"\t* generar <usuario1> <usuarioN> - De no ingresar usuario se genera tweet en base a toda la db\n"
