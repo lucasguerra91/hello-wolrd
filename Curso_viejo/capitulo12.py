@@ -16,10 +16,12 @@ class Rectangulo:
 def imprimePunto(p):
     print('Los valores del punto',id(p),'son:')
     print('(' + str(p.x) + ',' + str(p.y) + ')')
+
 # Distancia entre dos puntos
 def distanciaPuntos(a,b):
     d = a.x * b.x + a.y * b.y
     return d
+
 
 def mismoPunto(p1,p2):
     return (p1.x==p2.x) and (p1.y==p2.y)
