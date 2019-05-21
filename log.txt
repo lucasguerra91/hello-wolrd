@@ -1,0 +1,108 @@
+* d06e12b - Tue May 21 10:37:14 2019 -0300 : retoques en Lista Enlazada - Pop y Remove 
+*   ce1a09f - Tue May 21 09:35:42 2019 -0300 : Merge branch 'master' of https://github.com/lucasguerra91/some-python 
+|\  
+| * 8a7eaf0 - Tue May 21 02:29:06 2019 -0300 : antes del 3er parcial 
+* | 3e82712 - Tue May 21 09:35:36 2019 -0300 : 21-05 
+|/  
+* 746cb22 - Mon May 13 11:05:30 2019 -0300 : algotweets - 11:05 
+* fcbd306 - Mon May 13 05:29:57 2019 -0300 : algotweets - 5:29 
+* 056b771 - Mon May 13 05:09:42 2019 -0300 : algotweets 
+* 5d422a3 - Thu May 9 19:15:49 2019 -0300 : sync 
+*   113b189 - Wed May 8 20:45:16 2019 -0300 : Merge branch 'master' of https://github.com/lucasguerra91/some-python 
+|\  
+| * 69fc34b - Wed May 8 20:43:44 2019 -0300 : para seguir en casa 
+* |   6f571d6 - Mon May 6 19:26:22 2019 -0300 : reverendo pull 
+|\ \  
+| |/  
+| * a5c9647 - Mon May 6 19:22:35 2019 -0300 : tp 
+| * bfb452e - Fri Apr 12 00:56:56 2019 -0300 : repaso parcial 
+| * ff0d71d - Mon Apr 1 19:40:38 2019 -0300 : correccion del ej2, faltaban los negativos 
+| * 73b953f - Mon Apr 1 13:27:58 2019 -0300 : ejercicio 6_9 
+| * 6d63c6b - Fri Mar 29 18:38:46 2019 -0300 : 4_2 y 4_3 
+| *   a76f6bd - Fri Mar 29 18:01:27 2019 -0300 : Merge branch 'master' of https://github.com/lucasguerra91/some-python 
+| |\  
+| | * 96b1fea - Sat Mar 23 14:40:20 2019 -0300 : Update 2_7.py 
+| * | fbec889 - Fri Mar 29 18:01:19 2019 -0300 : para pull viernes 29 
+| * | fc84128 - Fri Mar 22 20:30:25 2019 -0300 : viernes 22 
+| |/  
+* | 01c27fd - Mon May 6 19:23:58 2019 -0300 : antes del pull 
+|/  
+* 3f2d303 - Fri Mar 22 19:02:14 2019 -0300 : viernes22 
+*   21e7f01 - Fri Mar 22 08:30:29 2019 -0300 : Merge branch 'master' of https://github.com/lucasguerra91/some-python 
+|\  
+| * 5e3cb17 - Tue Mar 19 12:50:24 2019 -0300 : Update README.md 
+| * b70e476 - Tue Mar 19 12:49:19 2019 -0300 : Create README.md 
+* | 477eccf - Fri Mar 22 08:29:20 2019 -0300 : para push 
+* | b25530c - Fri Mar 22 08:27:30 2019 -0300 : me esta rompiendo las pelotas 
+|/  
+* 9be9e75 - Mon Mar 18 15:16:20 2019 -0300 : separando las carpetas de los ejercicios 
+* e7565f8 - Thu Mar 7 16:57:28 2019 -0300 : ej 6.8.3 
+* 3d76832 - Tue Mar 5 22:45:35 2019 -0300 : haciendo los ejercicios del capitulo 6 
+* d6d36fe - Fri Mar 1 16:45:47 2019 -0300 : empezando marzo 
+* 8bfe83b - Wed Feb 27 23:28:51 2019 -0300 : haciendo que corra en debian 
+* 49f9bf5 - Tue Feb 26 17:33:14 2019 -0300 : ajustes en el 5_7_6bis 
+* 373ac87 - Mon Feb 25 07:17:09 2019 -0300 : le saque los espacios a las carpetas e hice un par de ejercicios 
+*   1e8f344 - Sat Feb 23 13:27:38 2019 -0300 : Merge branch 'master' of https://github.com/lucasguerra91/some-python 
+|\  
+| * 2cbb3be - Wed Feb 20 23:32:53 2019 -0300 : ejercicio 5.3 
+| *   4daafa3 - Wed Feb 20 19:57:24 2019 -0300 : Merge branch 'master' of https://github.com/lucasguerra91/some-python 
+| |\  
+| * \   c5ed72e - Tue Feb 19 21:06:24 2019 -0300 : before pull 
+| |\ \  
+| * | | f517019 - Tue Feb 19 21:04:45 2019 -0300 : before pull 
+* | | | 9212271 - Sat Feb 23 13:26:56 2019 -0300 : terminando el cap 5 
+| |_|/  
+|/| |   
+* | | 4a604e6 - Wed Feb 20 17:41:39 2019 -0300 : ejercicio 5.3 
+| |/  
+|/|   
+* | e639eee - Tue Feb 19 21:03:19 2019 -0300 : capitulo 5 
+|/  
+* 276fa3c - Wed Feb 13 21:12:58 2019 -0300 : para seguir en casa 
+* f099b82 - Sat Feb 9 15:49:42 2019 -0300 : trabajo con modulos 
+* b8c5ef5 - Thu Jan 31 17:30:29 2019 -0300 : hice algunos ejercicios 
+*   4dfc4ac - Thu Jan 31 11:00:22 2019 -0300 : intentando pullear 
+|\  
+| * 10d72c2 - Thu Jan 31 01:01:15 2019 -0300 : apunte de la facu 
+| * e8a5cf4 - Thu Jan 31 00:21:25 2019 -0300 : Arreglando los capitulos viejos 
+* | bd91ba2 - Thu Jan 31 10:57:04 2019 -0300 : para pull 
+* |   34ecd24 - Tue Jul 31 09:28:40 2018 -0300 : Merge branch 'master' of https://github.com/lucasguerra91/some-python 
+|\ \  
+| |/  
+| * f02c73b - Mon Jul 30 23:27:13 2018 -0300 : employee class 
+| *   d9db5e6 - Mon Jul 30 21:32:10 2018 -0300 : Merge branch 'master' of https://github.com/lucasguerra91/some-python 
+| |\  
+| * \   a3a1c6e - Fri Jul 27 22:14:02 2018 -0300 : dale 
+| |\ \  
+| * | | 96677a1 - Fri Jul 27 22:12:38 2018 -0300 : dale 
+* | | | 79252f2 - Tue Jul 31 09:28:37 2018 -0300 : for pull 
+| |_|/  
+|/| |   
+* | | e333f35 - Mon Jul 30 17:35:44 2018 -0300 : to push 
+| |/  
+|/|   
+* |   94fea0c - Fri Jul 27 16:57:37 2018 -0300 : Merge branch 'master' of https://github.com/lucasguerra91/some-python 
+|\ \  
+| * | b7203e9 - Wed Jul 25 12:27:30 2018 -0300 : before pull 
+| |/  
+* | a25ea05 - Fri Jul 27 16:56:57 2018 -0300 : unittest 
+|/  
+*   9b679ab - Fri Jun 22 07:47:55 2018 -0300 : merge 
+|\  
+| *   fbdc48c - Fri Jun 22 07:41:52 2018 -0300 : dale 
+| |\  
+| * | f083be5 - Fri Jun 22 07:36:31 2018 -0300 : json 
+* | | 7321f53 - Fri Jun 22 07:46:35 2018 -0300 : asd 
+* | | 2130ee4 - Fri Jun 22 07:43:31 2018 -0300 : json 
+| |/  
+|/|   
+* | f6d3b73 - Wed Jun 13 11:44:20 2018 -0300 : gitignore 
+* |   f9a235b - Wed Jun 6 10:02:53 2018 -0300 : usando gitignore 
+|\ \  
+| |/  
+| * b79185a - Wed Jun 6 00:28:56 2018 -0300 : working with files 
+* | f6063ea - Wed Jun 6 09:56:15 2018 -0300 : para bajar 
+|/  
+* 44de2f1 - Tue Jun 5 01:25:11 2018 -0300 : Excepciones, try 
+* 5377276 - Tue Jun 5 00:32:26 2018 -0300 : pycharm 2018 
+* 5a98e6c - Thu Feb 2 12:03:30 2017 -0300 : Subiendo los primeros capitulos 

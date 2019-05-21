@@ -1,10 +1,4 @@
-class _Nodo:
-    def __init__(self, dato=None, prox=None):
-        self.dato = dato
-        self.prox = prox
-
-    def __str__(self):
-        return str(self.dato)
+import nodo as n
 
 
 class ListaEnlazada:
@@ -14,6 +8,8 @@ class ListaEnlazada:
         """ Crea una lista enlazada vacia"""
         # referencia al primer nodo (None si la lista esta vacia)
         self.prim = None
+        # referencia al ultimo
+        self.ultimo = None
         # cantidad de elementos de la lista
         self.len = 0
 
@@ -23,14 +19,15 @@ class ListaEnlazada:
     def __str__(self):
         lista = []
         actual = self.prim
-
         while actual:
             lista.append(str(actual))
-            # print(f"DEBUGG - se guardo {str(actual)} en la lista")
             actual = actual.prox
-            # print(f"DEBUGG - el actual es {str(actual)}")
-
         return str(lista)
+
+    def no_vacia(self):
+        if self.prim:
+            return True
+        return False
 
     def pop(self, i=None):
         """ Elimina el nodo en la posicion i, y devuelve el dato contenido.
@@ -50,7 +47,7 @@ class ListaEnlazada:
         else:
             # buscar los nodos en las posiciones (i-1) e (i)
             n_ant = self.prim
-            n_act = n_ant.prox 
+            n_act = n_ant.prox
 
             for pos in range(1, i):
                 n_ant = n_act
@@ -63,7 +60,7 @@ class ListaEnlazada:
         self.len -= 1
         return dato
 
-    def remove(self, x):
+    def remueve_por_valor(self, x):
         """Borra la primera aparicion del valor x en la lista.
         Si x no esta en la lista, levanta ValueError"""
 
@@ -76,72 +73,66 @@ class ListaEnlazada:
         else:
             # Busca el nodo anterior al que contiene x (n_ant)
             n_ant = self.prim
-            n_act = n_ant.prox
+            # n_act = n_ant.prox
 
-            while n_act is not None and n_act.dato != x:
-                n_ant = n_act
-                n_act = n_ant.prox
+            while n_ant.prox is not None and n_ant.prox.dato != x:
+                n_ant = n_ant.prox
 
-            if not n_act:
+            if not n_ant.prox:
                 raise ValueError("El valor no esta en la lista")
 
             # Descartar el nodo (nunca se borra en realidad)
-            n_ant.prox = n_act.prox
+            n_ant.prox = n_ant.prox.prox
         self.len -= 1
 
-    def insertar(self, i, x):
+    def insertar_en_pos(self, i, x):
         """ Inserta el elemento x en la posicion i.
         Si la posicion es invalida, levanta IndexError"""
 
         if i < 0 or i > self.len:
             raise IndexError('Posición inválida')
 
-        nuevo = _Nodo(x)
+        nuevo = n.Nodo(x)
 
         if i == 0:
             # Caso particular, insertar al principio
             nuevo.prox = self.prim
             self.prim = nuevo
+
         else:
             # Buscar el nodo anterior a la posicion deseada
-            n_ant = self.prim
+
+            anterior = self.prim
+            actual = anterior.prox
 
             for pos in range(1, i):
-                n_ant = n_ant.prox
+                anterior = anterior.prox
+                actual = actual.prox
 
             # Intercalar el nuevo nodo
-            nuevo.prox = n_ant.prox
-            n_ant.prox = nuevo
-
-        self.len -= 1
-
-    def append(self, x):
-        """ Agrega un elemento al final """
-        print(f"DEBUGG : ENTRO {x}")
-        nuevo = _Nodo(x)
-        if self.prim:
-            n_act = self.prim
-
-            while n_act.prox:
-                n_ant = n_act
-                n_act = n_ant.prox
-
-            n_act.prox = nuevo
-
-        else:
-            self.prim = nuevo
-
+            if anterior == self.ultimo:
+                print(f"{anterior}es ultimo")
+                anterior.prox = nuevo
+                self.ultimo = nuevo
+            else:
         self.len += 1
 
-    def existe_lista(self):
-        if self.prim:
-            return True
-        return False
+    def insertar_al_final(self, x):
+        """ Agrega un elemento al final ; si la lista esta vacia se actualiza el primero y el ultimo"""
+        # print(f"DEBUGG : ENTRO {x}")
+        nuevo = n.Nodo(x)
+
+        if self.no_vacia():
+            self.ultimo.prox = nuevo
+            self.ultimo = nuevo
+        else:
+            self.prim = self.ultimo = nuevo
+        self.len += 1
 
     def __index__(self, x):
         """ Busca el indice de la primer aparicion de x dentro de la lista, si no esta
         levanta ValueError"""
-        if self.existe_lista():
+        if self.no_vacia():
             pos = 0
             actual = self.prim
 
@@ -159,9 +150,10 @@ class ListaEnlazada:
 
 li = ListaEnlazada()
 
-li.append('Hola')
-li.append(5)
-li.append('como')
-
+li.insertar_al_final('Hola')
+li.insertar_al_final('Hola2')
+li.insertar_al_final('Hola3')
+li.insertar_en_pos(3, 'test')
 print(li)
-print(li.__index__('como'))
+print(li.prim)
+print(li.ultimo)
