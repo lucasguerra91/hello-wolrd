@@ -1,4 +1,5 @@
 import nodo as n
+import iterador_lista_enlazada as iter
 
 
 class ListaEnlazada:
@@ -23,6 +24,27 @@ class ListaEnlazada:
             lista.append(str(actual))
             actual = actual.prox
         return str(lista)
+
+    def __iter__(self):
+        return iter.IteradorListaEnlazada(self.prim)
+
+    def __index__(self, x):
+        """ Busca el indice de la primer aparicion de x dentro de la lista, si no esta
+        levanta ValueError"""
+        if self.no_vacia():
+            pos = 0
+            actual = self.prim
+
+            while actual:
+                if actual.dato == x:
+                    return pos
+                actual = actual.prox
+                pos += 1
+
+            raise ValueError(f"{x} no se encuentra dentro de la lista")
+
+        else:
+            raise ValueError("Lista vacía.")
 
     def no_vacia(self):
         if self.prim:
@@ -54,9 +76,13 @@ class ListaEnlazada:
                 n_act = n_ant.prox
 
             # Guardar el dato y descartar el nodo
-            dato = n_act.dato
-            n_ant.prox = n_act.prox
+            if n_act == self.ultimo:
+                n_ant.prox = None
+                self.ultimo = n_ant
+            else:
+                n_ant.prox = n_act.prox
 
+            dato = n_act.dato
         self.len -= 1
         return dato
 
@@ -73,16 +99,21 @@ class ListaEnlazada:
         else:
             # Busca el nodo anterior al que contiene x (n_ant)
             n_ant = self.prim
-            # n_act = n_ant.prox
+            n_act = n_ant.prox
 
-            while n_ant.prox is not None and n_ant.prox.dato != x:
+            while n_act is not None and n_act.dato != x:
                 n_ant = n_ant.prox
+                n_act = n_act.prox
 
-            if not n_ant.prox:
-                raise ValueError("El valor no esta en la lista")
+            if not n_act.prox and n_act.dato != x:
+                raise ValueError(f"El valor {n_act}no esta en la lista")
 
-            # Descartar el nodo (nunca se borra en realidad)
-            n_ant.prox = n_ant.prox.prox
+            if n_act == self.ultimo:
+                n_ant.prox = None
+                self.ultimo = n_ant
+            else:
+                n_ant.prox = n_act.prox
+
         self.len -= 1
 
     def insertar_en_pos(self, i, x):
@@ -111,10 +142,13 @@ class ListaEnlazada:
 
             # Intercalar el nuevo nodo
             if anterior == self.ultimo:
-                print(f"{anterior}es ultimo")
+                # print(f"{anterior}es ultimo")
                 anterior.prox = nuevo
                 self.ultimo = nuevo
             else:
+                anterior.prox = nuevo
+                nuevo.prox = actual
+
         self.len += 1
 
     def insertar_al_final(self, x):
@@ -129,31 +163,38 @@ class ListaEnlazada:
             self.prim = self.ultimo = nuevo
         self.len += 1
 
-    def __index__(self, x):
-        """ Busca el indice de la primer aparicion de x dentro de la lista, si no esta
-        levanta ValueError"""
-        if self.no_vacia():
-            pos = 0
-            actual = self.prim
-
-            while actual:
-                if actual.dato == x:
-                    return pos
-                actual = actual.prox
-                pos += 1
-
-            raise ValueError(f"{x} no se encuentra dentro de la lista")
-
-        else:
-            raise ValueError("Lista vacía.")
-
 
 li = ListaEnlazada()
 
 li.insertar_al_final('Hola')
 li.insertar_al_final('Hola2')
 li.insertar_al_final('Hola3')
+
+# Instertar en posicion
 li.insertar_en_pos(3, 'test')
+li.insertar_en_pos(3, 'test2')
+li.insertar_en_pos(3, 'test3')
+
+li.insertar_al_final('Hola4')
+
+# Remueve por valor el primero
+# li.remueve_por_valor('Hola')
+
+# Remueve por valor cualquier
+# li.remueve_por_valor('Hola2')
+
+# Remueve por valor el ultimo
+# li.remueve_por_valor('test')
+
+# pop , borra el ultimo
+li.pop()
+li.pop(2)
+
 print(li)
-print(li.prim)
-print(li.ultimo)
+for valor in li:
+    print(valor)
+
+print('\n')
+print(f"Primero : {li.prim}")
+print(f"Ultimo: {li.ultimo}")
+print(f"Longitud: {li.len}")
