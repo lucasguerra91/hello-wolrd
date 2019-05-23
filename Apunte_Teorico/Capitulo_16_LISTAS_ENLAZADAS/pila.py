@@ -13,4 +13,9 @@ class Pila:
     def apilar(self, x):
         self.items.append(x)
 
-    
+    def desapilar(self):
+        """ Devuelve el elemento tope y lo elimina de la pila.
+        Si la pila esta vacia levanta una excepcion """
+        if self.esta_vacia():
+            raise IndexError("La pila está vacía.")
+        return self.items.pop()
