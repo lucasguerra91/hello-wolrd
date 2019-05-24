@@ -34,14 +34,14 @@ def elimina_consecutivos_repetidos(pila):
     ultimo_agregado = pila.desapilar()
     pila_aux.apilar(ultimo_agregado)
 
-    for i in range(len(pila.items)):
+    while not pila.esta_vacia():
         dato = pila.desapilar()
 
         if dato != ultimo_agregado:
             pila_aux.apilar(dato)
             ultimo_agregado = dato
 
-    for i in range(len(pila_aux.items)):
+    while not pila_aux.esta_vacia():
         pila.apilar(pila_aux.desapilar())
 
 

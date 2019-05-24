@@ -31,7 +31,7 @@ def reemplazar_valor(pila, valor_nuevo, valor_viejo):
 
     pila_aux = Pila()
 
-    for i in range(len(pila.items)):
+    while not pila.esta_vacia():
         valor = pila.desapilar()
 
         if valor == valor_viejo:
@@ -39,7 +39,7 @@ def reemplazar_valor(pila, valor_nuevo, valor_viejo):
 
         pila_aux.apilar(valor)
 
-    for i in range(len(pila_aux.items)):
+    while not pila_aux.esta_vacia():
         pila.apilar(pila_aux.desapilar())
 
     return pila
