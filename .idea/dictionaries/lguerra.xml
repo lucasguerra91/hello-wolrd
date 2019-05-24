@@ -3,6 +3,8 @@
     <words>
       <w>algun</w>
       <w>aparicion</w>
+      <w>arribos</w>
+      <w>desapilar</w>
       <w>ejecucion</w>
       <w>evalua</w>
       <w>excepcion</w>
@@ -18,6 +20,7 @@
       <w>sgte</w>
       <w>traduccion</w>
       <w>vacia</w>
+      <w>vacias</w>
     </words>
   </dictionary>
 </component>

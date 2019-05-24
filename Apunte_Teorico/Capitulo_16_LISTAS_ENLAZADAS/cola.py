@@ -23,4 +23,4 @@ class Cola:
         """ Devuelve True si la cola esta vacía, False si no """
         return len(self.items) == 0
 
-    
+
