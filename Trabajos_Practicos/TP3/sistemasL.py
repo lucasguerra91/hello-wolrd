@@ -1,3 +1,7 @@
+import turtle
+import os
+
+
 def cargar_archivo(archivo):
     """
     Recibe el archivo del fractal, devuelve el angulo, axioma y lista de traducciones
@@ -33,6 +37,35 @@ def traducir(axioma, traducciones, cantidad):
     return axioma
 
 
+def dibujar_con_tortuga(secuencia, angulo):
+    """
+
+    :param secuencia:
+    :param angulo:
+    :return:
+    """
+
+    tortuga = turtle.Turtle()
+    for c in secuencia:
+
+        if c == 'F' or c == 'G':
+            tortuga.fd(1)
+
+        if c == 'f' or c == 'g':
+            tortuga.up()
+            tortuga.fd(1)
+            tortuga.down()
+
+        if c == '+':
+            tortuga.rt(angulo)
+
+        if c == '-':
+            tortuga.lt(angulo)
+
+        if c == '|':
+            tortuga.rt(180)
+
+
 def main(archivo, cantidad):
     """
 
@@ -41,10 +74,10 @@ def main(archivo, cantidad):
     angulo, axioma, traducciones = cargar_archivo(archivo)
     secuencia_comandos = traducir(axioma, traducciones, cantidad)
 
-    print(secuencia_comandos)
+    dibujar_con_tortuga(secuencia_comandos, angulo)
 
 
 # ejecucion
-main('sier2.sl', 2)
-
+main('arbol1.sl', 9)
+os.system('pause')
 
