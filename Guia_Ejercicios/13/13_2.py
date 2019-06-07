@@ -7,3 +7,33 @@ siempre elige entre los 3 caminos con la misma probabilidad, pero quiere su libe
 recorrerá los caminos hasta salir de la jaula.
 La función debe devolver el tiempo que tarda la rata en salir de la jaula.
 """
+import random
+
+
+def cuenta_rata():
+    """
+
+    :param
+    :return: tiempo que tarda la rata en salir de la jaula
+    """
+
+    contador = 0
+    camino = random.randint(1, 3)
+
+    if camino == 3:
+        return 7
+
+    if camino == 1:
+        contador += 3
+
+    if camino == 2:
+        contador += 5
+
+    if camino == 3:
+        contador += 7
+
+    return contador + cuenta_rata()
+
+
+# ejecucion
+print(cuenta_rata())
