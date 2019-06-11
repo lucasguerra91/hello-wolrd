@@ -6,18 +6,22 @@ posiciones_de("Un tete a tete con Tete", "te") -> [3, 5, 10, 12, 21]
 """
 
 
-def posiciones_de(a, b):
-    """
-    :param a: cadena
-    :param b: sub-cadena
-    :return: indices en los que subcadena aparece en cadena
-    """
+def _posiciones_de(a, b, lista=[], indice=0):
 
-    aparicion = a.rfind(b)
+    aparicion = a.find(b)
+
     if aparicion == -1:
-        return []
+        return lista
 
-    return posiciones_de(a[:aparicion], b) + [aparicion]
+    lista.append(aparicion + indice)
+
+    indice += aparicion + len(b)
+
+    return _posiciones_de(a[aparicion + len(b):], b, lista, indice)
+
+
+def posiciones_de(a, b):
+    return _posiciones_de(a, b)
 
 
 # ejecucion
