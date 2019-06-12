@@ -16,7 +16,7 @@ def ord_seleccion(lista):
         # intercambiar el valor que está en p con el valor que
         # está en la ultima posicion del segmento
         lista[p], lista[n] = lista[n], lista[p]
-        # print(f"DEBUG: {p} {n} {lista}")
+        print(f"DEBUG: cambia {lista[p]} por {lista[n]} y la lista queda asi: {lista}")
 
         # reducir el segmento en 1
         n = n - 1
@@ -38,7 +38,13 @@ def buscar_max(lista, a, b):
 
 
 # ejecucion
-lista = [12, 24, 33, 105, 1, 15, 44]
-print(lista)
-ord_seleccion(lista)
-print(lista)
+lista1 = [12, 24, 33, 105, 1, 15, 44]
+print(lista1)
+ord_seleccion(lista1)
+print(lista1)
+print('\n')
+
+lista2 = [1, 2, 3, 4, 5, 6, 7]
+print(lista2)
+ord_seleccion(lista2)
+print(lista2)
