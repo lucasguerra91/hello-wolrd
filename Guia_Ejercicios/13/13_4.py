@@ -10,7 +10,7 @@ def posiciones_de(a, b):
     """
     :param a: cadena
     :param b: sub-cadena
-    :return: indices en los que subcadena aparece en cadena
+    :return: lista de indices en los que subcadena aparece en cadena
     """
 
     aparicion = a.rfind(b)
@@ -22,3 +22,4 @@ def posiciones_de(a, b):
 
 # ejecucion
 print(posiciones_de("Un tete a tete con Tete", "te"))
+

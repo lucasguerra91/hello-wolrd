@@ -33,11 +33,11 @@ def reubicar(lista, p):
 
 
 # ejecucion
-lista1 = [12, 24, 33, 105, 1, 15, 44]
-print(lista1)
-ord_insercion(lista1)
-print(lista1)
-print('\n')
+# lista1 = [12, 24, 33, 105, 1, 15, 44]
+# print(lista1)
+# ord_insercion(lista1)
+# print(lista1)
+# print('\n')
 
 lista2 = [1, 2, 3, 4, 5, 6, 7]
 print(lista2)
