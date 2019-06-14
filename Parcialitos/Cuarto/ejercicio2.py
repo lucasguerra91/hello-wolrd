@@ -7,10 +7,10 @@ Por ejemplo, replicar ([1, 3, 3, 7], 2) debe devolver ([1, 1, 3, 3, 3, 3, 7, 7])
 
 def replicar(lista, n):
     """
-
-    :param lista:
-    :param n:
-    :return:
+    Recibe una lista y la cantidad de veces que debe replicarse cada elemento
+    :param lista: lista de elementos iguales
+    :param n: entero positivo
+    :return: nueva lista con elementos replicados n veces
     """
     nueva_lista = []
 
