@@ -8,10 +8,6 @@ def es_par(x):
         print('Es par')
 
 
-def es_primo(x):
-    """ Verifica si es primo """
-    
-
 def es_primo(n):
     if n > 1:
         for i in range(2, int(n**0.5)):
