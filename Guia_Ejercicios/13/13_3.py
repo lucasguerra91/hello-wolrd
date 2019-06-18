@@ -23,5 +23,7 @@ def es_potencia(a, b):
 
 
 # ejecucion
-print(es_potencia(6, 3))
+print(es_potencia(8, 2))
+print(es_potencia(64, 4))
+print(es_potencia(70, 10))
 

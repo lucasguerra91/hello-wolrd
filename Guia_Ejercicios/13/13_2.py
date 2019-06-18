@@ -29,9 +29,6 @@ def cuenta_rata():
     if camino == 2:
         contador += 5
 
-    if camino == 3:
-        contador += 7
-
     return contador + cuenta_rata()
 
 

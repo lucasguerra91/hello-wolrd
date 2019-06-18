@@ -2,6 +2,7 @@
   <dictionary name="lguerra">
     <words>
       <w>algun</w>
+      <w>angulo</w>
       <w>aparicion</w>
       <w>arribos</w>
       <w>desapilar</w>
@@ -15,6 +16,8 @@
       <w>notacion</w>
       <w>orientacion</w>
       <w>padron</w>
+      <w>palindromo</w>
+      <w>parametros</w>
       <w>posicion</w>
       <w>prox</w>
       <w>proxima</w>
@@ -22,6 +25,7 @@
       <w>representacion</w>
       <w>seleccion</w>
       <w>sgte</w>
+      <w>tortuguero</w>
       <w>traduccion</w>
       <w>ubicacion</w>
       <w>vacia</w>

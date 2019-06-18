@@ -1,23 +1,26 @@
 def es_palindromo(cadena):
     """
-
-    :param cadena:
-    :return:
+    Verifica si una cadena es palindromo
+    :param cadena: sin caracteres especiales , solo espacios (?)
+    :return: True o False
     """
-    fin = len(cadena) - 1
-    inicio = 0
+    c = cadena.replace(" ", "")
 
-    if len(cadena) == 1:
-        return 
-    if cadena[inicio] != cadena[fin]:
+    fin = len(c) - 1
+
+    if len(c) <= 1:
+        return True
+
+    if c[0] != c[fin]:
         return False
 
-    return es_palindromo(cadena[inicio + 1: fin - 1])
+    return es_palindromo(c[1: fin])
 
 
 # ejecucion
-cadena = "arepera"
-if es_palindromo(cadena):
+cadena1 = "amargor pleno con el programa"
+
+if es_palindromo(cadena1):
     print("Es palindromo")
 else:
     print("No es palindromo")
