@@ -27,25 +27,46 @@ class Cola:
         return len(self.items) == 0
 
 
-# # test
-# cola = Cola()
-# cola.encolar(1)
-# cola.encolar(2)
-# cola.encolar(3)
-# cola.encolar(4)
-# cola.encolar(5)
-#
-# print(cola)
-#
-# try:
-#     while not cola.esta_vacia():
-#
-#         a = cola.desencolar()
-#         b = cola.desencolar()
-#         c = a + b
-#         cola.encolar(c)
-# except:
-#     cola.encolar(a)
-# print(cola)
+def reducir(cola, funcion):
+    """
+
+    :param cola:
+    :param funcion:
+    :return:
+    """
+    if cola.esta_vacia():
+        return
+
+    try:
+        while not cola.esta_vacia():
+
+            a = cola.desencolar()
+            b = cola.desencolar()
+
+            c = funcion(a, b)
+
+            cola.encolar(c)
+
+    except:
+        return a
 
 
+def suma(a, b):
+    return a + b
+
+
+# test
+cola1 = Cola()
+
+cola1.encolar(1)
+cola1.encolar(1)
+cola1.encolar(1)
+cola1.encolar(1)
+cola1.encolar(1)
+cola1.encolar(1)
+cola1.encolar(1)
+cola1.encolar(1)
+
+print(cola1)
+
+print(reducir(cola1, suma))

@@ -1,5 +1,4 @@
-import nodo as n
-import iterador_lista_enlazada as iter_le
+from Parcialitos.Tercero import nodo as n
 
 
 class ListaEnlazada:
@@ -10,7 +9,7 @@ class ListaEnlazada:
         # referencia al primer nodo (None si la lista esta vacia)
         self.prim = None
         # referencia al ultimo
-        # self.ultimo = None
+        self.ultimo = None
         # cantidad de elementos de la lista
         self.len = 0
 
@@ -26,9 +25,6 @@ class ListaEnlazada:
             lista.append(str(actual))
             actual = actual.prox
         return str(lista)
-
-    def __iter__(self):
-        return iter.iter_le.IteradorListaEnlazada(self.prim)
 
     def __index__(self, x):
         """ Busca el indice de la primer aparicion de x dentro de la lista, si no esta
@@ -78,7 +74,11 @@ class ListaEnlazada:
                 n_act = n_ant.prox
 
             # Guardar el dato y descartar el nodo
-            n_ant.prox = n_act.prox
+            if n_act == self.ultimo:
+                n_ant.prox = None
+                self.ultimo = n_ant
+            else:
+                n_ant.prox = n_act.prox
 
             dato = n_act.dato
         self.len -= 1
@@ -106,7 +106,11 @@ class ListaEnlazada:
             if not n_act.prox and n_act.dato != x:
                 raise ValueError(f"El valor {n_act}no esta en la lista")
 
-            n_ant.prox = n_act.prox
+            if n_act == self.ultimo:
+                n_ant.prox = None
+                self.ultimo = n_ant
+            else:
+                n_ant.prox = n_act.prox
 
         self.len -= 1
 
@@ -135,60 +139,35 @@ class ListaEnlazada:
                 actual = actual.prox
 
             # Intercalar el nuevo nodo
-
-            anterior.prox = nuevo
-            nuevo.prox = actual
+            if anterior == self.ultimo:
+                # print(f"{anterior}es ultimo")
+                anterior.prox = nuevo
+                self.ultimo = nuevo
+            else:
+                anterior.prox = nuevo
+                nuevo.prox = actual
 
         self.len += 1
 
-    def append(self, x):
-        """ Agrega un elemento al final ; si la lista esta vacia se actualiza el primero """
+    def insertar_al_final(self, x):
+        """ Agrega un elemento al final ; si la lista esta vacia se actualiza el primero y el ultimo"""
         # print(f"DEBUGG : ENTRO {x}")
-
         nuevo = n.Nodo(x)
 
         if self.esta_vacia():
-            self.prim = nuevo
-            return
-
-        act = self.prim
-        while act.prox:
-            act = act.prox
-
-        act.prox = nuevo
+            self.prim = self.ultimo = nuevo
+        else:
+            self.ultimo.prox = nuevo
+            self.ultimo = nuevo
         self.len += 1
 
-    def suma_acumulativa(self):
-        """ Devuelve una lista enlazada con la suma acumulativa en cada nodo """
+    # Ej 11.7
+    def extend(self, otra):
+        """ Se extiende la lista con otra que se recibe como parametro """
 
-        nueva = ListaEnlazada()
+        if self.esta_vacia() or  otra.esta_vacia():
+            raise ValueError("Una de las listas esta vacia")
 
-        if self.esta_vacia():
-            return nueva
-
-        act = self.prim
-        suma_ac = 0
-
-        while act:
-            suma_ac += act.dato
-            nodo = n.Nodo(suma_ac)
-
-            nueva.append(nodo)
-            act = act.prox
-
-        return nueva
-
-
-# Ejecucion
-lista = ListaEnlazada()
-lista.append(1)
-lista.append(10)
-lista.append(100)
-lista.append(1000)
-lista.append(10000)
-lista.append(100000)
-
-print(lista)
-
-lista2 = lista.suma_acumulativa()
-print(lista2)
+        self.ultimo.prox = otra.prim
+        self.ultimo = otra.ultimo
+        self.len += otra.len

@@ -1,5 +1,5 @@
-import nodo as n
-import iterador_lista_enlazada as iter
+from Parcialitos.Tercero import nodo as n
+from Parcialitos.Tercero import iterador_lista_enlazada as iter
 
 
 class ListaEnlazada:
@@ -33,7 +33,7 @@ class ListaEnlazada:
     def __index__(self, x):
         """ Busca el indice de la primer aparicion de x dentro de la lista, si no esta
         levanta ValueError"""
-        if self.no_vacia():
+        if not self.esta_vacia():
             pos = 0
             actual = self.prim
 
@@ -48,10 +48,10 @@ class ListaEnlazada:
         else:
             raise ValueError("Lista vacía.")
 
-    def no_vacia(self):
+    def esta_vacia(self):
         if self.prim:
-            return True
-        return False
+            return False
+        return True
 
     def pop(self, i=None):
         """ Elimina el nodo en la posicion i, y devuelve el dato contenido.
@@ -158,7 +158,7 @@ class ListaEnlazada:
         # print(f"DEBUGG : ENTRO {x}")
         nuevo = n.Nodo(x)
 
-        if self.no_vacia():
+        if not self.esta_vacia():
             self.ultimo.prox = nuevo
             self.ultimo = nuevo
         else:
@@ -169,7 +169,7 @@ class ListaEnlazada:
     def extend(self, otra):
         """ Se extiende la lista con otra que se recibe como parametro """
 
-        if not self.no_vacia() or not otra.no_vacia():
+        if self.esta_vacia() or otra.esta_vacia():
             raise ValueError("Una de las listas esta vacia")
 
         self.ultimo.prox = otra.prim
@@ -181,7 +181,7 @@ class ListaEnlazada:
         """ Remueve todas las apariciones del elemento en la lista y devuelve la cantidad removida.
         Si esta vacia levanta error, si el elemento no esta levanta error """
 
-        if self.no_vacia():
+        if not self.esta_vacia():
             try:
                 borrados = 0
                 ant = None
@@ -217,7 +217,7 @@ class ListaEnlazada:
     # Ej 11.9
     def duplicar_elemento(self, elemento):
         """Recibe un elemento y duplica todas sus apariciones dentro de la lista """
-        if self.no_vacia():
+        if not self.esta_vacia():
             act = self.prim
             while act:
                 if act.dato == elemento:

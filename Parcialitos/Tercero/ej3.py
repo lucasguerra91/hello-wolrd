@@ -24,23 +24,22 @@ class ListaEnlazadaOrdenada:
         """
 
         nodo = Nodo(x)
-        print(f"DEBUGG -- ingresa {x} \n")
+
 
         if not self.primero:
             self.primero = nodo
-            print(f"DEBUGG -- se guarda {x} como primero \n")
             return
 
         if nodo.dato < self.primero.dato:
             nodo.prox = self.primero
             self.primero = nodo
-            print(f"DEBUGG -- se guarda {x} como primero \n")
             return
 
         act = self.primero
+
         while act.prox and nodo.dato > act.prox.dato:
             act = act.prox
-        print(f"salio del while actual:{act} actual.prox : {act.prox}")
+
         nodo.prox = act.prox
         act.prox = nodo
 
